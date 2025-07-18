@@ -1,0 +1,3241 @@
+Ano;Mês;UF;Precipitação Total;Temperatura Média
+2014;Janeiro;Distrito Federal;261.4;22.02
+2014;Fevereiro;Distrito Federal;283.0;21.75
+2014;Março;Distrito Federal;690.0;21.22
+2014;Abril;Distrito Federal;369.2;21.37
+2014;Maio;Distrito Federal;6.6;20.17
+2014;Junho;Distrito Federal;14.2;19.22
+2014;Julho;Distrito Federal;8.2;18.8
+2014;Agosto;Distrito Federal;0.0;20.82
+2014;Setembro;Distrito Federal;22.6;23.48
+2014;Outubro;Distrito Federal;273.8;20.44
+2014;Novembro;Distrito Federal;639.2;21.94
+2014;Dezembro;Distrito Federal;936.6;21.37
+2014;Janeiro;Goiás;2438.4;23.19
+2014;Fevereiro;Goiás;2604.6;21.75
+2014;Março;Goiás;3753.2;21.05
+2014;Abril;Goiás;2368.4;20.9
+2014;Maio;Goiás;273.6;21.19
+2014;Junho;Goiás;71.8;21.47
+2014;Julho;Goiás;676.4;21.09
+2014;Agosto;Goiás;3.8;23.23
+2014;Setembro;Goiás;825.6;25.21
+2014;Outubro;Goiás;1249.6;25.27
+2014;Novembro;Goiás;4580.2;23.91
+2014;Dezembro;Goiás;5244.4;22.34
+2014;Janeiro;Mato Grosso do Sul;3973.4;23.74
+2014;Fevereiro;Mato Grosso do Sul;3676.0;23.35
+2014;Março;Mato Grosso do Sul;5374.6;23.65
+2014;Abril;Mato Grosso do Sul;2127.6;21.92
+2014;Maio;Mato Grosso do Sul;3399.8;18.55
+2014;Junho;Mato Grosso do Sul;1345.6;19.01
+2014;Julho;Mato Grosso do Sul;2869.4;17.46
+2014;Agosto;Mato Grosso do Sul;293.8;20.54
+2014;Setembro;Mato Grosso do Sul;2690.2;23.69
+2014;Outubro;Mato Grosso do Sul;1386.6;24.69
+2014;Novembro;Mato Grosso do Sul;5447.2;24.31
+2014;Dezembro;Mato Grosso do Sul;4540.8;24.96
+2014;Janeiro;Mato Grosso;6146.6;21.23
+2014;Fevereiro;Mato Grosso;7253.8;20.23
+2014;Março;Mato Grosso;6659.4;21.57
+2014;Abril;Mato Grosso;3193.8;19.47
+2014;Maio;Mato Grosso;1482.8;19.63
+2014;Junho;Mato Grosso;323.6;22.27
+2014;Julho;Mato Grosso;536.4;21.12
+2014;Agosto;Mato Grosso;178.2;23.33
+2014;Setembro;Mato Grosso;2160.6;24.51
+2014;Outubro;Mato Grosso;2305.4;23.07
+2014;Novembro;Mato Grosso;5202.8;22.67
+2014;Dezembro;Mato Grosso;7709.0;22.74
+2014;Janeiro;Alagoas;186.2;26.5
+2014;Fevereiro;Alagoas;320.2;26.52
+2014;Março;Alagoas;248.8;26.9
+2014;Abril;Alagoas;525.2;26.71
+2014;Maio;Alagoas;894.2;24.85
+2014;Junho;Alagoas;514.2;24.08
+2014;Julho;Alagoas;675.6;22.13
+2014;Agosto;Alagoas;613.8;22.82
+2014;Setembro;Alagoas;565.0;23.74
+2014;Outubro;Alagoas;915.4;20.22
+2014;Novembro;Alagoas;192.6;24.64
+2014;Dezembro;Alagoas;84.0;26.64
+2014;Janeiro;Bahia;1776.2;24.77
+2014;Fevereiro;Bahia;2858.0;24.59
+2014;Março;Bahia;3274.4;24.0
+2014;Abril;Bahia;2948.6;23.05
+2014;Maio;Bahia;2321.8;22.57
+2014;Junho;Bahia;2182.2;20.86
+2014;Julho;Bahia;2699.4;21.66
+2014;Agosto;Bahia;1082.6;22.27
+2014;Setembro;Bahia;1168.8;23.84
+2014;Outubro;Bahia;1661.8;24.44
+2014;Novembro;Bahia;4678.6;23.3
+2014;Dezembro;Bahia;5912.4;23.07
+2014;Janeiro;Ceará;692.8;27.28
+2014;Fevereiro;Ceará;1055.0;26.55
+2014;Março;Ceará;1851.0;26.36
+2014;Abril;Ceará;1645.0;24.63
+2014;Maio;Ceará;1147.6;24.58
+2014;Junho;Ceará;305.8;26.41
+2014;Julho;Ceará;169.4;26.38
+2014;Agosto;Ceará;15.0;26.89
+2014;Setembro;Ceará;105.6;23.91
+2014;Outubro;Ceará;172.0;24.36
+2014;Novembro;Ceará;321.0;26.49
+2014;Dezembro;Ceará;200.2;27.39
+2014;Janeiro;Maranhão;2484.0;26.14
+2014;Fevereiro;Maranhão;3326.8;25.94
+2014;Março;Maranhão;3346.0;26.15
+2014;Abril;Maranhão;3339.2;26.16
+2014;Maio;Maranhão;3501.2;26.36
+2014;Junho;Maranhão;676.2;25.4
+2014;Julho;Maranhão;203.0;25.81
+2014;Agosto;Maranhão;137.6;26.41
+2014;Setembro;Maranhão;244.0;28.0
+2014;Outubro;Maranhão;499.2;26.15
+2014;Novembro;Maranhão;868.2;21.98
+2014;Dezembro;Maranhão;1146.2;21.43
+2014;Janeiro;Paraíba;399.0;26.12
+2014;Fevereiro;Paraíba;747.0;25.69
+2014;Março;Paraíba;1185.6;25.89
+2014;Abril;Paraíba;769.0;25.94
+2014;Maio;Paraíba;1095.0;24.72
+2014;Junho;Paraíba;794.6;23.95
+2014;Julho;Paraíba;619.4;22.95
+2014;Agosto;Paraíba;216.6;23.03
+2014;Setembro;Paraíba;743.0;21.31
+2014;Outubro;Paraíba;295.8;23.17
+2014;Novembro;Paraíba;139.0;25.97
+2014;Dezembro;Paraíba;192.8;25.71
+2014;Janeiro;Pernambuco;250.2;25.97
+2014;Fevereiro;Pernambuco;876.4;25.38
+2014;Março;Pernambuco;666.8;24.58
+2014;Abril;Pernambuco;1299.2;25.73
+2014;Maio;Pernambuco;1180.8;24.03
+2014;Junho;Pernambuco;624.0;21.61
+2014;Julho;Pernambuco;634.6;20.64
+2014;Agosto;Pernambuco;458.6;22.63
+2014;Setembro;Pernambuco;555.6;24.23
+2014;Outubro;Pernambuco;725.2;25.0
+2014;Novembro;Pernambuco;407.6;26.03
+2014;Dezembro;Pernambuco;336.0;25.98
+2014;Janeiro;Piauí;877.0;27.04
+2014;Fevereiro;Piauí;2166.8;26.25
+2014;Março;Piauí;2358.0;25.77
+2014;Abril;Piauí;2332.6;24.46
+2014;Maio;Piauí;1384.8;25.28
+2014;Junho;Piauí;267.0;26.79
+2014;Julho;Piauí;43.6;26.51
+2014;Agosto;Piauí;10.6;27.19
+2014;Setembro;Piauí;52.0;27.28
+2014;Outubro;Piauí;365.4;26.9
+2014;Novembro;Piauí;1319.6;25.4
+2014;Dezembro;Piauí;900.6;24.36
+2014;Janeiro;Rio Grande do Norte;168.4;23.87
+2014;Fevereiro;Rio Grande do Norte;228.0;20.9
+2014;Março;Rio Grande do Norte;460.0;19.6
+2014;Abril;Rio Grande do Norte;355.8;20.03
+2014;Maio;Rio Grande do Norte;810.0;21.06
+2014;Junho;Rio Grande do Norte;897.2;20.74
+2014;Julho;Rio Grande do Norte;451.0;21.5
+2014;Agosto;Rio Grande do Norte;118.0;23.18
+2014;Setembro;Rio Grande do Norte;237.6;23.54
+2014;Outubro;Rio Grande do Norte;62.4;22.81
+2014;Novembro;Rio Grande do Norte;52.8;20.85
+2014;Dezembro;Rio Grande do Norte;32.4;17.97
+2014;Janeiro;Sergipe;79.8;26.31
+2014;Fevereiro;Sergipe;196.8;22.99
+2014;Março;Sergipe;277.2;25.88
+2014;Abril;Sergipe;697.6;26.22
+2014;Maio;Sergipe;642.2;23.43
+2014;Junho;Sergipe;604.4;22.02
+2014;Julho;Sergipe;642.4;22.57
+2014;Agosto;Sergipe;286.4;21.6
+2014;Setembro;Sergipe;227.4;23.82
+2014;Outubro;Sergipe;381.2;24.6
+2014;Novembro;Sergipe;380.8;25.4
+2014;Dezembro;Sergipe;125.6;25.83
+2014;Janeiro;Acre;918.6;12.78
+2014;Fevereiro;Acre;826.2;14.21
+2014;Março;Acre;1463.4;16.64
+2014;Abril;Acre;846.6;16.75
+2014;Maio;Acre;594.6;15.12
+2014;Junho;Acre;159.8;12.08
+2014;Julho;Acre;32.2;11.9
+2014;Agosto;Acre;181.2;13.66
+2014;Setembro;Acre;294.6;10.35
+2014;Outubro;Acre;289.4;8.7
+2014;Novembro;Acre;814.6;12.45
+2014;Dezembro;Acre;1235.4;23.89
+2014;Janeiro;Amazonas;4136.2;24.69
+2014;Fevereiro;Amazonas;4462.2;23.13
+2014;Março;Amazonas;5598.8;21.41
+2014;Abril;Amazonas;4221.0;22.83
+2014;Maio;Amazonas;3769.0;21.59
+2014;Junho;Amazonas;2366.6;21.87
+2014;Julho;Amazonas;1316.0;21.36
+2014;Agosto;Amazonas;1270.8;22.17
+2014;Setembro;Amazonas;802.0;24.69
+2014;Outubro;Amazonas;2888.0;24.54
+2014;Novembro;Amazonas;3320.0;24.73
+2014;Dezembro;Amazonas;2986.2;23.07
+2014;Janeiro;Amapá;640.4;25.35
+2014;Fevereiro;Amapá;497.4;25.01
+2014;Março;Amapá;360.8;25.43
+2014;Abril;Amapá;312.8;25.76
+2014;Maio;Amapá;383.2;25.63
+2014;Junho;Amapá;382.0;23.86
+2014;Julho;Amapá;151.2;24.27
+2014;Agosto;Amapá;15.2;26.34
+2014;Setembro;Amapá;47.6;27.19
+2014;Outubro;Amapá;65.0;27.46
+2014;Novembro;Amapá;66.6;27.2
+2014;Dezembro;Amapá;21.0;26.66
+2014;Janeiro;Pará;3665.8;21.36
+2014;Fevereiro;Pará;5485.8;21.83
+2014;Março;Pará;5710.6;24.09
+2014;Abril;Pará;4599.4;22.25
+2014;Maio;Pará;3032.8;21.82
+2014;Junho;Pará;1959.2;23.87
+2014;Julho;Pará;1108.2;23.02
+2014;Agosto;Pará;609.8;22.94
+2014;Setembro;Pará;668.8;23.83
+2014;Outubro;Pará;1284.6;24.5
+2014;Novembro;Pará;1317.0;24.57
+2014;Dezembro;Pará;1983.8;24.0
+2014;Janeiro;Rondônia;1453.4;24.72
+2014;Fevereiro;Rondônia;1267.4;24.79
+2014;Março;Rondônia;1205.0;25.28
+2014;Abril;Rondônia;633.2;25.51
+2014;Maio;Rondônia;616.6;24.96
+2014;Junho;Rondônia;64.2;24.97
+2014;Julho;Rondônia;95.4;24.66
+2014;Agosto;Rondônia;133.8;26.35
+2014;Setembro;Rondônia;380.8;27.35
+2014;Outubro;Rondônia;565.6;25.63
+2014;Novembro;Rondônia;881.2;19.52
+2014;Dezembro;Rondônia;752.2;14.26
+2014;Janeiro;Roraima;3.6;28.04
+2014;Fevereiro;Roraima;17.0;28.25
+2014;Março;Roraima;22.0;25.92
+2014;Abril;Roraima;1.4;3.66
+2014;Maio;Roraima;59.0;28.39
+2014;Junho;Roraima;312.8;26.15
+2014;Julho;Roraima;0.0;26.31
+2014;Agosto;Roraima;153.4;26.5
+2014;Setembro;Roraima;28.8;28.86
+2014;Outubro;Roraima;0.0;28.12
+2014;Novembro;Roraima;0.0;28.26
+2014;Dezembro;Roraima;0.0;28.44
+2014;Janeiro;Tocantins;2108.6;22.58
+2014;Fevereiro;Tocantins;2866.8;22.9
+2014;Março;Tocantins;2618.8;24.01
+2014;Abril;Tocantins;1872.8;25.52
+2014;Maio;Tocantins;646.2;25.94
+2014;Junho;Tocantins;10.4;25.3
+2014;Julho;Tocantins;14.4;24.96
+2014;Agosto;Tocantins;9.8;25.28
+2014;Setembro;Tocantins;475.8;24.38
+2014;Outubro;Tocantins;1526.0;26.88
+2014;Novembro;Tocantins;2184.8;25.76
+2014;Dezembro;Tocantins;2620.6;24.99
+2014;Janeiro;Espírito Santo;361.0;22.52
+2014;Fevereiro;Espírito Santo;592.8;23.02
+2014;Março;Espírito Santo;859.0;24.92
+2014;Abril;Espírito Santo;848.4;23.08
+2014;Maio;Espírito Santo;175.6;20.16
+2014;Junho;Espírito Santo;369.2;19.72
+2014;Julho;Espírito Santo;606.8;19.77
+2014;Agosto;Espírito Santo;593.6;20.27
+2014;Setembro;Espírito Santo;250.4;21.94
+2014;Outubro;Espírito Santo;1178.2;22.35
+2014;Novembro;Espírito Santo;1139.2;22.98
+2014;Dezembro;Espírito Santo;810.4;23.47
+2014;Janeiro;Minas Gerais;3879.2;22.84
+2014;Fevereiro;Minas Gerais;3238.2;23.34
+2014;Março;Minas Gerais;6220.0;22.61
+2014;Abril;Minas Gerais;4025.2;22.24
+2014;Maio;Minas Gerais;732.6;19.79
+2014;Junho;Minas Gerais;652.2;18.87
+2014;Julho;Minas Gerais;1928.4;18.31
+2014;Agosto;Minas Gerais;492.6;18.94
+2014;Setembro;Minas Gerais;941.6;21.78
+2014;Outubro;Minas Gerais;3698.8;23.25
+2014;Novembro;Minas Gerais;11140.4;21.58
+2014;Dezembro;Minas Gerais;8679.0;22.16
+2014;Janeiro;Rio de Janeiro;1117.8;23.94
+2014;Fevereiro;Rio de Janeiro;882.0;24.33
+2014;Março;Rio de Janeiro;2252.4;24.03
+2014;Abril;Rio de Janeiro;2302.4;22.11
+2014;Maio;Rio de Janeiro;895.2;19.12
+2014;Junho;Rio de Janeiro;785.2;18.31
+2014;Julho;Rio de Janeiro;1361.6;17.22
+2014;Agosto;Rio de Janeiro;668.4;19.09
+2014;Setembro;Rio de Janeiro;719.4;20.85
+2014;Outubro;Rio de Janeiro;1229.0;21.56
+2014;Novembro;Rio de Janeiro;2258.0;22.71
+2014;Dezembro;Rio de Janeiro;1641.4;24.6
+2014;Janeiro;São Paulo;3085.6;21.63
+2014;Fevereiro;São Paulo;2540.6;21.84
+2014;Março;São Paulo;3154.4;19.65
+2014;Abril;São Paulo;2119.6;19.68
+2014;Maio;São Paulo;1269.8;17.95
+2014;Junho;São Paulo;564.6;17.84
+2014;Julho;São Paulo;1185.4;16.19
+2014;Agosto;São Paulo;554.2;17.99
+2014;Setembro;São Paulo;2610.8;19.74
+2014;Outubro;São Paulo;1216.0;22.2
+2014;Novembro;São Paulo;4811.8;21.28
+2014;Dezembro;São Paulo;6065.2;23.38
+2014;Janeiro;Paraná;3829.2;23.41
+2014;Fevereiro;Paraná;2833.2;23.56
+2014;Março;Paraná;4294.4;21.03
+2014;Abril;Paraná;2384.6;18.73
+2014;Maio;Paraná;2396.2;16.37
+2014;Junho;Paraná;3857.2;16.27
+2014;Julho;Paraná;1823.6;15.01
+2014;Agosto;Paraná;1132.6;17.12
+2014;Setembro;Paraná;4022.6;17.96
+2014;Outubro;Paraná;1089.6;21.28
+2014;Novembro;Paraná;2624.8;21.73
+2014;Dezembro;Paraná;3264.2;22.16
+2014;Janeiro;Rio Grande do Sul;6428.6;22.69
+2014;Fevereiro;Rio Grande do Sul;6636.2;22.29
+2014;Março;Rio Grande do Sul;6796.0;19.86
+2014;Abril;Rio Grande do Sul;4111.2;18.55
+2014;Maio;Rio Grande do Sul;4908.4;14.1
+2014;Junho;Rio Grande do Sul;6658.2;10.92
+2014;Julho;Rio Grande do Sul;4731.4;12.45
+2014;Agosto;Rio Grande do Sul;2979.0;14.01
+2014;Setembro;Rio Grande do Sul;8057.4;15.66
+2014;Outubro;Rio Grande do Sul;5987.0;17.85
+2014;Novembro;Rio Grande do Sul;3569.4;20.21
+2014;Dezembro;Rio Grande do Sul;7644.0;21.65
+2014;Janeiro;Santa Catarina;3771.2;22.79
+2014;Fevereiro;Santa Catarina;2463.6;22.79
+2014;Março;Santa Catarina;3393.4;20.4
+2014;Abril;Santa Catarina;2457.6;18.4
+2014;Maio;Santa Catarina;1677.6;14.3
+2014;Junho;Santa Catarina;4152.8;12.52
+2014;Julho;Santa Catarina;1128.6;13.44
+2014;Agosto;Santa Catarina;1704.2;15.07
+2014;Setembro;Santa Catarina;4234.0;16.97
+2014;Outubro;Santa Catarina;1721.0;19.71
+2014;Novembro;Santa Catarina;3125.8;20.09
+2014;Dezembro;Santa Catarina;4835.4;21.16
+2015;Janeiro;Distrito Federal;239.4;22.75
+2015;Fevereiro;Distrito Federal;470.4;21.83
+2015;Março;Distrito Federal;875.0;20.79
+2015;Abril;Distrito Federal;714.8;21.65
+2015;Maio;Distrito Federal;102.4;19.99
+2015;Junho;Distrito Federal;0.0;19.29
+2015;Julho;Distrito Federal;4.2;19.82
+2015;Agosto;Distrito Federal;0.0;20.35
+2015;Setembro;Distrito Federal;59.4;22.92
+2015;Outubro;Distrito Federal;244.6;25.32
+2015;Novembro;Distrito Federal;478.2;23.49
+2015;Dezembro;Distrito Federal;489.0;23.15
+2015;Janeiro;Goiás;1786.8;23.52
+2015;Fevereiro;Goiás;3950.6;21.5
+2015;Março;Goiás;4990.2;20.78
+2015;Abril;Goiás;2835.6;21.61
+2015;Maio;Goiás;1120.2;21.24
+2015;Junho;Goiás;161.8;21.11
+2015;Julho;Goiás;176.4;21.1
+2015;Agosto;Goiás;76.0;22.41
+2015;Setembro;Goiás;624.2;25.16
+2015;Outubro;Goiás;1565.2;26.28
+2015;Novembro;Goiás;3528.6;24.98
+2015;Dezembro;Goiás;2845.0;23.77
+2015;Janeiro;Mato Grosso do Sul;3248.6;26.15
+2015;Fevereiro;Mato Grosso do Sul;4064.4;24.77
+2015;Março;Mato Grosso do Sul;2937.8;23.3
+2015;Abril;Mato Grosso do Sul;2395.2;21.93
+2015;Maio;Mato Grosso do Sul;3470.6;20.26
+2015;Junho;Mato Grosso do Sul;943.0;18.53
+2015;Julho;Mato Grosso do Sul;1795.4;17.35
+2015;Agosto;Mato Grosso do Sul;402.6;22.06
+2015;Setembro;Mato Grosso do Sul;3673.4;22.31
+2015;Outubro;Mato Grosso do Sul;3439.0;25.51
+2015;Novembro;Mato Grosso do Sul;5529.0;24.46
+2015;Dezembro;Mato Grosso do Sul;4597.8;22.92
+2015;Janeiro;Mato Grosso;4034.2;22.16
+2015;Fevereiro;Mato Grosso;5047.6;21.6
+2015;Março;Mato Grosso;4288.8;21.33
+2015;Abril;Mato Grosso;3421.2;20.21
+2015;Maio;Mato Grosso;1514.2;20.25
+2015;Junho;Mato Grosso;148.0;18.92
+2015;Julho;Mato Grosso;281.0;18.37
+2015;Agosto;Mato Grosso;257.6;20.34
+2015;Setembro;Mato Grosso;992.0;23.3
+2015;Outubro;Mato Grosso;2277.4;23.87
+2015;Novembro;Mato Grosso;3907.2;24.35
+2015;Dezembro;Mato Grosso;4275.4;23.54
+2015;Janeiro;Alagoas;161.6;26.97
+2015;Fevereiro;Alagoas;319.6;26.84
+2015;Março;Alagoas;207.2;25.28
+2015;Abril;Alagoas;150.0;25.97
+2015;Maio;Alagoas;709.4;27.2
+2015;Junho;Alagoas;1323.4;22.23
+2015;Julho;Alagoas;1000.2;21.59
+2015;Agosto;Alagoas;402.2;24.18
+2015;Setembro;Alagoas;211.4;25.5
+2015;Outubro;Alagoas;152.8;26.36
+2015;Novembro;Alagoas;21.8;27.83
+2015;Dezembro;Alagoas;276.0;27.6
+2015;Janeiro;Bahia;1263.6;24.6
+2015;Fevereiro;Bahia;4117.4;23.25
+2015;Março;Bahia;1864.6;23.58
+2015;Abril;Bahia;3759.0;22.27
+2015;Maio;Bahia;2906.2;22.43
+2015;Junho;Bahia;3960.0;20.97
+2015;Julho;Bahia;2257.8;20.27
+2015;Agosto;Bahia;1629.2;19.69
+2015;Setembro;Bahia;373.0;23.52
+2015;Outubro;Bahia;1105.8;25.74
+2015;Novembro;Bahia;1580.4;26.75
+2015;Dezembro;Bahia;758.4;26.67
+2015;Janeiro;Ceará;504.0;24.85
+2015;Fevereiro;Ceará;1497.4;23.05
+2015;Março;Ceará;2734.0;23.65
+2015;Abril;Ceará;1973.0;23.5
+2015;Maio;Ceará;843.4;25.08
+2015;Junho;Ceará;577.8;25.34
+2015;Julho;Ceará;716.6;21.66
+2015;Agosto;Ceará;35.6;24.96
+2015;Setembro;Ceará;66.6;27.51
+2015;Outubro;Ceará;19.0;26.43
+2015;Novembro;Ceará;11.8;27.42
+2015;Dezembro;Ceará;282.2;27.62
+2015;Janeiro;Maranhão;1208.4;23.22
+2015;Fevereiro;Maranhão;2273.4;22.8
+2015;Março;Maranhão;3293.0;22.0
+2015;Abril;Maranhão;2347.2;21.41
+2015;Maio;Maranhão;1529.2;20.05
+2015;Junho;Maranhão;469.2;21.41
+2015;Julho;Maranhão;357.6;23.02
+2015;Agosto;Maranhão;29.8;23.07
+2015;Setembro;Maranhão;65.8;25.51
+2015;Outubro;Maranhão;289.6;26.07
+2015;Novembro;Maranhão;232.4;28.15
+2015;Dezembro;Maranhão;489.2;23.88
+2015;Janeiro;Paraíba;188.2;23.67
+2015;Fevereiro;Paraíba;489.6;22.26
+2015;Março;Paraíba;823.2;23.54
+2015;Abril;Paraíba;303.8;22.48
+2015;Maio;Paraíba;136.4;24.94
+2015;Junho;Paraíba;840.8;23.34
+2015;Julho;Paraíba;1418.8;22.94
+2015;Agosto;Paraíba;197.8;24.0
+2015;Setembro;Paraíba;107.8;25.2
+2015;Outubro;Paraíba;59.2;25.68
+2015;Novembro;Paraíba;11.4;25.39
+2015;Dezembro;Paraíba;532.6;23.17
+2015;Janeiro;Pernambuco;109.2;24.24
+2015;Fevereiro;Pernambuco;444.2;24.3
+2015;Março;Pernambuco;670.0;24.99
+2015;Abril;Pernambuco;275.2;25.26
+2015;Maio;Pernambuco;467.6;25.56
+2015;Junho;Pernambuco;1111.4;21.48
+2015;Julho;Pernambuco;1228.4;21.1
+2015;Agosto;Pernambuco;363.4;23.37
+2015;Setembro;Pernambuco;162.0;24.5
+2015;Outubro;Pernambuco;57.6;24.7
+2015;Novembro;Pernambuco;48.4;26.45
+2015;Dezembro;Pernambuco;530.0;25.93
+2015;Janeiro;Piauí;631.2;21.91
+2015;Fevereiro;Piauí;1914.4;20.73
+2015;Março;Piauí;2616.2;24.27
+2015;Abril;Piauí;1814.0;23.91
+2015;Maio;Piauí;589.0;23.61
+2015;Junho;Piauí;142.8;24.76
+2015;Julho;Piauí;109.0;27.04
+2015;Agosto;Piauí;9.2;26.65
+2015;Setembro;Piauí;19.8;29.61
+2015;Outubro;Piauí;240.6;30.4
+2015;Novembro;Piauí;625.0;30.0
+2015;Dezembro;Piauí;292.0;29.58
+2015;Janeiro;Rio Grande do Norte;52.6;19.07
+2015;Fevereiro;Rio Grande do Norte;265.0;16.68
+2015;Março;Rio Grande do Norte;1015.4;20.09
+2015;Abril;Rio Grande do Norte;456.6;20.7
+2015;Maio;Rio Grande do Norte;163.8;24.06
+2015;Junho;Rio Grande do Norte;600.8;23.39
+2015;Julho;Rio Grande do Norte;635.4;22.81
+2015;Agosto;Rio Grande do Norte;58.0;23.21
+2015;Setembro;Rio Grande do Norte;29.4;23.84
+2015;Outubro;Rio Grande do Norte;10.2;24.12
+2015;Novembro;Rio Grande do Norte;0.6;22.44
+2015;Dezembro;Rio Grande do Norte;106.2;17.82
+2015;Janeiro;Sergipe;77.6;26.53
+2015;Fevereiro;Sergipe;262.4;26.73
+2015;Março;Sergipe;244.2;23.59
+2015;Abril;Sergipe;412.8;21.65
+2015;Maio;Sergipe;1084.6;20.72
+2015;Junho;Sergipe;824.0;23.89
+2015;Julho;Sergipe;771.8;23.25
+2015;Agosto;Sergipe;331.8;22.73
+2015;Setembro;Sergipe;144.0;24.46
+2015;Outubro;Sergipe;132.2;25.31
+2015;Novembro;Sergipe;22.8;26.65
+2015;Dezembro;Sergipe;99.4;26.68
+2015;Janeiro;Acre;1472.8;24.54
+2015;Fevereiro;Acre;1320.8;25.16
+2015;Março;Acre;1316.2;22.43
+2015;Abril;Acre;1068.4;21.09
+2015;Maio;Acre;755.2;21.51
+2015;Junho;Acre;255.0;21.12
+2015;Julho;Acre;165.8;21.1
+2015;Agosto;Acre;435.6;22.4
+2015;Setembro;Acre;331.6;21.27
+2015;Outubro;Acre;530.2;23.13
+2015;Novembro;Acre;1265.8;26.32
+2015;Dezembro;Acre;1564.2;25.42
+2015;Janeiro;Amazonas;4732.0;23.56
+2015;Fevereiro;Amazonas;3315.4;22.46
+2015;Março;Amazonas;5419.6;22.77
+2015;Abril;Amazonas;3657.8;22.56
+2015;Maio;Amazonas;3209.0;21.72
+2015;Junho;Amazonas;1704.0;22.1
+2015;Julho;Amazonas;1039.0;21.42
+2015;Agosto;Amazonas;418.4;23.11
+2015;Setembro;Amazonas;406.6;25.07
+2015;Outubro;Amazonas;1413.4;26.3
+2015;Novembro;Amazonas;2134.6;26.32
+2015;Dezembro;Amazonas;2395.0;26.15
+2015;Janeiro;Amapá;138.6;25.92
+2015;Fevereiro;Amapá;280.0;24.24
+2015;Março;Amapá;32.0;14.24
+2015;Abril;Amapá;0.0;12.54
+2015;Maio;Amapá;0.0;8.89
+2015;Junho;Amapá;0.0;4.74
+2015;Julho;Amapá;22.8;4.9
+2015;Agosto;Amapá;117.2;26.12
+2015;Setembro;Amapá;9.4;27.69
+2015;Outubro;Amapá;26.2;27.89
+2015;Novembro;Amapá;67.0;27.66
+2015;Dezembro;Amapá;283.0;26.84
+2015;Janeiro;Pará;3479.2;22.32
+2015;Fevereiro;Pará;3108.2;21.55
+2015;Março;Pará;4827.6;20.38
+2015;Abril;Pará;3644.6;20.6
+2015;Maio;Pará;2353.8;22.4
+2015;Junho;Pará;1505.8;21.51
+2015;Julho;Pará;1132.2;19.0
+2015;Agosto;Pará;301.8;19.35
+2015;Setembro;Pará;252.2;22.81
+2015;Outubro;Pará;546.6;23.13
+2015;Novembro;Pará;358.2;21.71
+2015;Dezembro;Pará;1122.6;23.56
+2015;Janeiro;Rondônia;606.8;12.43
+2015;Fevereiro;Rondônia;771.2;15.97
+2015;Março;Rondônia;1184.2;18.96
+2015;Abril;Rondônia;666.8;19.96
+2015;Maio;Rondônia;821.2;25.28
+2015;Junho;Rondônia;38.4;24.58
+2015;Julho;Rondônia;39.8;23.84
+2015;Agosto;Rondônia;41.8;21.98
+2015;Setembro;Rondônia;56.6;17.56
+2015;Outubro;Rondônia;344.0;17.94
+2015;Novembro;Rondônia;361.2;27.18
+2015;Dezembro;Rondônia;934.6;26.37
+2015;Janeiro;Roraima;12.4;28.18
+2015;Fevereiro;Roraima;1.8;28.97
+2015;Março;Roraima;2.0;29.0
+2015;Abril;Roraima;0.0;28.72
+2015;Maio;Roraima;0.0;26.48
+2015;Junho;Roraima;0.0;26.3
+2015;Julho;Roraima;0.0;26.24
+2015;Agosto;Roraima;0.0;27.26
+2015;Setembro;Roraima;0.0;29.54
+2015;Outubro;Roraima;0.0;29.86
+2015;Novembro;Roraima;0.0;29.54
+2015;Dezembro;Roraima;10.4;28.63
+2015;Janeiro;Tocantins;1611.2;25.12
+2015;Fevereiro;Tocantins;2044.8;23.43
+2015;Março;Tocantins;2914.2;23.51
+2015;Abril;Tocantins;2086.2;21.13
+2015;Maio;Tocantins;581.4;21.35
+2015;Junho;Tocantins;9.2;24.68
+2015;Julho;Tocantins;55.8;24.51
+2015;Agosto;Tocantins;6.0;23.79
+2015;Setembro;Tocantins;281.4;26.7
+2015;Outubro;Tocantins;823.2;27.7
+2015;Novembro;Tocantins;1524.6;24.89
+2015;Dezembro;Tocantins;1079.4;22.14
+2015;Janeiro;Espírito Santo;88.4;24.8
+2015;Fevereiro;Espírito Santo;895.6;23.82
+2015;Março;Espírito Santo;764.8;23.33
+2015;Abril;Espírito Santo;491.4;21.83
+2015;Maio;Espírito Santo;1082.6;20.61
+2015;Junho;Espírito Santo;895.6;19.06
+2015;Julho;Espírito Santo;287.8;20.44
+2015;Agosto;Espírito Santo;373.8;20.36
+2015;Setembro;Espírito Santo;388.0;22.46
+2015;Outubro;Espírito Santo;357.8;21.61
+2015;Novembro;Espírito Santo;572.6;24.3
+2015;Dezembro;Espírito Santo;709.4;26.52
+2015;Janeiro;Minas Gerais;3511.4;23.0
+2015;Fevereiro;Minas Gerais;8882.4;21.64
+2015;Março;Minas Gerais;8544.2;21.21
+2015;Abril;Minas Gerais;3813.0;20.62
+2015;Maio;Minas Gerais;2958.4;19.29
+2015;Junho;Minas Gerais;841.2;18.93
+2015;Julho;Minas Gerais;486.4;19.35
+2015;Agosto;Minas Gerais;479.8;19.96
+2015;Setembro;Minas Gerais;2978.2;22.76
+2015;Outubro;Minas Gerais;3052.4;24.7
+2015;Novembro;Minas Gerais;9413.4;23.77
+2015;Dezembro;Minas Gerais;8446.6;23.39
+2015;Janeiro;Rio de Janeiro;1200.6;24.94
+2015;Fevereiro;Rio de Janeiro;1839.4;24.03
+2015;Março;Rio de Janeiro;2227.0;23.09
+2015;Abril;Rio de Janeiro;1477.8;21.46
+2015;Maio;Rio de Janeiro;956.6;19.03
+2015;Junho;Rio de Janeiro;1128.4;18.4
+2015;Julho;Rio de Janeiro;347.0;20.15
+2015;Agosto;Rio de Janeiro;258.6;19.91
+2015;Setembro;Rio de Janeiro;1747.4;20.99
+2015;Outubro;Rio de Janeiro;878.8;20.22
+2015;Novembro;Rio de Janeiro;3068.2;22.06
+2015;Dezembro;Rio de Janeiro;2109.0;23.25
+2015;Janeiro;São Paulo;4465.0;24.78
+2015;Fevereiro;São Paulo;6595.0;23.34
+2015;Março;São Paulo;6210.6;22.42
+2015;Abril;São Paulo;1862.0;20.14
+2015;Maio;São Paulo;2756.6;17.34
+2015;Junho;São Paulo;571.2;18.14
+2015;Julho;São Paulo;2145.4;17.51
+2015;Agosto;São Paulo;568.4;18.97
+2015;Setembro;São Paulo;4513.8;21.12
+2015;Outubro;São Paulo;3177.6;22.15
+2015;Novembro;São Paulo;7333.2;22.12
+2015;Dezembro;São Paulo;6328.6;23.74
+2015;Janeiro;Paraná;2450.6;20.66
+2015;Fevereiro;Paraná;3136.4;18.96
+2015;Março;Paraná;2700.6;19.05
+2015;Abril;Paraná;1249.4;16.54
+2015;Maio;Paraná;2329.4;15.41
+2015;Junho;Paraná;1476.8;15.17
+2015;Julho;Paraná;3717.2;13.52
+2015;Agosto;Paraná;760.8;17.94
+2015;Setembro;Paraná;2980.0;18.61
+2015;Outubro;Paraná;4111.2;20.95
+2015;Novembro;Paraná;5959.0;21.14
+2015;Dezembro;Paraná;4982.4;21.84
+2015;Janeiro;Rio Grande do Sul;7161.2;21.79
+2015;Fevereiro;Rio Grande do Sul;3942.2;21.41
+2015;Março;Rio Grande do Sul;2638.4;20.63
+2015;Abril;Rio Grande do Sul;3059.4;18.18
+2015;Maio;Rio Grande do Sul;4792.4;14.84
+2015;Junho;Rio Grande do Sul;4908.4;12.67
+2015;Julho;Rio Grande do Sul;7400.8;12.38
+2015;Agosto;Rio Grande do Sul;2918.8;16.26
+2015;Setembro;Rio Grande do Sul;5532.2;13.95
+2015;Outubro;Rio Grande do Sul;9491.8;16.03
+2015;Novembro;Rio Grande do Sul;5674.8;17.88
+2015;Dezembro;Rio Grande do Sul;10341.8;20.23
+2015;Janeiro;Santa Catarina;4375.6;21.92
+2015;Fevereiro;Santa Catarina;3698.2;21.44
+2015;Março;Santa Catarina;2774.8;20.05
+2015;Abril;Santa Catarina;1575.8;17.56
+2015;Maio;Santa Catarina;2823.2;15.17
+2015;Junho;Santa Catarina;2440.6;13.48
+2015;Julho;Santa Catarina;3891.6;13.0
+2015;Agosto;Santa Catarina;941.6;16.54
+2015;Setembro;Santa Catarina;4034.6;15.29
+2015;Outubro;Santa Catarina;5013.8;17.13
+2015;Novembro;Santa Catarina;3791.4;17.42
+2015;Dezembro;Santa Catarina;4804.4;20.53
+2016;Janeiro;Distrito Federal;1114.0;21.63
+2016;Fevereiro;Distrito Federal;257.0;23.03
+2016;Março;Distrito Federal;363.4;22.17
+2016;Abril;Distrito Federal;14.6;21.89
+2016;Maio;Distrito Federal;33.2;20.22
+2016;Junho;Distrito Federal;2.0;19.92
+2016;Julho;Distrito Federal;0.0;20.33
+2016;Agosto;Distrito Federal;39.4;21.76
+2016;Setembro;Distrito Federal;112.6;23.74
+2016;Outubro;Distrito Federal;387.6;23.01
+2016;Novembro;Distrito Federal;613.4;21.47
+2016;Dezembro;Distrito Federal;491.0;22.01
+2016;Janeiro;Goiás;6901.2;23.73
+2016;Fevereiro;Goiás;2720.0;25.0
+2016;Março;Goiás;3408.6;22.96
+2016;Abril;Goiás;276.4;23.35
+2016;Maio;Goiás;307.0;22.78
+2016;Junho;Goiás;162.0;20.57
+2016;Julho;Goiás;0.2;21.58
+2016;Agosto;Goiás;305.4;21.72
+2016;Setembro;Goiás;536.4;23.74
+2016;Outubro;Goiás;1844.2;23.16
+2016;Novembro;Goiás;3726.4;23.13
+2016;Dezembro;Goiás;3190.0;23.18
+2016;Janeiro;Mato Grosso do Sul;4655.2;20.71
+2016;Fevereiro;Mato Grosso do Sul;3472.8;24.08
+2016;Março;Mato Grosso do Sul;2231.4;22.07
+2016;Abril;Mato Grosso do Sul;1368.8;22.44
+2016;Maio;Mato Grosso do Sul;2862.4;19.08
+2016;Junho;Mato Grosso do Sul;693.2;16.55
+2016;Julho;Mato Grosso do Sul;369.2;19.18
+2016;Agosto;Mato Grosso do Sul;1895.8;19.81
+2016;Setembro;Mato Grosso do Sul;766.8;20.66
+2016;Outubro;Mato Grosso do Sul;2223.6;21.99
+2016;Novembro;Mato Grosso do Sul;1704.2;23.98
+2016;Dezembro;Mato Grosso do Sul;4648.2;24.97
+2016;Janeiro;Mato Grosso;7885.6;21.58
+2016;Fevereiro;Mato Grosso;3528.2;21.48
+2016;Março;Mato Grosso;5523.6;23.13
+2016;Abril;Mato Grosso;1290.2;22.36
+2016;Maio;Mato Grosso;530.2;22.93
+2016;Junho;Mato Grosso;415.8;22.21
+2016;Julho;Mato Grosso;3.8;21.95
+2016;Agosto;Mato Grosso;875.6;20.83
+2016;Setembro;Mato Grosso;1195.0;22.24
+2016;Outubro;Mato Grosso;2788.0;22.38
+2016;Novembro;Mato Grosso;4842.0;21.12
+2016;Dezembro;Mato Grosso;7452.8;21.88
+2016;Janeiro;Alagoas;590.8;27.28
+2016;Fevereiro;Alagoas;180.2;27.4
+2016;Março;Alagoas;589.4;27.85
+2016;Abril;Alagoas;595.0;26.79
+2016;Maio;Alagoas;867.0;25.61
+2016;Junho;Alagoas;692.0;24.85
+2016;Julho;Alagoas;520.0;21.39
+2016;Agosto;Alagoas;208.0;19.99
+2016;Setembro;Alagoas;127.6;22.97
+2016;Outubro;Alagoas;95.8;23.15
+2016;Novembro;Alagoas;67.2;20.68
+2016;Dezembro;Alagoas;124.6;25.04
+2016;Janeiro;Bahia;11104.0;24.87
+2016;Fevereiro;Bahia;957.2;25.25
+2016;Março;Bahia;1153.6;26.45
+2016;Abril;Bahia;1310.8;24.77
+2016;Maio;Bahia;2056.4;22.68
+2016;Junho;Bahia;1602.0;22.24
+2016;Julho;Bahia;2064.6;20.06
+2016;Agosto;Bahia;2432.2;19.85
+2016;Setembro;Bahia;1429.2;20.09
+2016;Outubro;Bahia;2581.4;24.56
+2016;Novembro;Bahia;4351.2;24.67
+2016;Dezembro;Bahia;2213.2;24.27
+2016;Janeiro;Ceará;1772.4;23.51
+2016;Fevereiro;Ceará;558.6;23.92
+2016;Março;Ceará;1536.8;24.26
+2016;Abril;Ceará;1162.0;23.89
+2016;Maio;Ceará;656.4;26.56
+2016;Junho;Ceará;249.2;25.35
+2016;Julho;Ceará;33.2;25.3
+2016;Agosto;Ceará;25.2;25.33
+2016;Setembro;Ceará;35.8;25.01
+2016;Outubro;Ceará;18.6;28.01
+2016;Novembro;Ceará;13.4;28.56
+2016;Dezembro;Ceará;342.8;27.79
+2016;Janeiro;Maranhão;2770.0;20.65
+2016;Fevereiro;Maranhão;1129.8;23.0
+2016;Março;Maranhão;2718.4;23.39
+2016;Abril;Maranhão;1629.8;24.45
+2016;Maio;Maranhão;985.6;26.27
+2016;Junho;Maranhão;471.6;26.35
+2016;Julho;Maranhão;188.4;23.57
+2016;Agosto;Maranhão;52.6;23.85
+2016;Setembro;Maranhão;336.0;24.37
+2016;Outubro;Maranhão;485.8;24.78
+2016;Novembro;Maranhão;778.8;24.53
+2016;Dezembro;Maranhão;1175.0;24.29
+2016;Janeiro;Paraíba;861.2;22.69
+2016;Fevereiro;Paraíba;312.4;21.15
+2016;Março;Paraíba;906.4;23.77
+2016;Abril;Paraíba;852.8;23.07
+2016;Maio;Paraíba;868.6;23.64
+2016;Junho;Paraíba;392.6;24.44
+2016;Julho;Paraíba;154.8;24.32
+2016;Agosto;Paraíba;99.4;24.09
+2016;Setembro;Paraíba;53.6;21.42
+2016;Outubro;Paraíba;40.6;19.9
+2016;Novembro;Paraíba;11.2;19.35
+2016;Dezembro;Paraíba;412.0;24.13
+2016;Janeiro;Pernambuco;1494.2;24.72
+2016;Fevereiro;Pernambuco;469.0;24.63
+2016;Março;Pernambuco;712.8;27.04
+2016;Abril;Pernambuco;520.6;24.64
+2016;Maio;Pernambuco;930.6;22.69
+2016;Junho;Pernambuco;378.8;22.32
+2016;Julho;Pernambuco;320.2;23.23
+2016;Agosto;Pernambuco;172.2;23.88
+2016;Setembro;Pernambuco;121.8;25.28
+2016;Outubro;Pernambuco;37.6;25.3
+2016;Novembro;Pernambuco;61.8;24.74
+2016;Dezembro;Pernambuco;238.8;26.51
+2016;Janeiro;Piauí;4659.6;23.94
+2016;Fevereiro;Piauí;862.0;23.74
+2016;Março;Piauí;1859.4;25.52
+2016;Abril;Piauí;769.0;27.11
+2016;Maio;Piauí;592.0;28.11
+2016;Junho;Piauí;219.0;27.06
+2016;Julho;Piauí;65.6;24.24
+2016;Agosto;Piauí;0.8;27.02
+2016;Setembro;Piauí;248.2;28.07
+2016;Outubro;Piauí;345.2;29.18
+2016;Novembro;Piauí;486.0;29.48
+2016;Dezembro;Piauí;1174.4;25.51
+2016;Janeiro;Rio Grande do Norte;848.6;15.16
+2016;Fevereiro;Rio Grande do Norte;193.4;15.64
+2016;Março;Rio Grande do Norte;541.8;21.47
+2016;Abril;Rio Grande do Norte;524.0;24.38
+2016;Maio;Rio Grande do Norte;459.4;24.23
+2016;Junho;Rio Grande do Norte;294.4;21.93
+2016;Julho;Rio Grande do Norte;51.2;15.11
+2016;Agosto;Rio Grande do Norte;101.6;23.44
+2016;Setembro;Rio Grande do Norte;90.8;24.08
+2016;Outubro;Rio Grande do Norte;32.4;24.3
+2016;Novembro;Rio Grande do Norte;22.6;20.63
+2016;Dezembro;Rio Grande do Norte;232.4;20.46
+2016;Janeiro;Sergipe;547.0;23.62
+2016;Fevereiro;Sergipe;91.8;22.35
+2016;Março;Sergipe;157.8;27.25
+2016;Abril;Sergipe;163.0;23.97
+2016;Maio;Sergipe;703.0;20.65
+2016;Junho;Sergipe;512.0;19.1
+2016;Julho;Sergipe;202.8;19.95
+2016;Agosto;Sergipe;181.6;19.89
+2016;Setembro;Sergipe;119.2;14.91
+2016;Outubro;Sergipe;50.4;16.37
+2016;Novembro;Sergipe;36.6;26.55
+2016;Dezembro;Sergipe;103.6;26.87
+2016;Janeiro;Acre;1356.8;26.38
+2016;Fevereiro;Acre;1702.8;25.83
+2016;Março;Acre;883.2;24.77
+2016;Abril;Acre;530.0;22.03
+2016;Maio;Acre;429.2;21.23
+2016;Junho;Acre;166.0;17.89
+2016;Julho;Acre;64.0;16.88
+2016;Agosto;Acre;267.4;17.59
+2016;Setembro;Acre;310.6;17.72
+2016;Outubro;Acre;882.2;22.67
+2016;Novembro;Acre;654.0;20.5
+2016;Dezembro;Acre;1133.4;19.62
+2016;Janeiro;Amazonas;2501.4;23.62
+2016;Fevereiro;Amazonas;3350.2;20.3
+2016;Março;Amazonas;4265.0;17.56
+2016;Abril;Amazonas;3234.2;17.91
+2016;Maio;Amazonas;2884.4;21.12
+2016;Junho;Amazonas;1783.6;22.39
+2016;Julho;Amazonas;1028.0;20.1
+2016;Agosto;Amazonas;834.0;20.07
+2016;Setembro;Amazonas;1702.4;22.26
+2016;Outubro;Amazonas;2055.2;22.57
+2016;Novembro;Amazonas;2156.8;21.57
+2016;Dezembro;Amazonas;5409.4;15.78
+2016;Janeiro;Amapá;265.8;26.07
+2016;Fevereiro;Amapá;715.6;26.03
+2016;Março;Amapá;743.8;25.56
+2016;Abril;Amapá;694.2;17.29
+2016;Maio;Amapá;414.2;12.99
+2016;Junho;Amapá;393.2;22.38
+2016;Julho;Amapá;162.4;26.51
+2016;Agosto;Amapá;95.4;27.31
+2016;Setembro;Amapá;69.8;27.55
+2016;Outubro;Amapá;1.6;19.18
+2016;Novembro;Amapá;33.2;27.84
+2016;Dezembro;Amapá;716.6;26.13
+2016;Janeiro;Pará;4156.8;23.29
+2016;Fevereiro;Pará;3965.4;22.59
+2016;Março;Pará;6159.8;21.64
+2016;Abril;Pará;4275.8;21.68
+2016;Maio;Pará;2499.8;22.5
+2016;Junho;Pará;1111.8;23.47
+2016;Julho;Pará;1044.6;23.94
+2016;Agosto;Pará;503.4;22.5
+2016;Setembro;Pará;1162.8;21.29
+2016;Outubro;Pará;1316.2;25.37
+2016;Novembro;Pará;1480.2;26.21
+2016;Dezembro;Pará;5432.6;23.16
+2016;Janeiro;Rondônia;1171.6;25.88
+2016;Fevereiro;Rondônia;956.4;25.82
+2016;Março;Rondônia;1540.4;25.35
+2016;Abril;Rondônia;471.0;21.69
+2016;Maio;Rondônia;310.0;20.17
+2016;Junho;Rondônia;75.8;24.61
+2016;Julho;Rondônia;1.0;24.51
+2016;Agosto;Rondônia;137.0;24.45
+2016;Setembro;Rondônia;436.8;25.98
+2016;Outubro;Rondônia;430.4;20.56
+2016;Novembro;Rondônia;676.6;17.49
+2016;Dezembro;Rondônia;773.6;9.07
+2016;Janeiro;Roraima;0.0;29.19
+2016;Fevereiro;Roraima;33.4;28.71
+2016;Março;Roraima;0.0;30.03
+2016;Abril;Roraima;270.4;28.03
+2016;Maio;Roraima;327.2;26.64
+2016;Junho;Roraima;340.4;24.02
+2016;Julho;Roraima;208.0;21.79
+2016;Agosto;Roraima;99.4;26.05
+2016;Setembro;Roraima;105.8;27.9
+2016;Outubro;Roraima;29.2;14.81
+2016;Novembro;Roraima;3.0;8.0
+2016;Dezembro;Roraima;113.0;9.4
+2016;Janeiro;Tocantins;4287.4;18.52
+2016;Fevereiro;Tocantins;799.0;26.69
+2016;Março;Tocantins;2441.4;25.93
+2016;Abril;Tocantins;936.8;26.45
+2016;Maio;Tocantins;194.2;26.4
+2016;Junho;Tocantins;233.6;24.52
+2016;Julho;Tocantins;1.8;24.01
+2016;Agosto;Tocantins;22.6;23.05
+2016;Setembro;Tocantins;978.2;24.16
+2016;Outubro;Tocantins;1289.4;26.25
+2016;Novembro;Tocantins;2717.0;26.41
+2016;Dezembro;Tocantins;2844.8;25.14
+2016;Janeiro;Espírito Santo;1852.2;25.28
+2016;Fevereiro;Espírito Santo;324.6;26.72
+2016;Março;Espírito Santo;751.6;24.68
+2016;Abril;Espírito Santo;194.4;22.3
+2016;Maio;Espírito Santo;124.8;20.54
+2016;Junho;Espírito Santo;433.6;18.36
+2016;Julho;Espírito Santo;323.0;20.81
+2016;Agosto;Espírito Santo;170.6;21.57
+2016;Setembro;Espírito Santo;311.0;22.47
+2016;Outubro;Espírito Santo;832.4;22.71
+2016;Novembro;Espírito Santo;1923.2;23.39
+2016;Dezembro;Espírito Santo;1565.6;24.36
+2016;Janeiro;Minas Gerais;19926.0;21.86
+2016;Fevereiro;Minas Gerais;5036.4;21.84
+2016;Março;Minas Gerais;5847.4;22.26
+2016;Abril;Minas Gerais;1334.0;22.79
+2016;Maio;Minas Gerais;1127.2;19.46
+2016;Junho;Minas Gerais;2070.4;17.5
+2016;Julho;Minas Gerais;217.4;18.07
+2016;Agosto;Minas Gerais;710.4;18.79
+2016;Setembro;Minas Gerais;1797.0;21.67
+2016;Outubro;Minas Gerais;4834.0;23.26
+2016;Novembro;Minas Gerais;13838.6;22.5
+2016;Dezembro;Minas Gerais;11459.2;22.7
+2016;Janeiro;Rio de Janeiro;5050.2;21.92
+2016;Fevereiro;Rio de Janeiro;2887.2;20.49
+2016;Março;Rio de Janeiro;2244.6;22.07
+2016;Abril;Rio de Janeiro;376.8;22.85
+2016;Maio;Rio de Janeiro;893.2;20.23
+2016;Junho;Rio de Janeiro;1630.0;17.78
+2016;Julho;Rio de Janeiro;177.4;19.1
+2016;Agosto;Rio de Janeiro;737.8;19.78
+2016;Setembro;Rio de Janeiro;1053.6;19.99
+2016;Outubro;Rio de Janeiro;1619.0;20.76
+2016;Novembro;Rio de Janeiro;5455.6;21.67
+2016;Dezembro;Rio de Janeiro;3720.8;23.61
+2016;Janeiro;São Paulo;8540.8;23.35
+2016;Fevereiro;São Paulo;5933.0;24.26
+2016;Março;São Paulo;4522.2;22.94
+2016;Abril;São Paulo;890.4;23.11
+2016;Maio;São Paulo;2823.2;17.93
+2016;Junho;São Paulo;2771.6;15.3
+2016;Julho;São Paulo;294.0;17.26
+2016;Agosto;São Paulo;1983.8;18.42
+2016;Setembro;São Paulo;841.4;20.02
+2016;Outubro;São Paulo;3399.8;21.95
+2016;Novembro;São Paulo;3348.0;22.5
+2016;Dezembro;São Paulo;5190.0;23.17
+2016;Janeiro;Paraná;3801.2;21.29
+2016;Fevereiro;Paraná;4652.6;21.48
+2016;Março;Paraná;2390.4;21.41
+2016;Abril;Paraná;1584.8;21.09
+2016;Maio;Paraná;3169.6;13.26
+2016;Junho;Paraná;1709.6;12.8
+2016;Julho;Paraná;1208.2;14.87
+2016;Agosto;Paraná;2905.6;13.92
+2016;Setembro;Paraná;1161.2;17.0
+2016;Outubro;Paraná;3740.6;19.71
+2016;Novembro;Paraná;2161.4;20.02
+2016;Dezembro;Paraná;4527.6;21.53
+2016;Janeiro;Rio Grande do Sul;3554.2;21.68
+2016;Fevereiro;Rio Grande do Sul;4066.2;21.64
+2016;Março;Rio Grande do Sul;7094.4;18.67
+2016;Abril;Rio Grande do Sul;7445.6;16.92
+2016;Maio;Rio Grande do Sul;2516.2;11.07
+2016;Junho;Rio Grande do Sul;768.4;7.72
+2016;Julho;Rio Grande do Sul;4302.8;10.76
+2016;Agosto;Rio Grande do Sul;4652.6;13.99
+2016;Setembro;Rio Grande do Sul;2391.2;13.96
+2016;Outubro;Rio Grande do Sul;9883.2;17.5
+2016;Novembro;Rio Grande do Sul;5052.4;19.66
+2016;Dezembro;Rio Grande do Sul;6149.8;22.14
+2016;Janeiro;Santa Catarina;2598.4;21.31
+2016;Fevereiro;Santa Catarina;3742.0;21.25
+2016;Março;Santa Catarina;4568.2;20.04
+2016;Abril;Santa Catarina;2469.0;19.61
+2016;Maio;Santa Catarina;2300.6;12.79
+2016;Junho;Santa Catarina;1149.4;10.6
+2016;Julho;Santa Catarina;2072.4;13.33
+2016;Agosto;Santa Catarina;3227.6;14.38
+2016;Setembro;Santa Catarina;1705.2;15.36
+2016;Outubro;Santa Catarina;4364.8;16.78
+2016;Novembro;Santa Catarina;2183.0;18.19
+2016;Dezembro;Santa Catarina;4674.2;19.61
+2017;Janeiro;Distrito Federal;458.4;22.3
+2017;Fevereiro;Distrito Federal;901.8;20.64
+2017;Março;Distrito Federal;616.4;22.15
+2017;Abril;Distrito Federal;151.6;22.28
+2017;Maio;Distrito Federal;163.6;20.88
+2017;Junho;Distrito Federal;0.0;19.58
+2017;Julho;Distrito Federal;0.0;17.49
+2017;Agosto;Distrito Federal;0.0;21.01
+2017;Setembro;Distrito Federal;59.6;21.33
+2017;Outubro;Distrito Federal;143.4;23.9
+2017;Novembro;Distrito Federal;1511.6;21.34
+2017;Dezembro;Distrito Federal;1219.0;20.82
+2017;Janeiro;Goiás;3617.8;23.15
+2017;Fevereiro;Goiás;3976.8;23.46
+2017;Março;Goiás;3556.8;24.01
+2017;Abril;Goiás;1734.0;23.71
+2017;Maio;Goiás;1126.6;21.95
+2017;Junho;Goiás;28.8;20.9
+2017;Julho;Goiás;0.0;19.72
+2017;Agosto;Goiás;17.0;21.79
+2017;Setembro;Goiás;312.4;21.21
+2017;Outubro;Goiás;1364.8;24.55
+2017;Novembro;Goiás;5496.2;21.3
+2017;Dezembro;Goiás;5799.2;22.68
+2017;Janeiro;Mato Grosso do Sul;4345.6;25.05
+2017;Fevereiro;Mato Grosso do Sul;2864.0;25.09
+2017;Março;Mato Grosso do Sul;2750.8;23.96
+2017;Abril;Mato Grosso do Sul;2976.4;21.67
+2017;Maio;Mato Grosso do Sul;2787.4;21.54
+2017;Junho;Mato Grosso do Sul;988.6;18.35
+2017;Julho;Mato Grosso do Sul;20.8;16.82
+2017;Agosto;Mato Grosso do Sul;1356.2;19.63
+2017;Setembro;Mato Grosso do Sul;495.2;21.71
+2017;Outubro;Mato Grosso do Sul;3744.0;23.02
+2017;Novembro;Mato Grosso do Sul;5006.4;23.2
+2017;Dezembro;Mato Grosso do Sul;4964.6;23.93
+2017;Janeiro;Mato Grosso;6880.2;23.99
+2017;Fevereiro;Mato Grosso;6818.2;23.67
+2017;Março;Mato Grosso;4612.6;22.48
+2017;Abril;Mato Grosso;2537.0;21.33
+2017;Maio;Mato Grosso;805.6;20.54
+2017;Junho;Mato Grosso;62.0;20.1
+2017;Julho;Mato Grosso;1.4;17.85
+2017;Agosto;Mato Grosso;409.8;20.52
+2017;Setembro;Mato Grosso;461.0;21.42
+2017;Outubro;Mato Grosso;3601.0;24.08
+2017;Novembro;Mato Grosso;7238.2;23.12
+2017;Dezembro;Mato Grosso;7926.6;21.71
+2017;Janeiro;Alagoas;111.0;27.38
+2017;Fevereiro;Alagoas;149.6;27.65
+2017;Março;Alagoas;122.8;27.2
+2017;Abril;Alagoas;554.2;23.78
+2017;Maio;Alagoas;2019.2;24.09
+2017;Junho;Alagoas;829.2;21.19
+2017;Julho;Alagoas;587.0;19.19
+2017;Agosto;Alagoas;423.0;20.98
+2017;Setembro;Alagoas;442.8;23.32
+2017;Outubro;Alagoas;160.4;24.84
+2017;Novembro;Alagoas;45.8;26.41
+2017;Dezembro;Alagoas;233.6;27.13
+2017;Janeiro;Bahia;964.6;23.02
+2017;Fevereiro;Bahia;3443.8;22.27
+2017;Março;Bahia;3493.8;24.88
+2017;Abril;Bahia;3236.2;23.29
+2017;Maio;Bahia;2451.0;22.0
+2017;Junho;Bahia;1741.8;20.22
+2017;Julho;Bahia;2388.8;17.97
+2017;Agosto;Bahia;1281.6;20.61
+2017;Setembro;Bahia;2532.2;20.68
+2017;Outubro;Bahia;774.6;23.87
+2017;Novembro;Bahia;4246.6;24.16
+2017;Dezembro;Bahia;4159.2;24.2
+2017;Janeiro;Ceará;770.8;26.85
+2017;Fevereiro;Ceará;1694.6;24.38
+2017;Março;Ceará;2356.6;21.98
+2017;Abril;Ceará;1782.4;24.03
+2017;Maio;Ceará;1131.6;25.58
+2017;Junho;Ceará;444.8;24.62
+2017;Julho;Ceará;465.4;22.93
+2017;Agosto;Ceará;84.2;23.61
+2017;Setembro;Ceará;19.6;24.5
+2017;Outubro;Ceará;101.4;26.56
+2017;Novembro;Ceará;140.8;26.15
+2017;Dezembro;Ceará;312.0;27.12
+2017;Janeiro;Maranhão;2977.6;22.37
+2017;Fevereiro;Maranhão;3364.4;23.3
+2017;Março;Maranhão;3838.2;24.38
+2017;Abril;Maranhão;3108.2;24.53
+2017;Maio;Maranhão;1443.0;24.56
+2017;Junho;Maranhão;599.6;23.74
+2017;Julho;Maranhão;308.6;23.07
+2017;Agosto;Maranhão;99.0;23.65
+2017;Setembro;Maranhão;10.6;22.79
+2017;Outubro;Maranhão;319.0;23.46
+2017;Novembro;Maranhão;992.2;26.27
+2017;Dezembro;Maranhão;1512.0;24.26
+2017;Janeiro;Paraíba;372.6;26.85
+2017;Fevereiro;Paraíba;520.2;26.7
+2017;Março;Paraíba;637.8;26.31
+2017;Abril;Paraíba;791.0;25.93
+2017;Maio;Paraíba;843.4;23.95
+2017;Junho;Paraíba;944.0;21.98
+2017;Julho;Paraíba;1081.8;22.64
+2017;Agosto;Paraíba;173.2;24.09
+2017;Setembro;Paraíba;212.6;24.45
+2017;Outubro;Paraíba;148.8;25.78
+2017;Novembro;Paraíba;30.8;26.64
+2017;Dezembro;Paraíba;40.4;21.46
+2017;Janeiro;Pernambuco;91.6;24.34
+2017;Fevereiro;Pernambuco;469.4;24.67
+2017;Março;Pernambuco;567.4;24.65
+2017;Abril;Pernambuco;873.2;23.45
+2017;Maio;Pernambuco;1580.2;23.62
+2017;Junho;Pernambuco;1261.6;22.34
+2017;Julho;Pernambuco;1441.2;21.46
+2017;Agosto;Pernambuco;422.6;21.02
+2017;Setembro;Pernambuco;429.8;19.01
+2017;Outubro;Pernambuco;183.0;22.99
+2017;Novembro;Pernambuco;145.2;26.66
+2017;Dezembro;Pernambuco;253.4;24.61
+2017;Janeiro;Piauí;1108.2;25.1
+2017;Fevereiro;Piauí;2851.2;23.36
+2017;Março;Piauí;2732.0;24.12
+2017;Abril;Piauí;1632.8;24.61
+2017;Maio;Piauí;833.4;23.72
+2017;Junho;Piauí;205.4;24.64
+2017;Julho;Piauí;143.8;25.07
+2017;Agosto;Piauí;67.0;26.23
+2017;Setembro;Piauí;4.6;26.25
+2017;Outubro;Piauí;398.6;26.94
+2017;Novembro;Piauí;927.8;24.31
+2017;Dezembro;Piauí;1135.2;27.93
+2017;Janeiro;Rio Grande do Norte;139.2;20.4
+2017;Fevereiro;Rio Grande do Norte;667.2;20.23
+2017;Março;Rio Grande do Norte;623.8;21.12
+2017;Abril;Rio Grande do Norte;617.8;22.04
+2017;Maio;Rio Grande do Norte;406.6;19.46
+2017;Junho;Rio Grande do Norte;406.2;21.33
+2017;Julho;Rio Grande do Norte;800.2;22.43
+2017;Agosto;Rio Grande do Norte;46.4;23.34
+2017;Setembro;Rio Grande do Norte;86.4;23.64
+2017;Outubro;Rio Grande do Norte;107.8;24.29
+2017;Novembro;Rio Grande do Norte;13.0;24.08
+2017;Dezembro;Rio Grande do Norte;51.2;23.63
+2017;Janeiro;Sergipe;15.4;26.95
+2017;Fevereiro;Sergipe;77.0;27.13
+2017;Março;Sergipe;228.2;27.13
+2017;Abril;Sergipe;588.6;25.4
+2017;Maio;Sergipe;1216.0;24.53
+2017;Junho;Sergipe;920.2;22.18
+2017;Julho;Sergipe;645.8;19.66
+2017;Agosto;Sergipe;417.4;20.37
+2017;Setembro;Sergipe;1087.0;22.28
+2017;Outubro;Sergipe;377.0;23.96
+2017;Novembro;Sergipe;81.0;25.48
+2017;Dezembro;Sergipe;200.4;22.75
+2017;Janeiro;Acre;1222.2;16.13
+2017;Fevereiro;Acre;655.2;14.75
+2017;Março;Acre;961.4;14.38
+2017;Abril;Acre;613.6;12.99
+2017;Maio;Acre;165.2;9.1
+2017;Junho;Acre;48.6;8.91
+2017;Julho;Acre;40.0;9.21
+2017;Agosto;Acre;92.4;9.17
+2017;Setembro;Acre;747.0;24.54
+2017;Outubro;Acre;639.2;23.24
+2017;Novembro;Acre;1184.8;22.01
+2017;Dezembro;Acre;1000.4;21.81
+2017;Janeiro;Amazonas;4235.4;14.61
+2017;Fevereiro;Amazonas;5481.6;17.17
+2017;Março;Amazonas;6419.8;18.64
+2017;Abril;Amazonas;5496.8;18.84
+2017;Maio;Amazonas;2954.0;19.31
+2017;Junho;Amazonas;2067.2;18.48
+2017;Julho;Amazonas;1362.6;18.79
+2017;Agosto;Amazonas;1274.4;19.81
+2017;Setembro;Amazonas;1789.8;20.39
+2017;Outubro;Amazonas;2715.8;20.63
+2017;Novembro;Amazonas;2910.6;17.9
+2017;Dezembro;Amazonas;3697.2;15.99
+2017;Janeiro;Amapá;694.2;25.34
+2017;Fevereiro;Amapá;926.2;25.09
+2017;Março;Amapá;1138.0;25.2
+2017;Abril;Amapá;796.8;25.23
+2017;Maio;Amapá;207.0;13.56
+2017;Junho;Amapá;107.0;12.11
+2017;Julho;Amapá;0.0;0.0
+2017;Agosto;Amapá;9.4;6.38
+2017;Setembro;Amapá;73.4;21.93
+2017;Outubro;Amapá;22.4;27.85
+2017;Novembro;Amapá;63.2;22.92
+2017;Dezembro;Amapá;295.2;18.02
+2017;Janeiro;Pará;7383.8;21.63
+2017;Fevereiro;Pará;9548.2;22.28
+2017;Março;Pará;8972.2;22.31
+2017;Abril;Pará;7089.4;21.6
+2017;Maio;Pará;2944.2;21.53
+2017;Junho;Pará;1905.6;21.8
+2017;Julho;Pará;729.2;22.24
+2017;Agosto;Pará;875.6;23.92
+2017;Setembro;Pará;385.6;24.73
+2017;Outubro;Pará;1785.4;24.11
+2017;Novembro;Pará;2036.2;22.57
+2017;Dezembro;Pará;5577.4;23.9
+2017;Janeiro;Rondônia;921.6;10.84
+2017;Fevereiro;Rondônia;1089.6;14.33
+2017;Março;Rondônia;1327.6;14.34
+2017;Abril;Rondônia;647.8;14.75
+2017;Maio;Rondônia;544.8;13.46
+2017;Junho;Rondônia;24.8;15.05
+2017;Julho;Rondônia;0.0;15.2
+2017;Agosto;Rondônia;165.6;18.62
+2017;Setembro;Rondônia;328.2;21.32
+2017;Outubro;Rondônia;723.0;20.63
+2017;Novembro;Rondônia;1024.4;19.15
+2017;Dezembro;Rondônia;1352.0;19.2
+2017;Janeiro;Roraima;29.6;9.19
+2017;Fevereiro;Roraima;140.0;13.54
+2017;Março;Roraima;349.4;21.83
+2017;Abril;Roraima;249.2;16.86
+2017;Maio;Roraima;565.0;12.2
+2017;Junho;Roraima;527.4;12.59
+2017;Julho;Roraima;876.0;14.12
+2017;Agosto;Roraima;219.2;15.91
+2017;Setembro;Roraima;133.2;9.39
+2017;Outubro;Roraima;42.6;13.1
+2017;Novembro;Roraima;28.2;18.91
+2017;Dezembro;Roraima;60.8;18.31
+2017;Janeiro;Tocantins;3553.6;24.21
+2017;Fevereiro;Tocantins;5664.8;23.87
+2017;Março;Tocantins;3718.6;24.83
+2017;Abril;Tocantins;2728.4;23.95
+2017;Maio;Tocantins;323.4;24.68
+2017;Junho;Tocantins;149.2;24.32
+2017;Julho;Tocantins;18.2;22.41
+2017;Agosto;Tocantins;86.0;24.14
+2017;Setembro;Tocantins;15.0;24.86
+2017;Outubro;Tocantins;1190.4;25.63
+2017;Novembro;Tocantins;3325.0;21.52
+2017;Dezembro;Tocantins;5663.8;24.95
+2017;Janeiro;Espírito Santo;259.0;23.29
+2017;Fevereiro;Espírito Santo;762.4;23.59
+2017;Março;Espírito Santo;966.6;24.1
+2017;Abril;Espírito Santo;507.8;22.14
+2017;Maio;Espírito Santo;905.2;18.98
+2017;Junho;Espírito Santo;666.6;18.6
+2017;Julho;Espírito Santo;1043.2;18.4
+2017;Agosto;Espírito Santo;153.6;19.49
+2017;Setembro;Espírito Santo;345.8;19.83
+2017;Outubro;Espírito Santo;509.4;21.21
+2017;Novembro;Espírito Santo;1838.2;21.69
+2017;Dezembro;Espírito Santo;2888.8;22.99
+2017;Janeiro;Minas Gerais;6540.4;22.45
+2017;Fevereiro;Minas Gerais;7968.8;21.77
+2017;Março;Minas Gerais;5911.2;22.03
+2017;Abril;Minas Gerais;2780.4;21.15
+2017;Maio;Minas Gerais;3422.0;19.21
+2017;Junho;Minas Gerais;1238.6;18.91
+2017;Julho;Minas Gerais;602.4;16.98
+2017;Agosto;Minas Gerais;300.8;18.74
+2017;Setembro;Minas Gerais;1188.6;19.31
+2017;Outubro;Minas Gerais;4080.2;22.15
+2017;Novembro;Minas Gerais;10669.0;21.44
+2017;Dezembro;Minas Gerais;14828.4;22.52
+2017;Janeiro;Rio de Janeiro;3593.4;25.33
+2017;Fevereiro;Rio de Janeiro;1664.6;24.93
+2017;Março;Rio de Janeiro;2959.0;22.58
+2017;Abril;Rio de Janeiro;2114.0;21.83
+2017;Maio;Rio de Janeiro;1333.6;19.93
+2017;Junho;Rio de Janeiro;1293.2;19.43
+2017;Julho;Rio de Janeiro;853.4;17.8
+2017;Agosto;Rio de Janeiro;923.2;17.46
+2017;Setembro;Rio de Janeiro;382.2;19.14
+2017;Outubro;Rio de Janeiro;1607.2;21.1
+2017;Novembro;Rio de Janeiro;3929.2;20.99
+2017;Dezembro;Rio de Janeiro;3102.0;22.55
+2017;Janeiro;São Paulo;8511.0;22.12
+2017;Fevereiro;São Paulo;2650.4;22.08
+2017;Março;São Paulo;4702.8;21.91
+2017;Abril;São Paulo;4076.6;21.58
+2017;Maio;São Paulo;4400.4;19.29
+2017;Junho;São Paulo;1948.8;17.16
+2017;Julho;São Paulo;129.8;16.87
+2017;Agosto;São Paulo;1920.6;18.28
+2017;Setembro;São Paulo;868.8;21.18
+2017;Outubro;São Paulo;5218.6;22.9
+2017;Novembro;São Paulo;7342.0;22.04
+2017;Dezembro;São Paulo;7764.6;22.69
+2017;Janeiro;Paraná;5144.8;22.56
+2017;Fevereiro;Paraná;3264.4;22.36
+2017;Março;Paraná;2566.0;20.1
+2017;Abril;Paraná;2595.6;17.7
+2017;Maio;Paraná;5021.8;17.85
+2017;Junho;Paraná;2809.6;14.75
+2017;Julho;Paraná;128.6;14.05
+2017;Agosto;Paraná;2653.6;16.98
+2017;Setembro;Paraná;787.0;19.63
+2017;Outubro;Paraná;6421.0;18.15
+2017;Novembro;Paraná;4184.6;19.76
+2017;Dezembro;Paraná;5683.6;22.41
+2017;Janeiro;Rio Grande do Sul;5866.4;20.83
+2017;Fevereiro;Rio Grande do Sul;5525.0;20.77
+2017;Março;Rio Grande do Sul;6100.2;19.31
+2017;Abril;Rio Grande do Sul;8108.6;18.05
+2017;Maio;Rio Grande do Sul;11776.4;15.83
+2017;Junho;Rio Grande do Sul;5062.0;13.15
+2017;Julho;Rio Grande do Sul;899.6;12.76
+2017;Agosto;Rio Grande do Sul;6132.8;14.4
+2017;Setembro;Rio Grande do Sul;5572.0;17.74
+2017;Outubro;Rio Grande do Sul;9266.6;18.08
+2017;Novembro;Rio Grande do Sul;5175.4;19.08
+2017;Dezembro;Rio Grande do Sul;4160.0;22.8
+2017;Janeiro;Santa Catarina;4258.6;22.05
+2017;Fevereiro;Santa Catarina;3011.2;21.18
+2017;Março;Santa Catarina;2828.6;19.64
+2017;Abril;Santa Catarina;2325.0;16.88
+2017;Maio;Santa Catarina;5780.2;15.66
+2017;Junho;Santa Catarina;2272.8;12.45
+2017;Julho;Santa Catarina;253.2;12.43
+2017;Agosto;Santa Catarina;2629.8;14.48
+2017;Setembro;Santa Catarina;1338.2;17.91
+2017;Outubro;Santa Catarina;4481.6;17.06
+2017;Novembro;Santa Catarina;3347.0;18.69
+2017;Dezembro;Santa Catarina;3894.4;21.19
+2018;Janeiro;Distrito Federal;660.8;21.71
+2018;Fevereiro;Distrito Federal;900.2;21.71
+2018;Março;Distrito Federal;1088.8;21.87
+2018;Abril;Distrito Federal;537.2;20.85
+2018;Maio;Distrito Federal;108.6;19.83
+2018;Junho;Distrito Federal;0.0;19.25
+2018;Julho;Distrito Federal;0.0;19.6
+2018;Agosto;Distrito Federal;112.2;21.81
+2018;Setembro;Distrito Federal;216.2;23.46
+2018;Outubro;Distrito Federal;954.0;23.33
+2018;Novembro;Distrito Federal;1775.8;21.13
+2018;Dezembro;Distrito Federal;833.4;21.92
+2018;Janeiro;Goiás;4443.4;22.93
+2018;Fevereiro;Goiás;4272.8;22.32
+2018;Março;Goiás;3437.4;22.6
+2018;Abril;Goiás;2264.0;21.67
+2018;Maio;Goiás;437.6;21.66
+2018;Junho;Goiás;3.2;21.54
+2018;Julho;Goiás;0.0;21.42
+2018;Agosto;Goiás;318.8;23.09
+2018;Setembro;Goiás;1050.4;24.42
+2018;Outubro;Goiás;3674.0;24.31
+2018;Novembro;Goiás;7743.8;22.41
+2018;Dezembro;Goiás;5563.8;24.4
+2018;Janeiro;Mato Grosso do Sul;4419.4;23.19
+2018;Fevereiro;Mato Grosso do Sul;3688.4;20.16
+2018;Março;Mato Grosso do Sul;3937.0;20.99
+2018;Abril;Mato Grosso do Sul;1221.4;21.47
+2018;Maio;Mato Grosso do Sul;2104.4;20.21
+2018;Junho;Mato Grosso do Sul;811.6;17.66
+2018;Julho;Mato Grosso do Sul;48.6;19.5
+2018;Agosto;Mato Grosso do Sul;2283.6;18.79
+2018;Setembro;Mato Grosso do Sul;5834.4;21.13
+2018;Outubro;Mato Grosso do Sul;8636.0;22.51
+2018;Novembro;Mato Grosso do Sul;7715.8;22.96
+2018;Dezembro;Mato Grosso do Sul;4473.2;23.92
+2018;Janeiro;Mato Grosso;6743.2;22.05
+2018;Fevereiro;Mato Grosso;7952.2;21.94
+2018;Março;Mato Grosso;5867.6;21.92
+2018;Abril;Mato Grosso;3439.4;21.45
+2018;Maio;Mato Grosso;1109.4;20.51
+2018;Junho;Mato Grosso;231.0;19.66
+2018;Julho;Mato Grosso;6.6;19.27
+2018;Agosto;Mato Grosso;627.8;19.99
+2018;Setembro;Mato Grosso;1648.2;20.55
+2018;Outubro;Mato Grosso;4775.6;20.95
+2018;Novembro;Mato Grosso;8975.8;21.35
+2018;Dezembro;Mato Grosso;6674.0;21.12
+2018;Janeiro;Alagoas;427.6;26.99
+2018;Fevereiro;Alagoas;486.0;27.06
+2018;Março;Alagoas;263.0;27.18
+2018;Abril;Alagoas;1050.4;25.14
+2018;Maio;Alagoas;515.0;21.48
+2018;Junho;Alagoas;268.4;20.72
+2018;Julho;Alagoas;348.0;22.95
+2018;Agosto;Alagoas;195.8;22.69
+2018;Setembro;Alagoas;226.6;22.57
+2018;Outubro;Alagoas;40.0;26.63
+2018;Novembro;Alagoas;205.8;26.79
+2018;Dezembro;Alagoas;468.8;26.84
+2018;Janeiro;Bahia;2619.8;24.39
+2018;Fevereiro;Bahia;4142.6;22.87
+2018;Março;Bahia;4203.4;23.35
+2018;Abril;Bahia;3538.8;22.14
+2018;Maio;Bahia;3372.4;23.05
+2018;Junho;Bahia;3166.6;21.65
+2018;Julho;Bahia;1437.6;21.85
+2018;Agosto;Bahia;1293.2;23.11
+2018;Setembro;Bahia;936.8;24.03
+2018;Outubro;Bahia;2438.0;25.59
+2018;Novembro;Bahia;4866.0;25.41
+2018;Dezembro;Bahia;6904.6;24.91
+2018;Janeiro;Ceará;759.6;25.79
+2018;Fevereiro;Ceará;1983.0;23.47
+2018;Março;Ceará;1542.0;22.77
+2018;Abril;Ceará;2000.2;21.72
+2018;Maio;Ceará;811.0;23.72
+2018;Junho;Ceará;174.6;23.98
+2018;Julho;Ceará;363.2;24.38
+2018;Agosto;Ceará;132.4;26.72
+2018;Setembro;Ceará;24.0;27.58
+2018;Outubro;Ceará;86.0;26.66
+2018;Novembro;Ceará;317.8;26.62
+2018;Dezembro;Ceará;1381.6;24.03
+2018;Janeiro;Maranhão;2316.4;23.15
+2018;Fevereiro;Maranhão;4201.0;22.07
+2018;Março;Maranhão;1974.2;19.96
+2018;Abril;Maranhão;3156.2;21.13
+2018;Maio;Maranhão;1737.2;22.46
+2018;Junho;Maranhão;465.6;21.03
+2018;Julho;Maranhão;598.2;22.0
+2018;Agosto;Maranhão;136.6;24.33
+2018;Setembro;Maranhão;181.2;24.18
+2018;Outubro;Maranhão;634.4;24.87
+2018;Novembro;Maranhão;1279.4;22.47
+2018;Dezembro;Maranhão;1986.6;20.11
+2018;Janeiro;Paraíba;430.2;18.07
+2018;Fevereiro;Paraíba;822.2;17.18
+2018;Março;Paraíba;369.0;17.88
+2018;Abril;Paraíba;1900.0;21.36
+2018;Maio;Paraíba;667.2;23.73
+2018;Junho;Paraíba;297.4;24.05
+2018;Julho;Paraíba;286.0;24.16
+2018;Agosto;Paraíba;102.2;24.96
+2018;Setembro;Paraíba;125.0;25.64
+2018;Outubro;Paraíba;31.8;26.83
+2018;Novembro;Paraíba;171.0;26.84
+2018;Dezembro;Paraíba;394.2;26.8
+2018;Janeiro;Pernambuco;326.0;22.23
+2018;Fevereiro;Pernambuco;1258.6;23.22
+2018;Março;Pernambuco;911.4;21.4
+2018;Abril;Pernambuco;1839.8;21.68
+2018;Maio;Pernambuco;652.6;21.51
+2018;Junho;Pernambuco;352.4;18.99
+2018;Julho;Pernambuco;428.4;20.73
+2018;Agosto;Pernambuco;244.8;23.91
+2018;Setembro;Pernambuco;176.6;24.83
+2018;Outubro;Pernambuco;130.4;25.28
+2018;Novembro;Pernambuco;201.4;25.42
+2018;Dezembro;Pernambuco;819.8;22.43
+2018;Janeiro;Piauí;1589.4;25.47
+2018;Fevereiro;Piauí;3753.8;24.37
+2018;Março;Piauí;2237.2;24.16
+2018;Abril;Piauí;1706.4;23.89
+2018;Maio;Piauí;178.6;22.8
+2018;Junho;Piauí;28.8;22.65
+2018;Julho;Piauí;23.4;23.34
+2018;Agosto;Piauí;37.2;26.28
+2018;Setembro;Piauí;166.6;29.13
+2018;Outubro;Piauí;952.0;29.42
+2018;Novembro;Piauí;1051.4;27.21
+2018;Dezembro;Piauí;2659.2;23.93
+2018;Janeiro;Rio Grande do Norte;398.6;23.04
+2018;Fevereiro;Rio Grande do Norte;922.6;22.71
+2018;Março;Rio Grande do Norte;827.2;21.98
+2018;Abril;Rio Grande do Norte;996.4;18.82
+2018;Maio;Rio Grande do Norte;297.6;20.4
+2018;Junho;Rio Grande do Norte;109.0;18.3
+2018;Julho;Rio Grande do Norte;301.6;20.91
+2018;Agosto;Rio Grande do Norte;43.2;26.04
+2018;Setembro;Rio Grande do Norte;62.6;27.17
+2018;Outubro;Rio Grande do Norte;48.6;27.06
+2018;Novembro;Rio Grande do Norte;95.6;28.17
+2018;Dezembro;Rio Grande do Norte;393.4;26.71
+2018;Janeiro;Sergipe;91.4;22.87
+2018;Fevereiro;Sergipe;273.0;22.89
+2018;Março;Sergipe;384.2;23.47
+2018;Abril;Sergipe;420.6;23.08
+2018;Maio;Sergipe;487.8;24.5
+2018;Junho;Sergipe;592.6;23.26
+2018;Julho;Sergipe;504.2;22.69
+2018;Agosto;Sergipe;191.6;23.49
+2018;Setembro;Sergipe;65.6;23.28
+2018;Outubro;Sergipe;101.6;26.02
+2018;Novembro;Sergipe;162.6;26.1
+2018;Dezembro;Sergipe;359.8;26.47
+2018;Janeiro;Acre;858.2;20.95
+2018;Fevereiro;Acre;666.6;21.55
+2018;Março;Acre;735.8;18.74
+2018;Abril;Acre;651.6;16.56
+2018;Maio;Acre;611.8;14.77
+2018;Junho;Acre;107.0;14.17
+2018;Julho;Acre;121.6;14.75
+2018;Agosto;Acre;319.8;16.99
+2018;Setembro;Acre;512.2;22.19
+2018;Outubro;Acre;1321.8;24.76
+2018;Novembro;Acre;1650.8;21.9
+2018;Dezembro;Acre;1016.8;21.14
+2018;Janeiro;Amazonas;2986.0;14.63
+2018;Fevereiro;Amazonas;3555.6;12.91
+2018;Março;Amazonas;2488.6;14.67
+2018;Abril;Amazonas;3758.8;17.61
+2018;Maio;Amazonas;3320.6;17.85
+2018;Junho;Amazonas;2314.0;17.18
+2018;Julho;Amazonas;1593.6;17.57
+2018;Agosto;Amazonas;882.6;16.49
+2018;Setembro;Amazonas;1210.8;16.85
+2018;Outubro;Amazonas;974.8;17.09
+2018;Novembro;Amazonas;2593.6;16.55
+2018;Dezembro;Amazonas;3979.6;17.31
+2018;Janeiro;Amapá;550.6;17.27
+2018;Fevereiro;Amapá;468.4;14.7
+2018;Março;Amapá;272.8;9.64
+2018;Abril;Amapá;626.6;8.61
+2018;Maio;Amapá;507.2;8.74
+2018;Junho;Amapá;344.4;12.76
+2018;Julho;Amapá;562.4;26.14
+2018;Agosto;Amapá;106.0;26.66
+2018;Setembro;Amapá;245.4;27.53
+2018;Outubro;Amapá;50.8;23.55
+2018;Novembro;Amapá;359.0;18.03
+2018;Dezembro;Amapá;901.2;16.6
+2018;Janeiro;Pará;4914.0;22.56
+2018;Fevereiro;Pará;8405.0;20.24
+2018;Março;Pará;6909.4;19.85
+2018;Abril;Pará;6395.8;19.24
+2018;Maio;Pará;4748.6;21.85
+2018;Junho;Pará;1485.6;21.01
+2018;Julho;Pará;1548.8;21.26
+2018;Agosto;Pará;1651.0;23.24
+2018;Setembro;Pará;1511.2;24.1
+2018;Outubro;Pará;1505.0;22.7
+2018;Novembro;Pará;4099.8;22.26
+2018;Dezembro;Pará;6975.2;20.54
+2018;Janeiro;Rondônia;1463.6;19.37
+2018;Fevereiro;Rondônia;1208.4;18.67
+2018;Março;Rondônia;961.4;19.15
+2018;Abril;Rondônia;759.4;18.27
+2018;Maio;Rondônia;286.4;18.44
+2018;Junho;Rondônia;51.8;15.15
+2018;Julho;Rondônia;41.4;14.34
+2018;Agosto;Rondônia;286.4;17.29
+2018;Setembro;Rondônia;408.2;19.87
+2018;Outubro;Rondônia;678.4;20.95
+2018;Novembro;Rondônia;1320.6;18.22
+2018;Dezembro;Rondônia;1710.0;17.28
+2018;Janeiro;Roraima;72.4;18.25
+2018;Fevereiro;Roraima;63.2;17.03
+2018;Março;Roraima;87.2;10.32
+2018;Abril;Roraima;246.0;7.82
+2018;Maio;Roraima;819.2;17.35
+2018;Junho;Roraima;797.2;16.06
+2018;Julho;Roraima;582.6;15.43
+2018;Agosto;Roraima;158.2;15.7
+2018;Setembro;Roraima;406.0;16.25
+2018;Outubro;Roraima;118.0;15.82
+2018;Novembro;Roraima;64.0;9.55
+2018;Dezembro;Roraima;86.6;15.64
+2018;Janeiro;Tocantins;4170.6;23.91
+2018;Fevereiro;Tocantins;6812.0;24.79
+2018;Março;Tocantins;5067.0;24.98
+2018;Abril;Tocantins;2540.0;25.08
+2018;Maio;Tocantins;287.6;25.65
+2018;Junho;Tocantins;5.8;24.46
+2018;Julho;Tocantins;3.6;24.64
+2018;Agosto;Tocantins;233.4;26.03
+2018;Setembro;Tocantins;417.8;25.97
+2018;Outubro;Tocantins;1985.0;22.99
+2018;Novembro;Tocantins;3908.6;20.74
+2018;Dezembro;Tocantins;2500.2;16.7
+2018;Janeiro;Espírito Santo;1187.2;24.66
+2018;Fevereiro;Espírito Santo;1952.4;23.03
+2018;Março;Espírito Santo;1747.0;22.26
+2018;Abril;Espírito Santo;1970.6;20.91
+2018;Maio;Espírito Santo;1413.8;21.35
+2018;Junho;Espírito Santo;513.2;20.88
+2018;Julho;Espírito Santo;140.8;20.34
+2018;Agosto;Espírito Santo;1028.0;20.74
+2018;Setembro;Espírito Santo;362.2;22.14
+2018;Outubro;Espírito Santo;1315.8;22.66
+2018;Novembro;Espírito Santo;2629.6;22.11
+2018;Dezembro;Espírito Santo;2529.4;22.52
+2018;Janeiro;Minas Gerais;10065.4;22.91
+2018;Fevereiro;Minas Gerais;12611.4;21.8
+2018;Março;Minas Gerais;9066.6;22.09
+2018;Abril;Minas Gerais;3096.2;20.47
+2018;Maio;Minas Gerais;1431.4;18.95
+2018;Junho;Minas Gerais;481.0;18.84
+2018;Julho;Minas Gerais;293.6;18.61
+2018;Agosto;Minas Gerais;2235.4;19.97
+2018;Setembro;Minas Gerais;2938.2;21.79
+2018;Outubro;Minas Gerais;8640.0;22.73
+2018;Novembro;Minas Gerais;16094.6;21.78
+2018;Dezembro;Minas Gerais;15762.2;22.53
+2018;Janeiro;Rio de Janeiro;5921.4;23.58
+2018;Fevereiro;Rio de Janeiro;4348.4;22.72
+2018;Março;Rio de Janeiro;4477.6;23.75
+2018;Abril;Rio de Janeiro;2187.6;22.01
+2018;Maio;Rio de Janeiro;1471.2;20.01
+2018;Junho;Rio de Janeiro;1083.0;19.43
+2018;Julho;Rio de Janeiro;797.4;19.26
+2018;Agosto;Rio de Janeiro;1909.0;18.93
+2018;Setembro;Rio de Janeiro;1909.2;20.84
+2018;Outubro;Rio de Janeiro;3095.2;21.57
+2018;Novembro;Rio de Janeiro;5465.4;22.06
+2018;Dezembro;Rio de Janeiro;3036.2;23.44
+2018;Janeiro;São Paulo;9322.2;22.68
+2018;Fevereiro;São Paulo;5156.4;22.14
+2018;Março;São Paulo;6245.2;24.2
+2018;Abril;São Paulo;1605.8;21.27
+2018;Maio;São Paulo;1054.6;19.09
+2018;Junho;São Paulo;930.6;18.55
+2018;Julho;São Paulo;480.0;18.19
+2018;Agosto;São Paulo;2383.2;16.97
+2018;Setembro;São Paulo;3353.4;20.4
+2018;Outubro;São Paulo;6952.6;22.37
+2018;Novembro;São Paulo;6890.2;22.23
+2018;Dezembro;São Paulo;5207.2;24.09
+2018;Janeiro;Paraná;6024.2;20.38
+2018;Fevereiro;Paraná;2724.2;18.47
+2018;Março;Paraná;4377.0;20.47
+2018;Abril;Paraná;592.4;19.9
+2018;Maio;Paraná;1129.2;16.92
+2018;Junho;Paraná;2088.6;14.72
+2018;Julho;Paraná;219.6;15.3
+2018;Agosto;Paraná;2152.8;13.55
+2018;Setembro;Paraná;3238.2;15.64
+2018;Outubro;Paraná;5534.8;16.57
+2018;Novembro;Paraná;2432.2;19.62
+2018;Dezembro;Paraná;1968.4;22.37
+2018;Janeiro;Rio Grande do Sul;6684.6;22.15
+2018;Fevereiro;Rio Grande do Sul;3221.2;21.62
+2018;Março;Rio Grande do Sul;6457.4;21.19
+2018;Abril;Rio Grande do Sul;3474.0;21.2
+2018;Maio;Rio Grande do Sul;4574.0;16.41
+2018;Junho;Rio Grande do Sul;4917.2;11.74
+2018;Julho;Rio Grande do Sul;6018.0;12.48
+2018;Agosto;Rio Grande do Sul;5657.0;11.62
+2018;Setembro;Rio Grande do Sul;7434.8;16.82
+2018;Outubro;Rio Grande do Sul;6385.4;17.5
+2018;Novembro;Rio Grande do Sul;7293.4;20.58
+2018;Dezembro;Rio Grande do Sul;5207.4;21.97
+2018;Janeiro;Santa Catarina;5243.2;20.34
+2018;Fevereiro;Santa Catarina;2038.0;19.69
+2018;Março;Santa Catarina;4005.4;19.77
+2018;Abril;Santa Catarina;571.8;18.23
+2018;Maio;Santa Catarina;1579.4;16.0
+2018;Junho;Santa Catarina;2309.0;12.79
+2018;Julho;Santa Catarina;1043.0;13.41
+2018;Agosto;Santa Catarina;1832.2;11.81
+2018;Setembro;Santa Catarina;3324.2;14.88
+2018;Outubro;Santa Catarina;4479.0;15.36
+2018;Novembro;Santa Catarina;2681.4;17.32
+2018;Dezembro;Santa Catarina;2851.8;20.59
+2019;Janeiro;Distrito Federal;429.6;22.02
+2019;Fevereiro;Distrito Federal;905.2;22.45
+2019;Março;Distrito Federal;1130.0;21.91
+2019;Abril;Distrito Federal;1136.0;21.83
+2019;Maio;Distrito Federal;374.6;21.45
+2019;Junho;Distrito Federal;12.8;19.58
+2019;Julho;Distrito Federal;0.2;19.13
+2019;Agosto;Distrito Federal;0.0;21.45
+2019;Setembro;Distrito Federal;22.0;24.53
+2019;Outubro;Distrito Federal;361.0;24.35
+2019;Novembro;Distrito Federal;1038.6;22.9
+2019;Dezembro;Distrito Federal;1230.4;21.99
+2019;Janeiro;Goiás;2823.4;24.42
+2019;Fevereiro;Goiás;5333.8;24.14
+2019;Março;Goiás;5265.6;23.31
+2019;Abril;Goiás;3022.4;23.33
+2019;Maio;Goiás;1015.6;23.45
+2019;Junho;Goiás;5.2;21.8
+2019;Julho;Goiás;42.0;21.29
+2019;Agosto;Goiás;34.0;22.94
+2019;Setembro;Goiás;420.2;25.23
+2019;Outubro;Goiás;1835.2;23.9
+2019;Novembro;Goiás;3916.2;21.71
+2019;Dezembro;Goiás;4770.6;21.54
+2019;Janeiro;Mato Grosso do Sul;5052.6;24.61
+2019;Fevereiro;Mato Grosso do Sul;7177.6;23.61
+2019;Março;Mato Grosso do Sul;6005.6;22.66
+2019;Abril;Mato Grosso do Sul;3786.0;20.54
+2019;Maio;Mato Grosso do Sul;2390.0;17.79
+2019;Junho;Mato Grosso do Sul;790.0;17.43
+2019;Julho;Mato Grosso do Sul;1070.6;15.09
+2019;Agosto;Mato Grosso do Sul;375.6;16.08
+2019;Setembro;Mato Grosso do Sul;893.6;18.69
+2019;Outubro;Mato Grosso do Sul;1986.0;19.27
+2019;Novembro;Mato Grosso do Sul;3959.8;20.71
+2019;Dezembro;Mato Grosso do Sul;8236.6;20.5
+2019;Janeiro;Mato Grosso;6090.4;20.12
+2019;Fevereiro;Mato Grosso;7104.8;20.78
+2019;Março;Mato Grosso;7233.8;20.02
+2019;Abril;Mato Grosso;4828.0;20.04
+2019;Maio;Mato Grosso;1292.8;18.85
+2019;Junho;Mato Grosso;23.0;19.8
+2019;Julho;Mato Grosso;53.6;18.0
+2019;Agosto;Mato Grosso;210.0;20.54
+2019;Setembro;Mato Grosso;1375.0;22.34
+2019;Outubro;Mato Grosso;3830.6;20.61
+2019;Novembro;Mato Grosso;4649.2;21.22
+2019;Dezembro;Mato Grosso;6674.4;23.34
+2019;Janeiro;Alagoas;340.8;26.5
+2019;Fevereiro;Alagoas;300.4;27.88
+2019;Março;Alagoas;607.6;27.38
+2019;Abril;Alagoas;346.4;27.01
+2019;Maio;Alagoas;378.4;25.62
+2019;Junho;Alagoas;680.4;18.21
+2019;Julho;Alagoas;581.8;14.39
+2019;Agosto;Alagoas;587.8;15.62
+2019;Setembro;Alagoas;239.6;14.86
+2019;Outubro;Alagoas;66.2;18.49
+2019;Novembro;Alagoas;31.6;21.34
+2019;Dezembro;Alagoas;103.8;23.18
+2019;Janeiro;Bahia;1125.8;25.4
+2019;Fevereiro;Bahia;2393.2;25.4
+2019;Março;Bahia;6185.2;25.65
+2019;Abril;Bahia;3548.2;25.68
+2019;Maio;Bahia;2408.6;24.53
+2019;Junho;Bahia;3293.6;22.32
+2019;Julho;Bahia;2866.2;20.81
+2019;Agosto;Bahia;2832.8;20.49
+2019;Setembro;Bahia;1859.0;22.72
+2019;Outubro;Bahia;1865.4;24.65
+2019;Novembro;Bahia;1907.0;25.22
+2019;Dezembro;Bahia;2194.8;25.15
+2019;Janeiro;Ceará;1209.6;22.87
+2019;Fevereiro;Ceará;1844.0;20.48
+2019;Março;Ceará;2284.8;21.28
+2019;Abril;Ceará;1694.0;20.31
+2019;Maio;Ceará;1140.2;22.82
+2019;Junho;Ceará;539.6;22.34
+2019;Julho;Ceará;345.0;22.78
+2019;Agosto;Ceará;66.8;24.39
+2019;Setembro;Ceará;56.6;25.02
+2019;Outubro;Ceará;64.2;23.61
+2019;Novembro;Ceará;117.8;21.86
+2019;Dezembro;Ceará;345.4;24.78
+2019;Janeiro;Maranhão;2109.0;21.55
+2019;Fevereiro;Maranhão;2591.6;20.15
+2019;Março;Maranhão;4545.0;19.5
+2019;Abril;Maranhão;3795.6;20.96
+2019;Maio;Maranhão;1503.0;22.94
+2019;Junho;Maranhão;518.8;24.62
+2019;Julho;Maranhão;593.0;24.27
+2019;Agosto;Maranhão;20.6;23.93
+2019;Setembro;Maranhão;119.0;24.5
+2019;Outubro;Maranhão;660.8;25.61
+2019;Novembro;Maranhão;658.6;25.8
+2019;Dezembro;Maranhão;1248.8;25.19
+2019;Janeiro;Paraíba;468.0;26.63
+2019;Fevereiro;Paraíba;1003.2;24.06
+2019;Março;Paraíba;1226.0;23.86
+2019;Abril;Paraíba;829.6;24.15
+2019;Maio;Paraíba;738.0;24.7
+2019;Junho;Paraíba;1136.6;24.29
+2019;Julho;Paraíba;1004.0;23.11
+2019;Agosto;Paraíba;315.8;22.88
+2019;Setembro;Paraíba;132.6;23.0
+2019;Outubro;Paraíba;105.6;23.57
+2019;Novembro;Paraíba;4.6;23.73
+2019;Dezembro;Paraíba;100.8;24.51
+2019;Janeiro;Pernambuco;280.0;21.97
+2019;Fevereiro;Pernambuco;660.0;23.17
+2019;Março;Pernambuco;1262.2;22.6
+2019;Abril;Pernambuco;770.2;22.59
+2019;Maio;Pernambuco;537.6;23.4
+2019;Junho;Pernambuco;731.2;21.35
+2019;Julho;Pernambuco;889.8;21.73
+2019;Agosto;Pernambuco;505.6;22.42
+2019;Setembro;Pernambuco;179.2;24.61
+2019;Outubro;Pernambuco;82.6;26.13
+2019;Novembro;Pernambuco;270.6;26.22
+2019;Dezembro;Pernambuco;169.4;26.03
+2019;Janeiro;Piauí;1329.8;23.53
+2019;Fevereiro;Piauí;2601.8;22.68
+2019;Março;Piauí;3206.2;22.11
+2019;Abril;Piauí;3257.0;25.92
+2019;Maio;Piauí;798.2;24.61
+2019;Junho;Piauí;43.4;22.21
+2019;Julho;Piauí;142.4;24.41
+2019;Agosto;Piauí;10.2;24.25
+2019;Setembro;Piauí;79.4;26.84
+2019;Outubro;Piauí;389.6;27.75
+2019;Novembro;Piauí;460.4;27.01
+2019;Dezembro;Piauí;581.6;27.05
+2019;Janeiro;Rio Grande do Norte;603.6;20.1
+2019;Fevereiro;Rio Grande do Norte;413.4;17.16
+2019;Março;Rio Grande do Norte;1544.4;22.35
+2019;Abril;Rio Grande do Norte;1487.4;23.04
+2019;Maio;Rio Grande do Norte;484.8;22.88
+2019;Junho;Rio Grande do Norte;538.0;23.16
+2019;Julho;Rio Grande do Norte;279.4;22.46
+2019;Agosto;Rio Grande do Norte;96.8;23.48
+2019;Setembro;Rio Grande do Norte;62.0;24.31
+2019;Outubro;Rio Grande do Norte;230.0;24.38
+2019;Novembro;Rio Grande do Norte;232.8;21.18
+2019;Dezembro;Rio Grande do Norte;149.4;20.66
+2019;Janeiro;Sergipe;129.4;24.94
+2019;Fevereiro;Sergipe;164.2;23.83
+2019;Março;Sergipe;735.4;25.04
+2019;Abril;Sergipe;454.8;26.75
+2019;Maio;Sergipe;525.8;25.9
+2019;Junho;Sergipe;1410.8;20.62
+2019;Julho;Sergipe;1492.6;16.67
+2019;Agosto;Sergipe;397.4;18.91
+2019;Setembro;Sergipe;281.6;21.62
+2019;Outubro;Sergipe;162.4;25.38
+2019;Novembro;Sergipe;96.8;25.86
+2019;Dezembro;Sergipe;71.8;26.48
+2019;Janeiro;Acre;1584.4;21.14
+2019;Fevereiro;Acre;1618.0;20.49
+2019;Março;Acre;1659.6;20.44
+2019;Abril;Acre;749.8;19.96
+2019;Maio;Acre;362.4;17.73
+2019;Junho;Acre;235.4;20.1
+2019;Julho;Acre;467.8;21.45
+2019;Agosto;Acre;307.8;22.91
+2019;Setembro;Acre;621.8;23.01
+2019;Outubro;Acre;894.4;22.07
+2019;Novembro;Acre;1514.8;20.37
+2019;Dezembro;Acre;2196.4;22.8
+2019;Janeiro;Amazonas;4067.0;22.31
+2019;Fevereiro;Amazonas;3939.4;22.55
+2019;Março;Amazonas;3246.6;23.01
+2019;Abril;Amazonas;4345.4;22.6
+2019;Maio;Amazonas;3952.6;21.3
+2019;Junho;Amazonas;1640.0;20.75
+2019;Julho;Amazonas;1549.2;21.0
+2019;Agosto;Amazonas;1017.6;19.77
+2019;Setembro;Amazonas;1475.6;20.48
+2019;Outubro;Amazonas;2621.6;22.38
+2019;Novembro;Amazonas;3159.2;25.32
+2019;Dezembro;Amazonas;4502.4;22.88
+2019;Janeiro;Amapá;554.0;12.64
+2019;Fevereiro;Amapá;872.4;17.28
+2019;Março;Amapá;390.6;14.36
+2019;Abril;Amapá;885.8;15.17
+2019;Maio;Amapá;1383.0;19.39
+2019;Junho;Amapá;814.6;19.49
+2019;Julho;Amapá;542.6;13.44
+2019;Agosto;Amapá;147.8;13.65
+2019;Setembro;Amapá;47.0;14.09
+2019;Outubro;Amapá;58.8;14.18
+2019;Novembro;Amapá;203.2;14.06
+2019;Dezembro;Amapá;346.4;13.23
+2019;Janeiro;Pará;6800.6;21.46
+2019;Fevereiro;Pará;7193.8;21.27
+2019;Março;Pará;10039.0;21.56
+2019;Abril;Pará;9433.8;22.9
+2019;Maio;Pará;6229.6;22.47
+2019;Junho;Pará;2364.0;23.01
+2019;Julho;Pará;1757.0;24.64
+2019;Agosto;Pará;1043.4;24.39
+2019;Setembro;Pará;1300.6;24.55
+2019;Outubro;Pará;2709.8;23.28
+2019;Novembro;Pará;2756.2;22.93
+2019;Dezembro;Pará;4530.6;24.3
+2019;Janeiro;Rondônia;1404.6;25.24
+2019;Fevereiro;Rondônia;1470.4;25.45
+2019;Março;Rondônia;1346.8;25.82
+2019;Abril;Rondônia;950.8;25.77
+2019;Maio;Rondônia;230.4;25.65
+2019;Junho;Rondônia;19.6;25.86
+2019;Julho;Rondônia;1.0;22.22
+2019;Agosto;Rondônia;66.2;21.99
+2019;Setembro;Rondônia;62.8;19.27
+2019;Outubro;Rondônia;445.4;13.42
+2019;Novembro;Rondônia;839.8;16.18
+2019;Dezembro;Rondônia;914.8;19.25
+2019;Janeiro;Roraima;5.0;28.23
+2019;Fevereiro;Roraima;0.2;28.75
+2019;Março;Roraima;7.0;30.12
+2019;Abril;Roraima;13.2;30.05
+2019;Maio;Roraima;448.2;26.28
+2019;Junho;Roraima;530.0;26.13
+2019;Julho;Roraima;419.6;25.9
+2019;Agosto;Roraima;295.8;26.17
+2019;Setembro;Roraima;127.8;27.52
+2019;Outubro;Roraima;50.6;27.87
+2019;Novembro;Roraima;218.4;27.92
+2019;Dezembro;Roraima;63.0;27.39
+2019;Janeiro;Tocantins;2032.2;16.86
+2019;Fevereiro;Tocantins;3035.4;19.88
+2019;Março;Tocantins;5355.4;24.95
+2019;Abril;Tocantins;2992.8;25.18
+2019;Maio;Tocantins;1072.6;23.15
+2019;Junho;Tocantins;10.4;18.87
+2019;Julho;Tocantins;90.2;22.41
+2019;Agosto;Tocantins;2.8;22.78
+2019;Setembro;Tocantins;419.6;23.11
+2019;Outubro;Tocantins;1913.2;24.94
+2019;Novembro;Tocantins;2848.4;25.32
+2019;Dezembro;Tocantins;2617.4;24.81
+2019;Janeiro;Espírito Santo;186.0;26.01
+2019;Fevereiro;Espírito Santo;1543.2;26.45
+2019;Março;Espírito Santo;1321.0;25.66
+2019;Abril;Espírito Santo;776.6;24.65
+2019;Maio;Espírito Santo;1344.0;23.15
+2019;Junho;Espírito Santo;524.2;21.42
+2019;Julho;Espírito Santo;327.2;20.05
+2019;Agosto;Espírito Santo;662.6;20.28
+2019;Setembro;Espírito Santo;696.8;22.43
+2019;Outubro;Espírito Santo;738.6;23.7
+2019;Novembro;Espírito Santo;3629.0;22.91
+2019;Dezembro;Espírito Santo;1719.0;22.76
+2019;Janeiro;Minas Gerais;4062.8;23.38
+2019;Fevereiro;Minas Gerais;12571.2;23.0
+2019;Março;Minas Gerais;9871.2;23.29
+2019;Abril;Minas Gerais;6280.8;23.04
+2019;Maio;Minas Gerais;2789.0;21.63
+2019;Junho;Minas Gerais;592.2;19.48
+2019;Julho;Minas Gerais;425.8;17.7
+2019;Agosto;Minas Gerais;722.6;19.51
+2019;Setembro;Minas Gerais;2380.2;22.66
+2019;Outubro;Minas Gerais;4301.6;23.69
+2019;Novembro;Minas Gerais;11471.8;23.46
+2019;Dezembro;Minas Gerais;12323.6;23.37
+2019;Janeiro;Rio de Janeiro;2660.0;26.12
+2019;Fevereiro;Rio de Janeiro;6483.6;24.64
+2019;Março;Rio de Janeiro;5905.2;23.67
+2019;Abril;Rio de Janeiro;3465.8;23.55
+2019;Maio;Rio de Janeiro;3707.6;21.83
+2019;Junho;Rio de Janeiro;1058.8;20.16
+2019;Julho;Rio de Janeiro;746.8;18.28
+2019;Agosto;Rio de Janeiro;1793.2;18.77
+2019;Setembro;Rio de Janeiro;2692.8;21.02
+2019;Outubro;Rio de Janeiro;1960.6;22.59
+2019;Novembro;Rio de Janeiro;4604.4;22.04
+2019;Dezembro;Rio de Janeiro;4509.0;22.37
+2019;Janeiro;São Paulo;6054.0;24.36
+2019;Fevereiro;São Paulo;8842.6;22.08
+2019;Março;São Paulo;6784.0;22.57
+2019;Abril;São Paulo;4276.2;22.62
+2019;Maio;São Paulo;3183.0;20.55
+2019;Junho;São Paulo;1243.4;18.37
+2019;Julho;São Paulo;1961.2;16.48
+2019;Agosto;São Paulo;985.6;17.1
+2019;Setembro;São Paulo;2510.8;19.9
+2019;Outubro;São Paulo;2585.4;22.54
+2019;Novembro;São Paulo;5480.2;22.9
+2019;Dezembro;São Paulo;6569.2;21.94
+2019;Janeiro;Paraná;4274.6;23.6
+2019;Fevereiro;Paraná;4461.6;21.5
+2019;Março;Paraná;3250.0;19.94
+2019;Abril;Paraná;2754.6;18.63
+2019;Maio;Paraná;4169.6;17.68
+2019;Junho;Paraná;1241.0;15.72
+2019;Julho;Paraná;816.6;13.14
+2019;Agosto;Paraná;597.0;15.01
+2019;Setembro;Paraná;1500.4;18.27
+2019;Outubro;Paraná;2095.2;19.83
+2019;Novembro;Paraná;3083.2;20.81
+2019;Dezembro;Paraná;4863.0;21.73
+2019;Janeiro;Rio Grande do Sul;10280.2;23.79
+2019;Fevereiro;Rio Grande do Sul;4571.4;22.01
+2019;Março;Rio Grande do Sul;5158.0;19.89
+2019;Abril;Rio Grande do Sul;5981.2;18.36
+2019;Maio;Rio Grande do Sul;8658.6;15.71
+2019;Junho;Rio Grande do Sul;2040.2;16.22
+2019;Julho;Rio Grande do Sul;5742.0;12.41
+2019;Agosto;Rio Grande do Sul;3544.2;13.5
+2019;Setembro;Rio Grande do Sul;3235.4;15.32
+2019;Outubro;Rio Grande do Sul;11955.6;18.62
+2019;Novembro;Rio Grande do Sul;5579.4;20.56
+2019;Dezembro;Rio Grande do Sul;2873.2;22.95
+2019;Janeiro;Santa Catarina;4039.2;22.19
+2019;Fevereiro;Santa Catarina;4746.4;18.91
+2019;Março;Santa Catarina;3134.4;18.44
+2019;Abril;Santa Catarina;3162.0;18.12
+2019;Maio;Santa Catarina;6497.0;16.32
+2019;Junho;Santa Catarina;1079.2;15.79
+2019;Julho;Santa Catarina;1626.8;12.18
+2019;Agosto;Santa Catarina;720.2;12.83
+2019;Setembro;Santa Catarina;1598.6;15.47
+2019;Outubro;Santa Catarina;3826.8;18.86
+2019;Novembro;Santa Catarina;3603.2;19.53
+2019;Dezembro;Santa Catarina;2190.8;19.85
+2020;Janeiro;Distrito Federal;1972.2;22.42
+2020;Fevereiro;Distrito Federal;1647.8;21.9
+2020;Março;Distrito Federal;1656.2;21.16
+2020;Abril;Distrito Federal;1075.6;21.58
+2020;Maio;Distrito Federal;123.6;19.35
+2020;Junho;Distrito Federal;0.0;19.42
+2020;Julho;Distrito Federal;0.0;19.32
+2020;Agosto;Distrito Federal;0.0;20.14
+2020;Setembro;Distrito Federal;158.4;23.48
+2020;Outubro;Distrito Federal;777.8;23.35
+2020;Novembro;Distrito Federal;874.4;21.45
+2020;Dezembro;Distrito Federal;1089.8;22.08
+2020;Janeiro;Goiás;6804.2;21.54
+2020;Fevereiro;Goiás;7146.2;20.85
+2020;Março;Goiás;4598.2;21.86
+2020;Abril;Goiás;2677.4;21.43
+2020;Maio;Goiás;513.2;18.69
+2020;Junho;Goiás;16.2;19.39
+2020;Julho;Goiás;0.0;18.28
+2020;Agosto;Goiás;1.6;18.26
+2020;Setembro;Goiás;274.6;20.3
+2020;Outubro;Goiás;2712.4;20.02
+2020;Novembro;Goiás;2286.6;18.57
+2020;Dezembro;Goiás;4023.8;18.26
+2020;Janeiro;Mato Grosso do Sul;5431.2;20.91
+2020;Fevereiro;Mato Grosso do Sul;4379.4;20.28
+2020;Março;Mato Grosso do Sul;1704.6;18.65
+2020;Abril;Mato Grosso do Sul;1775.8;16.22
+2020;Maio;Mato Grosso do Sul;2061.2;13.19
+2020;Junho;Mato Grosso do Sul;1427.4;13.77
+2020;Julho;Mato Grosso do Sul;154.4;12.88
+2020;Agosto;Mato Grosso do Sul;1818.0;13.23
+2020;Setembro;Mato Grosso do Sul;349.6;14.93
+2020;Outubro;Mato Grosso do Sul;2348.6;14.75
+2020;Novembro;Mato Grosso do Sul;1345.6;12.9
+2020;Dezembro;Mato Grosso do Sul;2783.8;13.68
+2020;Janeiro;Mato Grosso;6071.4;24.19
+2020;Fevereiro;Mato Grosso;8040.2;23.28
+2020;Março;Mato Grosso;5061.8;22.81
+2020;Abril;Mato Grosso;2963.2;22.08
+2020;Maio;Mato Grosso;1463.6;20.1
+2020;Junho;Mato Grosso;41.6;20.24
+2020;Julho;Mato Grosso;37.4;18.81
+2020;Agosto;Mato Grosso;28.4;17.99
+2020;Setembro;Mato Grosso;355.4;16.86
+2020;Outubro;Mato Grosso;1771.4;16.35
+2020;Novembro;Mato Grosso;1684.2;16.14
+2020;Dezembro;Mato Grosso;2772.6;13.6
+2020;Janeiro;Alagoas;134.0;23.9
+2020;Fevereiro;Alagoas;189.0;23.65
+2020;Março;Alagoas;497.8;21.64
+2020;Abril;Alagoas;464.2;17.91
+2020;Maio;Alagoas;474.4;15.73
+2020;Junho;Alagoas;506.4;14.69
+2020;Julho;Alagoas;309.8;13.48
+2020;Agosto;Alagoas;187.0;13.34
+2020;Setembro;Alagoas;55.0;10.04
+2020;Outubro;Alagoas;0.0;9.21
+2020;Novembro;Alagoas;22.2;10.83
+2020;Dezembro;Alagoas;58.0;14.47
+2020;Janeiro;Bahia;6095.0;24.49
+2020;Fevereiro;Bahia;2355.2;25.01
+2020;Março;Bahia;7162.8;23.99
+2020;Abril;Bahia;5606.2;23.43
+2020;Maio;Bahia;3345.0;21.71
+2020;Junho;Bahia;2687.4;20.47
+2020;Julho;Bahia;2248.0;19.47
+2020;Agosto;Bahia;1926.2;19.16
+2020;Setembro;Bahia;867.2;19.87
+2020;Outubro;Bahia;1885.2;19.36
+2020;Novembro;Bahia;3764.6;17.66
+2020;Dezembro;Bahia;499.2;17.22
+2020;Janeiro;Ceará;1861.8;22.95
+2020;Fevereiro;Ceará;1797.6;20.97
+2020;Março;Ceará;2512.8;18.6
+2020;Abril;Ceará;1207.0;16.09
+2020;Maio;Ceará;712.8;16.24
+2020;Junho;Ceará;178.2;15.26
+2020;Julho;Ceará;193.4;13.96
+2020;Agosto;Ceará;20.2;13.81
+2020;Setembro;Ceará;11.2;13.67
+2020;Outubro;Ceará;27.4;13.5
+2020;Novembro;Ceará;212.6;14.52
+2020;Dezembro;Ceará;214.4;14.05
+2020;Janeiro;Maranhão;4139.0;23.89
+2020;Fevereiro;Maranhão;2640.0;23.62
+2020;Março;Maranhão;4328.2;21.5
+2020;Abril;Maranhão;3307.4;18.78
+2020;Maio;Maranhão;451.6;16.65
+2020;Junho;Maranhão;88.4;15.4
+2020;Julho;Maranhão;18.2;15.4
+2020;Agosto;Maranhão;7.8;16.0
+2020;Setembro;Maranhão;38.8;16.73
+2020;Outubro;Maranhão;251.4;16.89
+2020;Novembro;Maranhão;819.8;15.89
+2020;Dezembro;Maranhão;632.6;15.49
+2020;Janeiro;Paraíba;323.4;23.32
+2020;Fevereiro;Paraíba;612.0;21.0
+2020;Março;Paraíba;1804.8;22.55
+2020;Abril;Paraíba;1024.2;20.97
+2020;Maio;Paraíba;954.8;17.86
+2020;Junho;Paraíba;567.2;17.82
+2020;Julho;Paraíba;482.2;16.79
+2020;Agosto;Paraíba;86.0;17.82
+2020;Setembro;Paraíba;153.8;17.98
+2020;Outubro;Paraíba;40.6;18.82
+2020;Novembro;Paraíba;166.0;18.79
+2020;Dezembro;Paraíba;68.0;19.35
+2020;Janeiro;Pernambuco;563.0;25.22
+2020;Fevereiro;Pernambuco;891.4;24.34
+2020;Março;Pernambuco;1997.4;23.95
+2020;Abril;Pernambuco;1021.4;23.75
+2020;Maio;Pernambuco;803.0;22.32
+2020;Junho;Pernambuco;732.0;20.74
+2020;Julho;Pernambuco;398.8;20.41
+2020;Agosto;Pernambuco;230.4;21.18
+2020;Setembro;Pernambuco;134.2;22.52
+2020;Outubro;Pernambuco;62.0;23.63
+2020;Novembro;Pernambuco;556.4;20.92
+2020;Dezembro;Pernambuco;195.2;20.62
+2020;Janeiro;Piauí;2580.6;24.0
+2020;Fevereiro;Piauí;2638.2;23.96
+2020;Março;Piauí;4243.8;22.74
+2020;Abril;Piauí;2155.2;21.46
+2020;Maio;Piauí;472.4;18.79
+2020;Junho;Piauí;194.2;17.79
+2020;Julho;Piauí;26.4;16.71
+2020;Agosto;Piauí;20.2;15.55
+2020;Setembro;Piauí;6.4;16.45
+2020;Outubro;Piauí;391.0;14.92
+2020;Novembro;Piauí;836.0;12.86
+2020;Dezembro;Piauí;346.2;12.66
+2020;Janeiro;Rio Grande do Norte;747.0;21.26
+2020;Fevereiro;Rio Grande do Norte;994.6;21.21
+2020;Março;Rio Grande do Norte;1509.4;20.44
+2020;Abril;Rio Grande do Norte;825.6;16.63
+2020;Maio;Rio Grande do Norte;530.2;13.56
+2020;Junho;Rio Grande do Norte;355.8;11.95
+2020;Julho;Rio Grande do Norte;312.4;11.53
+2020;Agosto;Rio Grande do Norte;35.4;10.95
+2020;Setembro;Rio Grande do Norte;40.4;10.53
+2020;Outubro;Rio Grande do Norte;40.2;10.22
+2020;Novembro;Rio Grande do Norte;43.6;8.54
+2020;Dezembro;Rio Grande do Norte;25.2;6.94
+2020;Janeiro;Sergipe;199.6;26.4
+2020;Fevereiro;Sergipe;455.0;25.54
+2020;Março;Sergipe;710.8;24.52
+2020;Abril;Sergipe;621.8;17.28
+2020;Maio;Sergipe;564.4;17.2
+2020;Junho;Sergipe;640.4;16.73
+2020;Julho;Sergipe;202.4;14.76
+2020;Agosto;Sergipe;167.4;13.5
+2020;Setembro;Sergipe;42.0;13.5
+2020;Outubro;Sergipe;30.6;14.76
+2020;Novembro;Sergipe;119.4;15.95
+2020;Dezembro;Sergipe;13.2;18.8
+2020;Janeiro;Acre;1282.8;22.37
+2020;Fevereiro;Acre;1281.0;22.01
+2020;Março;Acre;1156.2;18.75
+2020;Abril;Acre;770.4;17.74
+2020;Maio;Acre;312.6;13.11
+2020;Junho;Acre;133.0;11.8
+2020;Julho;Acre;216.4;10.06
+2020;Agosto;Acre;101.0;8.32
+2020;Setembro;Acre;359.0;8.85
+2020;Outubro;Acre;285.0;7.55
+2020;Novembro;Acre;223.6;7.99
+2020;Dezembro;Acre;652.2;7.01
+2020;Janeiro;Amazonas;2059.4;19.16
+2020;Fevereiro;Amazonas;1488.6;16.19
+2020;Março;Amazonas;2229.8;15.91
+2020;Abril;Amazonas;2322.8;15.58
+2020;Maio;Amazonas;2296.8;14.09
+2020;Junho;Amazonas;1229.6;13.1
+2020;Julho;Amazonas;518.4;11.81
+2020;Agosto;Amazonas;370.2;11.21
+2020;Setembro;Amazonas;649.6;11.0
+2020;Outubro;Amazonas;608.0;9.79
+2020;Novembro;Amazonas;1089.4;7.77
+2020;Dezembro;Amazonas;1379.4;8.22
+2020;Janeiro;Amapá;458.0;12.31
+2020;Fevereiro;Amapá;393.2;12.66
+2020;Março;Amapá;471.4;13.04
+2020;Abril;Amapá;833.8;12.63
+2020;Maio;Amapá;594.8;11.22
+2020;Junho;Amapá;537.2;13.1
+2020;Julho;Amapá;239.0;13.31
+2020;Agosto;Amapá;204.6;13.79
+2020;Setembro;Amapá;103.6;13.95
+2020;Outubro;Amapá;35.6;14.28
+2020;Novembro;Amapá;616.4;13.51
+2020;Dezembro;Amapá;150.8;13.39
+2020;Janeiro;Pará;8239.4;24.48
+2020;Fevereiro;Pará;8791.6;23.21
+2020;Março;Pará;9162.8;20.97
+2020;Abril;Pará;7510.4;21.03
+2020;Maio;Pará;4444.4;20.58
+2020;Junho;Pará;1520.0;19.77
+2020;Julho;Pará;634.0;18.59
+2020;Agosto;Pará;509.0;17.15
+2020;Setembro;Pará;670.2;16.05
+2020;Outubro;Pará;1392.4;12.95
+2020;Novembro;Pará;3184.2;11.56
+2020;Dezembro;Pará;2520.4;12.95
+2020;Janeiro;Rondônia;993.6;19.43
+2020;Fevereiro;Rondônia;1173.2;19.16
+2020;Março;Rondônia;849.6;19.19
+2020;Abril;Rondônia;443.6;19.45
+2020;Maio;Rondônia;322.4;17.83
+2020;Junho;Rondônia;22.2;13.05
+2020;Julho;Rondônia;3.0;13.29
+2020;Agosto;Rondônia;3.2;14.21
+2020;Setembro;Rondônia;29.0;14.2
+2020;Outubro;Rondônia;144.4;13.36
+2020;Novembro;Rondônia;237.0;13.44
+2020;Dezembro;Rondônia;347.6;12.71
+2020;Janeiro;Roraima;7.0;27.87
+2020;Fevereiro;Roraima;1.8;28.6
+2020;Março;Roraima;5.6;29.73
+2020;Abril;Roraima;104.8;28.87
+2020;Maio;Roraima;289.4;26.88
+2020;Junho;Roraima;379.6;26.04
+2020;Julho;Roraima;268.2;22.99
+2020;Agosto;Roraima;192.0;26.38
+2020;Setembro;Roraima;71.2;14.77
+2020;Outubro;Roraima;0.0;0.0
+2020;Novembro;Roraima;0.0;0.0
+2020;Dezembro;Roraima;1.0;3.48
+2020;Janeiro;Tocantins;5639.8;25.47
+2020;Fevereiro;Tocantins;4733.2;24.44
+2020;Março;Tocantins;5160.2;24.62
+2020;Abril;Tocantins;3984.4;25.22
+2020;Maio;Tocantins;826.6;23.52
+2020;Junho;Tocantins;21.8;20.6
+2020;Julho;Tocantins;1.0;19.4
+2020;Agosto;Tocantins;7.8;20.08
+2020;Setembro;Tocantins;118.2;20.9
+2020;Outubro;Tocantins;1397.6;19.53
+2020;Novembro;Tocantins;1569.0;17.48
+2020;Dezembro;Tocantins;1820.0;15.17
+2020;Janeiro;Espírito Santo;3309.6;23.81
+2020;Fevereiro;Espírito Santo;1689.6;23.97
+2020;Março;Espírito Santo;2230.0;20.65
+2020;Abril;Espírito Santo;387.0;16.79
+2020;Maio;Espírito Santo;412.4;12.73
+2020;Junho;Espírito Santo;379.6;11.45
+2020;Julho;Espírito Santo;536.8;10.88
+2020;Agosto;Espírito Santo;280.2;11.31
+2020;Setembro;Espírito Santo;533.6;19.34
+2020;Outubro;Espírito Santo;1742.6;19.0
+2020;Novembro;Espírito Santo;889.2;19.1
+2020;Dezembro;Espírito Santo;1542.8;20.97
+2020;Janeiro;Minas Gerais;20586.4;23.23
+2020;Fevereiro;Minas Gerais;17131.8;22.82
+2020;Março;Minas Gerais;12583.2;21.26
+2020;Abril;Minas Gerais;3496.8;19.78
+2020;Maio;Minas Gerais;2366.0;16.85
+2020;Junho;Minas Gerais;501.2;16.7
+2020;Julho;Minas Gerais;387.6;16.38
+2020;Agosto;Minas Gerais;650.6;16.81
+2020;Setembro;Minas Gerais;722.4;20.19
+2020;Outubro;Minas Gerais;6990.0;21.0
+2020;Novembro;Minas Gerais;7806.8;20.1
+2020;Dezembro;Minas Gerais;13349.0;21.47
+2020;Janeiro;Rio de Janeiro;5195.0;23.15
+2020;Fevereiro;Rio de Janeiro;7332.6;22.75
+2020;Março;Rio de Janeiro;5283.0;21.25
+2020;Abril;Rio de Janeiro;1152.8;19.81
+2020;Maio;Rio de Janeiro;2083.2;17.07
+2020;Junho;Rio de Janeiro;361.4;17.23
+2020;Julho;Rio de Janeiro;762.4;16.94
+2020;Agosto;Rio de Janeiro;1275.6;16.62
+2020;Setembro;Rio de Janeiro;2076.2;18.43
+2020;Outubro;Rio de Janeiro;2623.8;18.04
+2020;Novembro;Rio de Janeiro;3654.2;17.4
+2020;Dezembro;Rio de Janeiro;5853.6;18.67
+2020;Janeiro;São Paulo;8295.4;20.82
+2020;Fevereiro;São Paulo;10643.4;20.0
+2020;Março;São Paulo;3202.2;20.01
+2020;Abril;São Paulo;878.4;18.02
+2020;Maio;São Paulo;918.6;14.26
+2020;Junho;São Paulo;2084.6;14.28
+2020;Julho;São Paulo;299.8;13.37
+2020;Agosto;São Paulo;1377.6;12.84
+2020;Setembro;São Paulo;483.8;15.51
+2020;Outubro;São Paulo;1907.8;15.53
+2020;Novembro;São Paulo;1910.0;14.46
+2020;Dezembro;São Paulo;4947.6;14.6
+2020;Janeiro;Paraná;3586.6;22.0
+2020;Fevereiro;Paraná;3019.0;21.38
+2020;Março;Paraná;1015.0;21.12
+2020;Abril;Paraná;866.8;17.33
+2020;Maio;Paraná;2121.4;13.8
+2020;Junho;Paraná;3000.8;15.2
+2020;Julho;Paraná;733.4;13.98
+2020;Agosto;Paraná;2871.6;13.81
+2020;Setembro;Paraná;510.0;15.72
+2020;Outubro;Paraná;1413.8;14.57
+2020;Novembro;Paraná;1496.8;14.48
+2020;Dezembro;Paraná;2638.0;13.53
+2020;Janeiro;Rio Grande do Sul;6175.2;23.34
+2020;Fevereiro;Rio Grande do Sul;2815.6;22.5
+2020;Março;Rio Grande do Sul;1452.4;22.93
+2020;Abril;Rio Grande do Sul;1973.2;17.98
+2020;Maio;Rio Grande do Sul;6424.8;14.47
+2020;Junho;Rio Grande do Sul;7646.8;14.0
+2020;Julho;Rio Grande do Sul;6641.4;11.27
+2020;Agosto;Rio Grande do Sul;3196.0;14.14
+2020;Setembro;Rio Grande do Sul;5232.2;14.65
+2020;Outubro;Rio Grande do Sul;2469.4;16.43
+2020;Novembro;Rio Grande do Sul;2611.6;16.81
+2020;Dezembro;Rio Grande do Sul;3855.8;18.36
+2020;Janeiro;Santa Catarina;3767.8;20.13
+2020;Fevereiro;Santa Catarina;3012.0;18.49
+2020;Março;Santa Catarina;1040.4;18.87
+2020;Abril;Santa Catarina;1224.2;16.25
+2020;Maio;Santa Catarina;1439.6;12.73
+2020;Junho;Santa Catarina;3633.8;12.89
+2020;Julho;Santa Catarina;2532.8;11.25
+2020;Agosto;Santa Catarina;2192.4;12.46
+2020;Setembro;Santa Catarina;1900.4;15.55
+2020;Outubro;Santa Catarina;1330.8;16.83
+2020;Novembro;Santa Catarina;2798.2;16.74
+2020;Dezembro;Santa Catarina;4223.8;19.2
+2021;Janeiro;Distrito Federal;778.2;21.34
+2021;Fevereiro;Distrito Federal;2640.4;20.88
+2021;Março;Distrito Federal;539.2;21.71
+2021;Abril;Distrito Federal;497.8;21.09
+2021;Maio;Distrito Federal;7.0;20.33
+2021;Junho;Distrito Federal;88.4;19.72
+2021;Julho;Distrito Federal;0.0;18.89
+2021;Agosto;Distrito Federal;23.2;21.16
+2021;Setembro;Distrito Federal;63.6;24.89
+2021;Outubro;Distrito Federal;777.8;22.82
+2021;Novembro;Distrito Federal;1187.6;20.93
+2021;Dezembro;Distrito Federal;1959.2;21.08
+2021;Janeiro;Goiás;3303.0;17.62
+2021;Fevereiro;Goiás;5815.8;17.5
+2021;Março;Goiás;2211.6;17.77
+2021;Abril;Goiás;1523.8;17.34
+2021;Maio;Goiás;160.6;16.91
+2021;Junho;Goiás;143.4;17.27
+2021;Julho;Goiás;0.0;15.37
+2021;Agosto;Goiás;19.0;16.75
+2021;Setembro;Goiás;448.6;20.5
+2021;Outubro;Goiás;3597.4;20.66
+2021;Novembro;Goiás;6582.4;23.33
+2021;Dezembro;Goiás;6905.4;22.89
+2021;Janeiro;Mato Grosso do Sul;5203.6;13.79
+2021;Fevereiro;Mato Grosso do Sul;1425.4;13.64
+2021;Março;Mato Grosso do Sul;1630.6;12.95
+2021;Abril;Mato Grosso do Sul;327.2;11.46
+2021;Maio;Mato Grosso do Sul;456.0;9.92
+2021;Junho;Mato Grosso do Sul;611.0;8.48
+2021;Julho;Mato Grosso do Sul;93.8;7.58
+2021;Agosto;Mato Grosso do Sul;279.4;9.34
+2021;Setembro;Mato Grosso do Sul;406.0;11.62
+2021;Outubro;Mato Grosso do Sul;2398.4;11.09
+2021;Novembro;Mato Grosso do Sul;1499.8;11.43
+2021;Dezembro;Mato Grosso do Sul;1269.8;10.64
+2021;Janeiro;Mato Grosso;1997.2;10.55
+2021;Fevereiro;Mato Grosso;2553.0;10.16
+2021;Março;Mato Grosso;1643.4;9.37
+2021;Abril;Mato Grosso;777.4;8.39
+2021;Maio;Mato Grosso;334.4;7.93
+2021;Junho;Mato Grosso;43.8;6.92
+2021;Julho;Mato Grosso;0.0;6.1
+2021;Agosto;Mato Grosso;10.0;5.84
+2021;Setembro;Mato Grosso;232.8;5.0
+2021;Outubro;Mato Grosso;561.8;4.33
+2021;Novembro;Mato Grosso;778.2;3.36
+2021;Dezembro;Mato Grosso;428.0;2.79
+2021;Janeiro;Alagoas;166.0;14.13
+2021;Fevereiro;Alagoas;0.2;14.09
+2021;Março;Alagoas;100.6;15.12
+2021;Abril;Alagoas;105.2;14.93
+2021;Maio;Alagoas;204.4;12.23
+2021;Junho;Alagoas;61.4;9.83
+2021;Julho;Alagoas;74.0;9.65
+2021;Agosto;Alagoas;137.0;9.67
+2021;Setembro;Alagoas;148.6;10.41
+2021;Outubro;Alagoas;37.2;10.3
+2021;Novembro;Alagoas;88.2;10.19
+2021;Dezembro;Alagoas;153.6;9.82
+2021;Janeiro;Bahia;1496.4;16.26
+2021;Fevereiro;Bahia;1664.8;15.2
+2021;Março;Bahia;455.6;13.43
+2021;Abril;Bahia;2113.4;12.39
+2021;Maio;Bahia;680.6;10.92
+2021;Junho;Bahia;777.2;9.51
+2021;Julho;Bahia;1121.4;8.97
+2021;Agosto;Bahia;652.8;8.37
+2021;Setembro;Bahia;228.2;10.05
+2021;Outubro;Bahia;1860.8;13.92
+2021;Novembro;Bahia;5092.6;13.17
+2021;Dezembro;Bahia;6949.2;13.58
+2021;Janeiro;Ceará;546.8;13.85
+2021;Fevereiro;Ceará;915.6;12.89
+2021;Março;Ceará;1436.2;11.15
+2021;Abril;Ceará;930.2;9.76
+2021;Maio;Ceará;529.8;8.35
+2021;Junho;Ceará;98.2;8.74
+2021;Julho;Ceará;108.4;9.17
+2021;Agosto;Ceará;2.8;8.89
+2021;Setembro;Ceará;33.8;9.36
+2021;Outubro;Ceará;13.8;9.02
+2021;Novembro;Ceará;18.4;7.69
+2021;Dezembro;Ceará;193.8;9.06
+2021;Janeiro;Maranhão;664.4;13.83
+2021;Fevereiro;Maranhão;1238.6;12.27
+2021;Março;Maranhão;1435.0;11.71
+2021;Abril;Maranhão;661.0;11.86
+2021;Maio;Maranhão;386.4;10.9
+2021;Junho;Maranhão;189.0;9.83
+2021;Julho;Maranhão;119.2;9.87
+2021;Agosto;Maranhão;35.0;8.8
+2021;Setembro;Maranhão;168.4;6.22
+2021;Outubro;Maranhão;151.8;5.91
+2021;Novembro;Maranhão;267.4;5.48
+2021;Dezembro;Maranhão;552.2;5.12
+2021;Janeiro;Paraíba;90.6;19.3
+2021;Fevereiro;Paraíba;560.8;15.7
+2021;Março;Paraíba;424.6;15.52
+2021;Abril;Paraíba;472.0;12.46
+2021;Maio;Paraíba;635.6;10.63
+2021;Junho;Paraíba;93.8;9.95
+2021;Julho;Paraíba;182.2;9.51
+2021;Agosto;Paraíba;190.8;8.4
+2021;Setembro;Paraíba;35.8;9.93
+2021;Outubro;Paraíba;42.8;9.5
+2021;Novembro;Paraíba;27.8;9.54
+2021;Dezembro;Paraíba;378.0;20.84
+2021;Janeiro;Pernambuco;245.8;20.1
+2021;Fevereiro;Pernambuco;610.0;19.11
+2021;Março;Pernambuco;676.2;19.53
+2021;Abril;Pernambuco;1109.4;19.07
+2021;Maio;Pernambuco;817.4;17.12
+2021;Junho;Pernambuco;352.8;17.48
+2021;Julho;Pernambuco;463.4;16.07
+2021;Agosto;Pernambuco;454.4;15.43
+2021;Setembro;Pernambuco;131.0;13.8
+2021;Outubro;Pernambuco;180.2;10.81
+2021;Novembro;Pernambuco;104.8;9.09
+2021;Dezembro;Pernambuco;309.0;6.41
+2021;Janeiro;Piauí;638.2;11.77
+2021;Fevereiro;Piauí;1697.2;11.8
+2021;Março;Piauí;1324.6;11.15
+2021;Abril;Piauí;703.6;11.59
+2021;Maio;Piauí;529.2;10.37
+2021;Junho;Piauí;136.8;9.3
+2021;Julho;Piauí;162.8;9.1
+2021;Agosto;Piauí;23.0;8.96
+2021;Setembro;Piauí;89.6;14.18
+2021;Outubro;Piauí;630.0;15.71
+2021;Novembro;Piauí;1467.0;13.78
+2021;Dezembro;Piauí;2064.4;13.83
+2021;Janeiro;Rio Grande do Norte;50.2;7.12
+2021;Fevereiro;Rio Grande do Norte;47.2;7.41
+2021;Março;Rio Grande do Norte;52.0;6.07
+2021;Abril;Rio Grande do Norte;111.4;4.72
+2021;Maio;Rio Grande do Norte;243.4;5.64
+2021;Junho;Rio Grande do Norte;5.8;7.55
+2021;Julho;Rio Grande do Norte;13.6;7.99
+2021;Agosto;Rio Grande do Norte;6.0;6.66
+2021;Setembro;Rio Grande do Norte;5.6;7.04
+2021;Outubro;Rio Grande do Norte;0.2;5.54
+2021;Novembro;Rio Grande do Norte;2.0;5.16
+2021;Dezembro;Rio Grande do Norte;16.2;4.94
+2021;Janeiro;Sergipe;203.8;17.78
+2021;Fevereiro;Sergipe;25.6;17.32
+2021;Março;Sergipe;141.8;16.8
+2021;Abril;Sergipe;372.8;13.52
+2021;Maio;Sergipe;448.0;13.03
+2021;Junho;Sergipe;234.8;12.66
+2021;Julho;Sergipe;500.6;12.37
+2021;Agosto;Sergipe;91.0;11.95
+2021;Setembro;Sergipe;100.8;12.68
+2021;Outubro;Sergipe;92.6;13.9
+2021;Novembro;Sergipe;174.4;13.75
+2021;Dezembro;Sergipe;232.2;8.36
+2021;Janeiro;Acre;609.8;7.62
+2021;Fevereiro;Acre;934.0;6.27
+2021;Março;Acre;531.4;5.28
+2021;Abril;Acre;149.2;4.02
+2021;Maio;Acre;117.0;4.06
+2021;Junho;Acre;32.8;3.8
+2021;Julho;Acre;34.2;3.19
+2021;Agosto;Acre;12.8;3.56
+2021;Setembro;Acre;115.4;3.68
+2021;Outubro;Acre;292.0;3.66
+2021;Novembro;Acre;283.4;3.62
+2021;Dezembro;Acre;358.4;3.64
+2021;Janeiro;Amazonas;1403.6;7.81
+2021;Fevereiro;Amazonas;996.8;8.22
+2021;Março;Amazonas;1373.0;8.24
+2021;Abril;Amazonas;957.8;8.37
+2021;Maio;Amazonas;599.4;7.43
+2021;Junho;Amazonas;364.0;5.88
+2021;Julho;Amazonas;367.0;5.21
+2021;Agosto;Amazonas;372.0;5.53
+2021;Setembro;Amazonas;399.0;7.13
+2021;Outubro;Amazonas;797.6;8.16
+2021;Novembro;Amazonas;793.0;7.79
+2021;Dezembro;Amazonas;1277.4;7.71
+2021;Janeiro;Amapá;406.2;11.49
+2021;Fevereiro;Amapá;608.2;12.58
+2021;Março;Amapá;765.8;12.55
+2021;Abril;Amapá;472.2;12.37
+2021;Maio;Amapá;523.4;9.13
+2021;Junho;Amapá;69.2;4.86
+2021;Julho;Amapá;2.0;1.04
+2021;Agosto;Amapá;0.8;0.41
+2021;Setembro;Amapá;0.0;0.01
+2021;Outubro;Amapá;0.0;0.0
+2021;Novembro;Amapá;0.0;0.0
+2021;Dezembro;Amapá;0.0;0.0
+2021;Janeiro;Pará;4502.2;13.26
+2021;Fevereiro;Pará;6557.6;13.43
+2021;Março;Pará;5608.8;11.59
+2021;Abril;Pará;3318.8;10.76
+2021;Maio;Pará;1807.0;10.1
+2021;Junho;Pará;653.0;8.96
+2021;Julho;Pará;869.6;9.29
+2021;Agosto;Pará;663.8;9.2
+2021;Setembro;Pará;1049.8;7.7
+2021;Outubro;Pará;959.2;6.32
+2021;Novembro;Pará;1413.0;6.04
+2021;Dezembro;Pará;3498.4;8.89
+2021;Janeiro;Rondônia;398.0;12.53
+2021;Fevereiro;Rondônia;246.0;12.5
+2021;Março;Rondônia;440.2;12.35
+2021;Abril;Rondônia;228.4;12.54
+2021;Maio;Rondônia;21.6;8.93
+2021;Junho;Rondônia;2.8;7.7
+2021;Julho;Rondônia;0.0;6.66
+2021;Agosto;Rondônia;0.0;6.64
+2021;Setembro;Rondônia;32.2;6.44
+2021;Outubro;Rondônia;0.0;6.43
+2021;Novembro;Rondônia;0.0;5.95
+2021;Dezembro;Rondônia;0.0;6.01
+2021;Janeiro;Roraima;24.2;8.12
+2021;Fevereiro;Roraima;0.0;0.0
+2021;Março;Roraima;0.0;0.0
+2021;Abril;Roraima;0.0;0.0
+2021;Maio;Roraima;0.0;0.0
+2021;Junho;Roraima;0.0;0.0
+2021;Julho;Roraima;0.0;0.0
+2021;Agosto;Roraima;0.0;0.0
+2021;Setembro;Roraima;0.0;0.0
+2021;Outubro;Roraima;0.0;0.0
+2021;Novembro;Roraima;0.0;0.0
+2021;Dezembro;Roraima;0.0;0.0
+2021;Janeiro;Tocantins;1615.6;15.9
+2021;Fevereiro;Tocantins;3487.0;15.55
+2021;Março;Tocantins;1746.8;15.24
+2021;Abril;Tocantins;1114.2;14.37
+2021;Maio;Tocantins;87.4;14.09
+2021;Junho;Tocantins;39.2;13.06
+2021;Julho;Tocantins;0.4;11.3
+2021;Agosto;Tocantins;57.8;11.29
+2021;Setembro;Tocantins;355.8;16.12
+2021;Outubro;Tocantins;1293.0;15.85
+2021;Novembro;Tocantins;2337.8;12.85
+2021;Dezembro;Tocantins;3467.0;11.02
+2021;Janeiro;Espírito Santo;432.0;20.61
+2021;Fevereiro;Espírito Santo;2380.4;22.1
+2021;Março;Espírito Santo;1553.6;21.52
+2021;Abril;Espírito Santo;620.4;19.14
+2021;Maio;Espírito Santo;307.4;18.08
+2021;Junho;Espírito Santo;427.0;16.98
+2021;Julho;Espírito Santo;61.4;16.12
+2021;Agosto;Espírito Santo;548.4;15.8
+2021;Setembro;Espírito Santo;297.4;16.83
+2021;Outubro;Espírito Santo;1917.0;16.54
+2021;Novembro;Espírito Santo;2064.0;19.86
+2021;Dezembro;Espírito Santo;2561.8;22.31
+2021;Janeiro;Minas Gerais;7296.2;21.97
+2021;Fevereiro;Minas Gerais;16514.2;21.74
+2021;Março;Minas Gerais;5184.0;21.91
+2021;Abril;Minas Gerais;2156.4;19.63
+2021;Maio;Minas Gerais;751.8;17.28
+2021;Junho;Minas Gerais;542.8;15.8
+2021;Julho;Minas Gerais;129.4;14.52
+2021;Agosto;Minas Gerais;417.8;16.12
+2021;Setembro;Minas Gerais;712.8;18.62
+2021;Outubro;Minas Gerais;8920.6;17.07
+2021;Novembro;Minas Gerais;11955.2;18.21
+2021;Dezembro;Minas Gerais;18510.4;19.91
+2021;Janeiro;Rio de Janeiro;2646.4;23.04
+2021;Fevereiro;Rio de Janeiro;4183.6;21.81
+2021;Março;Rio de Janeiro;2717.6;21.66
+2021;Abril;Rio de Janeiro;2179.6;18.53
+2021;Maio;Rio de Janeiro;1675.0;16.75
+2021;Junho;Rio de Janeiro;826.4;16.12
+2021;Julho;Rio de Janeiro;402.8;14.75
+2021;Agosto;Rio de Janeiro;1409.4;17.02
+2021;Setembro;Rio de Janeiro;837.6;18.83
+2021;Outubro;Rio de Janeiro;5091.2;19.74
+2021;Novembro;Rio de Janeiro;4170.8;21.09
+2021;Dezembro;Rio de Janeiro;6729.4;22.57
+2021;Janeiro;São Paulo;3756.6;15.8
+2021;Fevereiro;São Paulo;2904.6;15.41
+2021;Março;São Paulo;2556.8;15.02
+2021;Abril;São Paulo;776.2;13.18
+2021;Maio;São Paulo;648.6;11.72
+2021;Junho;São Paulo;708.0;10.74
+2021;Julho;São Paulo;230.0;9.46
+2021;Agosto;São Paulo;199.8;11.58
+2021;Setembro;São Paulo;421.0;12.43
+2021;Outubro;São Paulo;2712.2;10.21
+2021;Novembro;São Paulo;2226.0;11.48
+2021;Dezembro;São Paulo;2292.2;10.04
+2021;Janeiro;Paraná;4137.8;12.79
+2021;Fevereiro;Paraná;1037.2;11.92
+2021;Março;Paraná;1695.2;10.54
+2021;Abril;Paraná;237.8;8.78
+2021;Maio;Paraná;885.8;7.46
+2021;Junho;Paraná;893.0;6.07
+2021;Julho;Paraná;276.6;5.27
+2021;Agosto;Paraná;562.8;7.09
+2021;Setembro;Paraná;701.6;8.04
+2021;Outubro;Paraná;2400.6;7.56
+2021;Novembro;Paraná;705.4;12.22
+2021;Dezembro;Paraná;784.4;12.2
+2021;Janeiro;Rio Grande do Sul;7748.2;20.56
+2021;Fevereiro;Rio Grande do Sul;4163.2;20.77
+2021;Março;Rio Grande do Sul;5238.2;20.18
+2021;Abril;Rio Grande do Sul;1616.2;17.9
+2021;Maio;Rio Grande do Sul;5444.4;12.91
+2021;Junho;Rio Grande do Sul;5480.0;11.65
+2021;Julho;Rio Grande do Sul;1294.8;10.52
+2021;Agosto;Rio Grande do Sul;3076.6;12.92
+2021;Setembro;Rio Grande do Sul;6346.0;14.09
+2021;Outubro;Rio Grande do Sul;3930.6;15.69
+2021;Novembro;Rio Grande do Sul;2339.0;17.32
+2021;Dezembro;Rio Grande do Sul;1662.0;19.59
+2021;Janeiro;Santa Catarina;5996.8;18.77
+2021;Fevereiro;Santa Catarina;1929.8;18.53
+2021;Março;Santa Catarina;2871.0;18.66
+2021;Abril;Santa Catarina;691.0;14.44
+2021;Maio;Santa Catarina;2046.0;11.46
+2021;Junho;Santa Catarina;3065.6;9.87
+2021;Julho;Santa Catarina;660.4;8.54
+2021;Agosto;Santa Catarina;672.2;11.28
+2021;Setembro;Santa Catarina;2453.2;11.42
+2021;Outubro;Santa Catarina;3381.8;12.18
+2021;Novembro;Santa Catarina;1654.4;13.03
+2021;Dezembro;Santa Catarina;1010.6;13.9
+2022;Janeiro;Distrito Federal;969.8;21.68
+2022;Fevereiro;Distrito Federal;1063.6;21.55
+2022;Março;Distrito Federal;488.8;22.35
+2022;Abril;Distrito Federal;174.8;22.44
+2022;Maio;Distrito Federal;57.0;19.78
+2022;Junho;Distrito Federal;0.0;19.84
+2022;Julho;Distrito Federal;0.0;19.51
+2022;Agosto;Distrito Federal;0.2;21.45
+2022;Setembro;Distrito Federal;198.2;22.68
+2022;Outubro;Distrito Federal;207.4;23.3
+2022;Novembro;Distrito Federal;1582.2;19.89
+2022;Dezembro;Distrito Federal;1721.6;20.04
+2022;Janeiro;Goiás;6261.0;22.51
+2022;Fevereiro;Goiás;5226.0;22.46
+2022;Março;Goiás;3613.2;23.59
+2022;Abril;Goiás;1251.8;24.42
+2022;Maio;Goiás;283.2;21.39
+2022;Junho;Goiás;127.8;21.35
+2022;Julho;Goiás;7.2;19.96
+2022;Agosto;Goiás;45.6;20.65
+2022;Setembro;Goiás;815.8;21.85
+2022;Outubro;Goiás;1878.6;22.73
+2022;Novembro;Goiás;3241.6;20.73
+2022;Dezembro;Goiás;5402.6;19.12
+2022;Janeiro;Mato Grosso do Sul;503.0;9.13
+2022;Fevereiro;Mato Grosso do Sul;252.4;8.79
+2022;Março;Mato Grosso do Sul;640.8;9.02
+2022;Abril;Mato Grosso do Sul;305.0;9.12
+2022;Maio;Mato Grosso do Sul;187.4;7.97
+2022;Junho;Mato Grosso do Sul;188.6;7.83
+2022;Julho;Mato Grosso do Sul;14.2;8.79
+2022;Agosto;Mato Grosso do Sul;459.2;10.66
+2022;Setembro;Mato Grosso do Sul;2154.8;15.85
+2022;Outubro;Mato Grosso do Sul;2393.6;18.66
+2022;Novembro;Mato Grosso do Sul;1796.8;19.73
+2022;Dezembro;Mato Grosso do Sul;3240.8;20.3
+2022;Janeiro;Mato Grosso;578.4;4.23
+2022;Fevereiro;Mato Grosso;544.6;2.88
+2022;Março;Mato Grosso;799.6;4.38
+2022;Abril;Mato Grosso;175.0;6.38
+2022;Maio;Mato Grosso;178.2;10.75
+2022;Junho;Mato Grosso;655.0;11.04
+2022;Julho;Mato Grosso;3.4;13.64
+2022;Agosto;Mato Grosso;483.2;13.92
+2022;Setembro;Mato Grosso;876.0;15.22
+2022;Outubro;Mato Grosso;3836.8;16.13
+2022;Novembro;Mato Grosso;3854.4;20.83
+2022;Dezembro;Mato Grosso;8214.4;20.68
+2022;Janeiro;Alagoas;31.4;11.15
+2022;Fevereiro;Alagoas;78.4;11.95
+2022;Março;Alagoas;396.8;11.3
+2022;Abril;Alagoas;218.6;11.29
+2022;Maio;Alagoas;732.2;10.6
+2022;Junho;Alagoas;1366.0;13.45
+2022;Julho;Alagoas;1338.4;15.8
+2022;Agosto;Alagoas;623.6;12.3
+2022;Setembro;Alagoas;169.8;16.41
+2022;Outubro;Alagoas;117.2;17.74
+2022;Novembro;Alagoas;523.0;17.31
+2022;Dezembro;Alagoas;207.0;16.85
+2022;Janeiro;Bahia;2186.8;14.0
+2022;Fevereiro;Bahia;1581.6;14.03
+2022;Março;Bahia;2510.0;14.22
+2022;Abril;Bahia;2509.6;14.73
+2022;Maio;Bahia;1243.8;12.65
+2022;Junho;Bahia;637.0;11.91
+2022;Julho;Bahia;1108.4;12.26
+2022;Agosto;Bahia;868.4;13.53
+2022;Setembro;Bahia;1166.8;16.77
+2022;Outubro;Bahia;1484.4;19.16
+2022;Novembro;Bahia;6924.6;16.79
+2022;Dezembro;Bahia;6160.0;17.55
+2022;Janeiro;Ceará;696.2;8.54
+2022;Fevereiro;Ceará;279.2;7.47
+2022;Março;Ceará;1042.6;7.22
+2022;Abril;Ceará;824.4;7.11
+2022;Maio;Ceará;440.0;5.49
+2022;Junho;Ceará;231.0;4.81
+2022;Julho;Ceará;175.2;5.08
+2022;Agosto;Ceará;82.2;15.29
+2022;Setembro;Ceará;31.6;18.99
+2022;Outubro;Ceará;53.0;19.63
+2022;Novembro;Ceará;784.2;20.14
+2022;Dezembro;Ceará;410.2;21.95
+2022;Janeiro;Maranhão;453.4;5.14
+2022;Fevereiro;Maranhão;459.4;5.49
+2022;Março;Maranhão;849.4;5.57
+2022;Abril;Maranhão;2368.8;14.0
+2022;Maio;Maranhão;1695.2;14.75
+2022;Junho;Maranhão;894.6;14.98
+2022;Julho;Maranhão;421.4;16.75
+2022;Agosto;Maranhão;195.2;23.79
+2022;Setembro;Maranhão;144.8;24.81
+2022;Outubro;Maranhão;495.2;24.38
+2022;Novembro;Maranhão;2425.8;20.42
+2022;Dezembro;Maranhão;1853.6;20.07
+2022;Janeiro;Paraíba;897.2;20.57
+2022;Fevereiro;Paraíba;191.0;21.36
+2022;Março;Paraíba;1303.8;20.91
+2022;Abril;Paraíba;754.8;20.82
+2022;Maio;Paraíba;1655.0;19.97
+2022;Junho;Paraíba;935.4;18.85
+2022;Julho;Paraíba;1099.6;18.65
+2022;Agosto;Paraíba;357.4;18.95
+2022;Setembro;Paraíba;118.6;19.96
+2022;Outubro;Paraíba;97.0;20.72
+2022;Novembro;Paraíba;499.8;20.13
+2022;Dezembro;Paraíba;228.8;20.06
+2022;Janeiro;Pernambuco;194.0;5.86
+2022;Fevereiro;Pernambuco;82.0;6.23
+2022;Março;Pernambuco;122.0;6.2
+2022;Abril;Pernambuco;78.6;6.36
+2022;Maio;Pernambuco;68.0;5.63
+2022;Junho;Pernambuco;769.4;10.08
+2022;Julho;Pernambuco;821.2;9.19
+2022;Agosto;Pernambuco;468.2;9.28
+2022;Setembro;Pernambuco;157.8;18.09
+2022;Outubro;Pernambuco;329.2;18.26
+2022;Novembro;Pernambuco;1145.4;17.37
+2022;Dezembro;Pernambuco;694.6;17.2
+2022;Janeiro;Piauí;1710.0;12.19
+2022;Fevereiro;Piauí;849.4;12.74
+2022;Março;Piauí;1369.2;13.35
+2022;Abril;Piauí;720.0;12.68
+2022;Maio;Piauí;379.0;12.47
+2022;Junho;Piauí;184.2;12.66
+2022;Julho;Piauí;53.8;12.44
+2022;Agosto;Piauí;32.0;21.43
+2022;Setembro;Piauí;279.2;20.79
+2022;Outubro;Piauí;487.4;21.89
+2022;Novembro;Piauí;2068.2;20.87
+2022;Dezembro;Piauí;1874.6;20.81
+2022;Janeiro;Rio Grande do Norte;54.6;4.57
+2022;Fevereiro;Rio Grande do Norte;15.2;4.6
+2022;Março;Rio Grande do Norte;33.6;4.18
+2022;Abril;Rio Grande do Norte;23.6;4.73
+2022;Maio;Rio Grande do Norte;29.2;6.12
+2022;Junho;Rio Grande do Norte;167.6;5.86
+2022;Julho;Rio Grande do Norte;537.6;5.83
+2022;Agosto;Rio Grande do Norte;224.2;12.67
+2022;Setembro;Rio Grande do Norte;47.2;20.11
+2022;Outubro;Rio Grande do Norte;51.8;18.99
+2022;Novembro;Rio Grande do Norte;68.8;17.87
+2022;Dezembro;Rio Grande do Norte;74.0;12.51
+2022;Janeiro;Sergipe;43.2;3.56
+2022;Fevereiro;Sergipe;11.2;3.12
+2022;Março;Sergipe;57.4;2.73
+2022;Abril;Sergipe;70.2;2.34
+2022;Maio;Sergipe;83.8;2.62
+2022;Junho;Sergipe;193.8;5.53
+2022;Julho;Sergipe;309.0;6.2
+2022;Agosto;Sergipe;131.6;3.15
+2022;Setembro;Sergipe;67.4;8.18
+2022;Outubro;Sergipe;123.2;9.48
+2022;Novembro;Sergipe;545.2;11.89
+2022;Dezembro;Sergipe;89.4;13.38
+2022;Janeiro;Acre;302.0;3.63
+2022;Fevereiro;Acre;532.4;3.53
+2022;Março;Acre;309.4;3.54
+2022;Abril;Acre;218.6;3.51
+2022;Maio;Acre;185.6;3.4
+2022;Junho;Acre;51.2;2.85
+2022;Julho;Acre;2.0;3.18
+2022;Agosto;Acre;32.2;3.42
+2022;Setembro;Acre;25.4;5.14
+2022;Outubro;Acre;403.8;7.47
+2022;Novembro;Acre;361.4;7.24
+2022;Dezembro;Acre;743.4;7.29
+2022;Janeiro;Amazonas;901.4;7.66
+2022;Fevereiro;Amazonas;1118.6;7.56
+2022;Março;Amazonas;1220.0;7.91
+2022;Abril;Amazonas;2211.0;9.98
+2022;Maio;Amazonas;1604.2;11.54
+2022;Junho;Amazonas;1969.0;14.78
+2022;Julho;Amazonas;1164.8;19.88
+2022;Agosto;Amazonas;1345.2;19.92
+2022;Setembro;Amazonas;1017.4;21.12
+2022;Outubro;Amazonas;2876.6;20.97
+2022;Novembro;Amazonas;2264.8;19.53
+2022;Dezembro;Amazonas;4621.0;20.07
+2022;Janeiro;Amapá;0.0;0.0
+2022;Fevereiro;Amapá;0.0;0.0
+2022;Março;Amapá;0.0;0.0
+2022;Abril;Amapá;1248.8;19.58
+2022;Maio;Amapá;1212.2;19.14
+2022;Junho;Amapá;457.0;13.34
+2022;Julho;Amapá;465.6;13.0
+2022;Agosto;Amapá;148.0;13.51
+2022;Setembro;Amapá;80.8;13.95
+2022;Outubro;Amapá;36.8;14.13
+2022;Novembro;Amapá;200.0;13.48
+2022;Dezembro;Amapá;453.4;12.9
+2022;Janeiro;Pará;3767.8;9.7
+2022;Fevereiro;Pará;2767.8;10.72
+2022;Março;Pará;4475.0;10.34
+2022;Abril;Pará;3320.4;10.56
+2022;Maio;Pará;2621.4;10.18
+2022;Junho;Pará;2164.2;14.14
+2022;Julho;Pará;798.2;15.46
+2022;Agosto;Pará;811.4;14.58
+2022;Setembro;Pará;692.4;15.07
+2022;Outubro;Pará;1314.0;13.7
+2022;Novembro;Pará;2601.8;12.16
+2022;Dezembro;Pará;2806.2;11.69
+2022;Janeiro;Rondônia;626.4;12.5
+2022;Fevereiro;Rondônia;989.0;12.34
+2022;Março;Rondônia;812.0;12.38
+2022;Abril;Rondônia;262.6;12.83
+2022;Maio;Rondônia;58.8;12.36
+2022;Junho;Rondônia;61.0;6.72
+2022;Julho;Rondônia;1.4;10.84
+2022;Agosto;Rondônia;38.6;12.98
+2022;Setembro;Rondônia;62.6;9.87
+2022;Outubro;Rondônia;269.0;7.8
+2022;Novembro;Rondônia;154.6;6.58
+2022;Dezembro;Rondônia;211.2;6.48
+2022;Janeiro;Roraima;0.0;0.0
+2022;Fevereiro;Roraima;0.0;0.0
+2022;Março;Roraima;0.0;8.34
+2022;Abril;Roraima;0.0;27.0
+2022;Maio;Roraima;0.0;25.75
+2022;Junho;Roraima;0.0;25.58
+2022;Julho;Roraima;0.0;25.99
+2022;Agosto;Roraima;0.0;26.93
+2022;Setembro;Roraima;0.0;27.56
+2022;Outubro;Roraima;0.0;27.81
+2022;Novembro;Roraima;0.0;23.52
+2022;Dezembro;Roraima;50.6;26.48
+2022;Janeiro;Tocantins;2593.2;11.48
+2022;Fevereiro;Tocantins;1972.2;11.33
+2022;Março;Tocantins;1985.4;11.25
+2022;Abril;Tocantins;893.6;15.11
+2022;Maio;Tocantins;215.0;12.31
+2022;Junho;Tocantins;211.0;11.17
+2022;Julho;Tocantins;0.4;14.33
+2022;Agosto;Tocantins;1.8;16.79
+2022;Setembro;Tocantins;582.4;17.16
+2022;Outubro;Tocantins;1080.4;16.61
+2022;Novembro;Tocantins;3391.0;15.43
+2022;Dezembro;Tocantins;4006.0;15.14
+2022;Janeiro;Espírito Santo;1533.4;25.16
+2022;Fevereiro;Espírito Santo;2541.8;23.9
+2022;Março;Espírito Santo;390.6;22.84
+2022;Abril;Espírito Santo;405.4;23.73
+2022;Maio;Espírito Santo;423.4;20.81
+2022;Junho;Espírito Santo;102.4;20.14
+2022;Julho;Espírito Santo;193.0;20.53
+2022;Agosto;Espírito Santo;209.8;20.57
+2022;Setembro;Espírito Santo;441.4;21.13
+2022;Outubro;Espírito Santo;1113.4;23.68
+2022;Novembro;Espírito Santo;3696.4;22.25
+2022;Dezembro;Espírito Santo;4620.4;23.31
+2022;Janeiro;Minas Gerais;18305.6;21.81
+2022;Fevereiro;Minas Gerais;13757.0;20.98
+2022;Março;Minas Gerais;2766.2;20.75
+2022;Abril;Minas Gerais;1969.2;19.59
+2022;Maio;Minas Gerais;1525.8;16.67
+2022;Junho;Minas Gerais;199.8;17.08
+2022;Julho;Minas Gerais;151.0;18.48
+2022;Agosto;Minas Gerais;413.4;19.68
+2022;Setembro;Minas Gerais;3116.0;21.54
+2022;Outubro;Minas Gerais;6409.8;23.29
+2022;Novembro;Minas Gerais;13263.4;21.26
+2022;Dezembro;Minas Gerais;19867.2;22.01
+2022;Janeiro;Rio de Janeiro;5644.2;24.55
+2022;Fevereiro;Rio de Janeiro;5000.8;22.48
+2022;Março;Rio de Janeiro;2572.0;23.88
+2022;Abril;Rio de Janeiro;5375.8;22.1
+2022;Maio;Rio de Janeiro;839.2;19.68
+2022;Junho;Rio de Janeiro;1176.4;18.69
+2022;Julho;Rio de Janeiro;475.2;19.85
+2022;Agosto;Rio de Janeiro;1541.0;19.41
+2022;Setembro;Rio de Janeiro;3277.8;19.37
+2022;Outubro;Rio de Janeiro;1650.2;22.16
+2022;Novembro;Rio de Janeiro;6058.2;21.02
+2022;Dezembro;Rio de Janeiro;5990.6;22.98
+2022;Janeiro;São Paulo;4715.4;12.7
+2022;Fevereiro;São Paulo;2337.2;14.59
+2022;Março;São Paulo;4188.2;17.02
+2022;Abril;São Paulo;1838.2;16.95
+2022;Maio;São Paulo;1564.8;15.63
+2022;Junho;São Paulo;1349.2;16.23
+2022;Julho;São Paulo;244.0;17.49
+2022;Agosto;São Paulo;1526.8;15.74
+2022;Setembro;São Paulo;3953.6;16.16
+2022;Outubro;São Paulo;4432.4;21.55
+2022;Novembro;São Paulo;4462.4;20.57
+2022;Dezembro;São Paulo;8985.6;22.11
+2022;Janeiro;Paraná;2490.4;15.17
+2022;Fevereiro;Paraná;1167.0;14.71
+2022;Março;Paraná;2452.8;12.76
+2022;Abril;Paraná;1791.4;12.02
+2022;Maio;Paraná;1429.6;10.76
+2022;Junho;Paraná;1180.6;8.89
+2022;Julho;Paraná;161.8;9.82
+2022;Agosto;Paraná;1211.0;9.71
+2022;Setembro;Paraná;3449.6;11.83
+2022;Outubro;Paraná;5082.2;13.82
+2022;Novembro;Paraná;2046.0;14.43
+2022;Dezembro;Paraná;3089.4;21.01
+2022;Janeiro;Rio Grande do Sul;3928.4;23.07
+2022;Fevereiro;Rio Grande do Sul;3691.4;20.64
+2022;Março;Rio Grande do Sul;6056.0;18.04
+2022;Abril;Rio Grande do Sul;7215.6;15.76
+2022;Maio;Rio Grande do Sul;6063.6;11.7
+2022;Junho;Rio Grande do Sul;5793.0;9.4
+2022;Julho;Rio Grande do Sul;5053.8;13.43
+2022;Agosto;Rio Grande do Sul;4087.2;12.18
+2022;Setembro;Rio Grande do Sul;2844.8;13.25
+2022;Outubro;Rio Grande do Sul;5006.0;16.59
+2022;Novembro;Rio Grande do Sul;2439.8;19.15
+2022;Dezembro;Rio Grande do Sul;3212.6;21.7
+2022;Janeiro;Santa Catarina;2861.6;19.05
+2022;Fevereiro;Santa Catarina;1593.4;18.03
+2022;Março;Santa Catarina;3971.8;15.53
+2022;Abril;Santa Catarina;2092.2;13.37
+2022;Maio;Santa Catarina;3608.6;9.9
+2022;Junho;Santa Catarina;2564.6;8.68
+2022;Julho;Santa Catarina;719.6;10.16
+2022;Agosto;Santa Catarina;2827.4;9.44
+2022;Setembro;Santa Catarina;1740.2;9.29
+2022;Outubro;Santa Catarina;4549.8;13.44
+2022;Novembro;Santa Catarina;3401.8;17.51
+2022;Dezembro;Santa Catarina;5208.0;20.84
+2023;Janeiro;Distrito Federal;940.8;20.59
+2023;Fevereiro;Distrito Federal;555.6;21.96
+2023;Março;Distrito Federal;722.2;20.92
+2023;Abril;Distrito Federal;726.4;21.33
+2023;Maio;Distrito Federal;14.4;19.97
+2023;Junho;Distrito Federal;21.6;19.72
+2023;Julho;Distrito Federal;0.0;20.19
+2023;Agosto;Distrito Federal;194.4;22.11
+2023;Setembro;Distrito Federal;178.0;24.13
+2023;Outubro;Distrito Federal;464.0;23.61
+2023;Novembro;Distrito Federal;562.2;23.52
+2023;Dezembro;Distrito Federal;996.8;22.32
+2023;Janeiro;Goiás;5788.2;19.68
+2023;Fevereiro;Goiás;3163.8;20.7
+2023;Março;Goiás;3365.2;20.61
+2023;Abril;Goiás;2057.8;21.13
+2023;Maio;Goiás;92.6;19.67
+2023;Junho;Goiás;117.2;19.32
+2023;Julho;Goiás;22.2;17.9
+2023;Agosto;Goiás;336.8;19.28
+2023;Setembro;Goiás;500.2;21.2
+2023;Outubro;Goiás;1753.6;23.41
+2023;Novembro;Goiás;2849.6;23.91
+2023;Dezembro;Goiás;3613.0;21.62
+2023;Janeiro;Mato Grosso do Sul;4794.6;21.86
+2023;Fevereiro;Mato Grosso do Sul;5359.0;21.94
+2023;Março;Mato Grosso do Sul;4301.8;22.24
+2023;Abril;Mato Grosso do Sul;3691.2;22.6
+2023;Maio;Mato Grosso do Sul;1540.2;20.13
+2023;Junho;Mato Grosso do Sul;1364.0;17.56
+2023;Julho;Mato Grosso do Sul;301.4;19.66
+2023;Agosto;Mato Grosso do Sul;1163.4;22.14
+2023;Setembro;Mato Grosso do Sul;1431.4;24.04
+2023;Outubro;Mato Grosso do Sul;2991.6;24.92
+2023;Novembro;Mato Grosso do Sul;3330.4;27.22
+2023;Dezembro;Mato Grosso do Sul;3690.8;27.36
+2023;Janeiro;Mato Grosso;9183.0;20.59
+2023;Fevereiro;Mato Grosso;5831.4;20.74
+2023;Março;Mato Grosso;5827.6;19.78
+2023;Abril;Mato Grosso;3478.0;20.25
+2023;Maio;Mato Grosso;507.6;20.07
+2023;Junho;Mato Grosso;408.0;20.3
+2023;Julho;Mato Grosso;19.2;20.76
+2023;Agosto;Mato Grosso;592.0;22.34
+2023;Setembro;Mato Grosso;1495.4;22.98
+2023;Outubro;Mato Grosso;2125.6;23.22
+2023;Novembro;Mato Grosso;3015.0;23.85
+2023;Dezembro;Mato Grosso;4416.8;23.74
+2023;Janeiro;Alagoas;126.4;21.69
+2023;Fevereiro;Alagoas;82.0;22.73
+2023;Março;Alagoas;228.6;22.72
+2023;Abril;Alagoas;256.2;22.8
+2023;Maio;Alagoas;460.4;19.29
+2023;Junho;Alagoas;457.6;16.69
+2023;Julho;Alagoas;299.0;15.32
+2023;Agosto;Alagoas;160.6;16.35
+2023;Setembro;Alagoas;252.0;24.48
+2023;Outubro;Alagoas;50.8;24.58
+2023;Novembro;Alagoas;26.2;23.22
+2023;Dezembro;Alagoas;103.2;24.49
+2023;Janeiro;Bahia;3197.4;17.35
+2023;Fevereiro;Bahia;1323.0;17.14
+2023;Março;Bahia;2704.6;16.34
+2023;Abril;Bahia;2897.2;18.14
+2023;Maio;Bahia;2215.8;18.29
+2023;Junho;Bahia;1345.6;17.88
+2023;Julho;Bahia;1289.2;17.47
+2023;Agosto;Bahia;1009.4;19.18
+2023;Setembro;Bahia;1009.8;21.63
+2023;Outubro;Bahia;665.4;22.2
+2023;Novembro;Bahia;1123.0;22.82
+2023;Dezembro;Bahia;2236.2;22.99
+2023;Janeiro;Ceará;1361.4;20.18
+2023;Fevereiro;Ceará;1450.2;19.58
+2023;Março;Ceará;3795.0;22.5
+2023;Abril;Ceará;2197.2;20.96
+2023;Maio;Ceará;488.0;19.82
+2023;Junho;Ceará;273.4;19.67
+2023;Julho;Ceará;96.6;19.68
+2023;Agosto;Ceará;57.2;22.35
+2023;Setembro;Ceará;14.8;24.99
+2023;Outubro;Ceará;4.8;22.87
+2023;Novembro;Ceará;99.0;22.3
+2023;Dezembro;Ceará;321.6;22.52
+2023;Janeiro;Maranhão;2069.2;19.12
+2023;Fevereiro;Maranhão;1685.4;18.81
+2023;Março;Maranhão;4368.0;20.98
+2023;Abril;Maranhão;2490.6;20.07
+2023;Maio;Maranhão;1485.2;20.58
+2023;Junho;Maranhão;565.8;20.51
+2023;Julho;Maranhão;122.0;19.73
+2023;Agosto;Maranhão;81.0;22.89
+2023;Setembro;Maranhão;39.0;27.29
+2023;Outubro;Maranhão;192.6;27.02
+2023;Novembro;Maranhão;529.6;25.1
+2023;Dezembro;Maranhão;971.4;23.6
+2023;Janeiro;Paraíba;398.0;20.32
+2023;Fevereiro;Paraíba;508.2;21.03
+2023;Março;Paraíba;1335.8;24.7
+2023;Abril;Paraíba;1059.0;24.45
+2023;Maio;Paraíba;791.8;24.06
+2023;Junho;Paraíba;1371.2;22.13
+2023;Julho;Paraíba;493.0;22.37
+2023;Agosto;Paraíba;341.8;24.37
+2023;Setembro;Paraíba;327.4;25.21
+2023;Outubro;Paraíba;42.4;23.48
+2023;Novembro;Paraíba;299.6;23.68
+2023;Dezembro;Paraíba;327.2;21.09
+2023;Janeiro;Pernambuco;222.6;17.72
+2023;Fevereiro;Pernambuco;302.8;18.13
+2023;Março;Pernambuco;1193.0;19.74
+2023;Abril;Pernambuco;614.8;19.41
+2023;Maio;Pernambuco;897.8;21.87
+2023;Junho;Pernambuco;960.0;20.11
+2023;Julho;Pernambuco;444.8;19.35
+2023;Agosto;Pernambuco;401.0;20.23
+2023;Setembro;Pernambuco;284.0;20.92
+2023;Outubro;Pernambuco;76.4;22.16
+2023;Novembro;Pernambuco;210.0;22.29
+2023;Dezembro;Pernambuco;443.0;22.43
+2023;Janeiro;Piauí;2302.8;19.08
+2023;Fevereiro;Piauí;1909.4;17.95
+2023;Março;Piauí;3937.2;20.13
+2023;Abril;Piauí;2177.2;21.8
+2023;Maio;Piauí;1142.8;22.87
+2023;Junho;Piauí;139.0;23.83
+2023;Julho;Piauí;31.0;23.93
+2023;Agosto;Piauí;152.0;25.88
+2023;Setembro;Piauí;52.6;26.15
+2023;Outubro;Piauí;70.6;26.12
+2023;Novembro;Piauí;1284.6;25.01
+2023;Dezembro;Piauí;1331.6;24.09
+2023;Janeiro;Rio Grande do Norte;90.4;13.93
+2023;Fevereiro;Rio Grande do Norte;186.4;16.24
+2023;Março;Rio Grande do Norte;711.6;15.77
+2023;Abril;Rio Grande do Norte;372.4;15.65
+2023;Maio;Rio Grande do Norte;166.4;16.09
+2023;Junho;Rio Grande do Norte;169.2;14.65
+2023;Julho;Rio Grande do Norte;158.4;16.73
+2023;Agosto;Rio Grande do Norte;196.4;20.87
+2023;Setembro;Rio Grande do Norte;59.4;24.05
+2023;Outubro;Rio Grande do Norte;0.4;22.24
+2023;Novembro;Rio Grande do Norte;22.6;17.78
+2023;Dezembro;Rio Grande do Norte;183.2;18.85
+2023;Janeiro;Sergipe;133.6;15.92
+2023;Fevereiro;Sergipe;171.0;15.91
+2023;Março;Sergipe;319.8;16.56
+2023;Abril;Sergipe;266.0;14.21
+2023;Maio;Sergipe;501.8;12.87
+2023;Junho;Sergipe;388.2;13.04
+2023;Julho;Sergipe;266.8;11.83
+2023;Agosto;Sergipe;116.8;12.44
+2023;Setembro;Sergipe;68.4;11.29
+2023;Outubro;Sergipe;14.0;9.99
+2023;Novembro;Sergipe;70.6;19.41
+2023;Dezembro;Sergipe;177.2;19.74
+2023;Janeiro;Acre;487.6;7.16
+2023;Fevereiro;Acre;576.4;7.15
+2023;Março;Acre;867.6;7.2
+2023;Abril;Acre;335.0;7.21
+2023;Maio;Acre;280.8;6.42
+2023;Junho;Acre;68.8;4.26
+2023;Julho;Acre;9.6;3.65
+2023;Agosto;Acre;43.2;3.89
+2023;Setembro;Acre;79.6;3.98
+2023;Outubro;Acre;77.4;4.07
+2023;Novembro;Acre;101.6;3.95
+2023;Dezembro;Acre;731.4;11.14
+2023;Janeiro;Amazonas;5071.2;19.62
+2023;Fevereiro;Amazonas;5299.0;19.74
+2023;Março;Amazonas;4089.2;19.12
+2023;Abril;Amazonas;3689.8;19.57
+2023;Maio;Amazonas;3322.0;19.5
+2023;Junho;Amazonas;1585.6;20.13
+2023;Julho;Amazonas;977.6;21.2
+2023;Agosto;Amazonas;805.8;21.93
+2023;Setembro;Amazonas;1213.4;22.41
+2023;Outubro;Amazonas;1258.0;22.58
+2023;Novembro;Amazonas;1608.8;21.71
+2023;Dezembro;Amazonas;3438.6;20.69
+2023;Janeiro;Amapá;463.2;12.66
+2023;Fevereiro;Amapá;566.0;12.46
+2023;Março;Amapá;635.6;12.65
+2023;Abril;Amapá;554.8;13.07
+2023;Maio;Amapá;601.2;13.24
+2023;Junho;Amapá;382.6;13.34
+2023;Julho;Amapá;321.8;13.49
+2023;Agosto;Amapá;93.4;14.04
+2023;Setembro;Amapá;35.2;14.36
+2023;Outubro;Amapá;45.0;14.53
+2023;Novembro;Amapá;79.4;15.84
+2023;Dezembro;Amapá;696.4;27.18
+2023;Janeiro;Pará;3587.6;11.69
+2023;Fevereiro;Pará;4883.6;12.28
+2023;Março;Pará;5679.4;11.43
+2023;Abril;Pará;3277.8;11.19
+2023;Maio;Pará;3102.0;14.33
+2023;Junho;Pará;1143.2;15.72
+2023;Julho;Pará;962.0;17.12
+2023;Agosto;Pará;494.4;17.47
+2023;Setembro;Pará;605.2;18.07
+2023;Outubro;Pará;1032.4;18.58
+2023;Novembro;Pará;1895.0;19.53
+2023;Dezembro;Pará;2997.0;18.93
+2023;Janeiro;Rondônia;30.2;0.67
+2023;Fevereiro;Rondônia;0.0;0.0
+2023;Março;Rondônia;3.6;0.74
+2023;Abril;Rondônia;64.8;1.76
+2023;Maio;Rondônia;45.2;8.13
+2023;Junho;Rondônia;182.8;23.4
+2023;Julho;Rondônia;15.4;24.18
+2023;Agosto;Rondônia;265.8;25.51
+2023;Setembro;Rondônia;361.8;26.08
+2023;Outubro;Rondônia;453.4;26.3
+2023;Novembro;Rondônia;662.4;26.26
+2023;Dezembro;Rondônia;1004.6;26.67
+2023;Janeiro;Roraima;85.8;26.72
+2023;Fevereiro;Roraima;53.6;27.02
+2023;Março;Roraima;8.4;28.35
+2023;Abril;Roraima;293.0;27.93
+2023;Maio;Roraima;322.8;26.84
+2023;Junho;Roraima;438.8;26.22
+2023;Julho;Roraima;384.8;26.45
+2023;Agosto;Roraima;26.2;16.97
+2023;Setembro;Roraima;0.0;0.0
+2023;Outubro;Roraima;0.0;0.0
+2023;Novembro;Roraima;1.0;9.05
+2023;Dezembro;Roraima;22.4;29.29
+2023;Janeiro;Tocantins;2563.4;15.64
+2023;Fevereiro;Tocantins;2036.6;16.13
+2023;Março;Tocantins;4343.4;20.5
+2023;Abril;Tocantins;2011.8;21.39
+2023;Maio;Tocantins;679.6;21.41
+2023;Junho;Tocantins;1.6;22.02
+2023;Julho;Tocantins;0.0;21.28
+2023;Agosto;Tocantins;355.8;22.08
+2023;Setembro;Tocantins;501.8;24.63
+2023;Outubro;Tocantins;1326.2;25.17
+2023;Novembro;Tocantins;1810.4;22.54
+2023;Dezembro;Tocantins;2217.0;21.7
+2023;Janeiro;Espírito Santo;2905.8;24.81
+2023;Fevereiro;Espírito Santo;495.0;25.98
+2023;Março;Espírito Santo;783.2;25.48
+2023;Abril;Espírito Santo;1259.6;23.83
+2023;Maio;Espírito Santo;710.8;21.45
+2023;Junho;Espírito Santo;214.6;20.56
+2023;Julho;Espírito Santo;980.0;20.27
+2023;Agosto;Espírito Santo;1469.0;21.61
+2023;Setembro;Espírito Santo;473.6;22.83
+2023;Outubro;Espírito Santo;737.4;22.43
+2023;Novembro;Espírito Santo;559.2;21.97
+2023;Dezembro;Espírito Santo;1114.6;19.57
+2023;Janeiro;Minas Gerais;20499.0;22.36
+2023;Fevereiro;Minas Gerais;6454.4;23.03
+2023;Março;Minas Gerais;4700.4;22.59
+2023;Abril;Minas Gerais;5712.8;21.62
+2023;Maio;Minas Gerais;957.2;19.49
+2023;Junho;Minas Gerais;412.0;18.26
+2023;Julho;Minas Gerais;586.4;18.72
+2023;Agosto;Minas Gerais;2211.6;20.09
+2023;Setembro;Minas Gerais;1318.6;23.28
+2023;Outubro;Minas Gerais;7762.0;23.69
+2023;Novembro;Minas Gerais;5712.0;23.97
+2023;Dezembro;Minas Gerais;8674.6;24.53
+2023;Janeiro;Rio de Janeiro;7008.8;24.16
+2023;Fevereiro;Rio de Janeiro;5057.2;25.34
+2023;Março;Rio de Janeiro;2531.0;24.83
+2023;Abril;Rio de Janeiro;3870.6;22.42
+2023;Maio;Rio de Janeiro;1413.0;20.11
+2023;Junho;Rio de Janeiro;515.0;19.2
+2023;Julho;Rio de Janeiro;1245.4;19.11
+2023;Agosto;Rio de Janeiro;2371.6;20.15
+2023;Setembro;Rio de Janeiro;1077.2;22.65
+2023;Outubro;Rio de Janeiro;5178.8;22.85
+2023;Novembro;Rio de Janeiro;2667.0;23.95
+2023;Dezembro;Rio de Janeiro;2964.6;24.77
+2023;Janeiro;São Paulo;9182.6;21.7
+2023;Fevereiro;São Paulo;8811.6;22.16
+2023;Março;São Paulo;6304.4;22.4
+2023;Abril;São Paulo;4355.0;20.02
+2023;Maio;São Paulo;1686.8;18.02
+2023;Junho;São Paulo;2279.4;16.94
+2023;Julho;São Paulo;681.2;17.66
+2023;Agosto;São Paulo;1503.8;19.02
+2023;Setembro;São Paulo;1682.8;22.27
+2023;Outubro;São Paulo;7823.8;21.98
+2023;Novembro;São Paulo;4871.8;24.15
+2023;Dezembro;São Paulo;3423.6;24.78
+2023;Janeiro;Paraná;4061.2;18.94
+2023;Fevereiro;Paraná;4577.0;18.31
+2023;Março;Paraná;2513.0;18.52
+2023;Abril;Paraná;2561.6;15.4
+2023;Maio;Paraná;1061.0;15.71
+2023;Junho;Paraná;1779.8;13.43
+2023;Julho;Paraná;1779.0;14.39
+2023;Agosto;Paraná;1847.4;15.47
+2023;Setembro;Paraná;2549.0;18.79
+2023;Outubro;Paraná;7743.4;17.41
+2023;Novembro;Paraná;4341.8;18.39
+2023;Dezembro;Paraná;2928.2;19.3
+2023;Janeiro;Rio Grande do Sul;3061.0;23.42
+2023;Fevereiro;Rio Grande do Sul;3926.8;22.32
+2023;Março;Rio Grande do Sul;5333.4;22.8
+2023;Abril;Rio Grande do Sul;2122.0;17.74
+2023;Maio;Rio Grande do Sul;6804.2;15.24
+2023;Junho;Rio Grande do Sul;5124.8;13.17
+2023;Julho;Rio Grande do Sul;6959.6;12.5
+2023;Agosto;Rio Grande do Sul;3280.8;15.18
+2023;Setembro;Rio Grande do Sul;17467.0;16.81
+2023;Outubro;Rio Grande do Sul;11192.0;17.42
+2023;Novembro;Rio Grande do Sul;12954.0;19.6
+2023;Dezembro;Rio Grande do Sul;7767.2;21.65
+2023;Janeiro;Santa Catarina;4754.0;21.65
+2023;Fevereiro;Santa Catarina;4571.2;20.84
+2023;Março;Santa Catarina;4239.4;21.28
+2023;Abril;Santa Catarina;3132.2;17.33
+2023;Maio;Santa Catarina;2207.8;15.75
+2023;Junho;Santa Catarina;3153.6;13.99
+2023;Julho;Santa Catarina;3759.0;14.36
+2023;Agosto;Santa Catarina;2442.2;15.22
+2023;Setembro;Santa Catarina;4442.8;17.5
+2023;Outubro;Santa Catarina;9548.6;14.67
+2023;Novembro;Santa Catarina;7586.6;17.72
+2023;Dezembro;Santa Catarina;3239.6;20.2

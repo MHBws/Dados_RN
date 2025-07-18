@@ -1,0 +1,44 @@
+DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - Brasil
+Casos Prováveis por Mês notificação e UF de residência
+Período:2023
+"Mês notificação";"RO";"AC";"AM";"RR";"PA";"AP";"TO";"MA";"PI";"CE";"RN";"PB";"PE";"AL";"SE";"BA";"MG";"ES";"RJ";"SP";"PR";"SC";"RS";"MS";"MT";"GO";"DF";"IG";"Total"
+"Janeiro";2847;563;773;6;699;63;374;341;280;645;446;406;279;225;166;3253;14862;23;1214;13131;2109;280;65;2548;2240;6066;2643;1;56548
+"Fevereiro";2481;785;869;11;834;69;423;685;628;1024;475;493;435;236;224;4952;41462;28;2814;33840;7420;2031;432;5856;3692;7603;3226;-;123028
+"Marco";2290;1100;614;5;1029;85;594;1363;1469;2383;796;1002;1330;393;293;5937;91945;55;6639;83951;37630;18798;4202;11654;5073;10829;4395;4;295858
+"Abril";1135;740;543;7;710;61;659;815;1531;1989;1724;1370;1221;619;269;5451;102135;39;7666;95912;70612;50239;12754;11671;5404;10288;4212;-;389776
+"Maio";639;476;537;13;562;45;512;593;1497;2846;1211;1064;785;595;314;6437;74528;41;7860;63687;53999;44045;13494;8168;4711;9262;4208;-;302129
+"Junho";323;188;311;12;452;77;230;292;850;1815;568;676;590;537;440;5943;22128;22;5264;16274;14438;15894;4701;2587;2306;4363;2711;-;103992
+"Julho";193;147;436;14;293;82;96;302;527;1302;468;460;611;543;403;5256;6287;10;2743;4688;3973;5099;1125;1173;1247;2509;1725;1;41713
+"Agosto";157;148;276;63;374;238;73;209;272;1168;374;367;628;447;306;3753;3659;4;2305;3152;2134;1569;360;469;817;2753;1878;2;27955
+"Setembro";114;130;294;55;237;254;54;120;166;495;355;341;463;339;166;2120;3181;7;1497;2879;1524;685;125;246;526;3115;1664;-;21152
+"Outubro";223;254;298;19;231;102;43;87;118;360;416;345;533;314;152;1611;5204;7;1776;3734;2134;565;295;301;638;3436;1371;-;24567
+"Novembro";142;783;420;9;213;79;92;109;111;240;463;360;513;291;90;1400;12141;4;3048;5217;3990;617;417;263;832;4191;2408;-;38443
+"Dezembro";178;1834;981;19;243;75;95;84;129;191;382;344;566;225;57;1513;28641;12;7050;10338;9601;1613;726;299;1117;6788;10391;-;83492
+"Total";10722;7148;6352;233;5877;1230;3245;5000;7578;14458;7678;7228;7954;4764;2880;47626;406173;252;49876;336803;209564;141435;38696;45235;28603;71203;40832;8;1508653
+ Fonte: Ministério da Saúde/SVSA - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Para os casos prováveis foram incluídas todas notificações, exceto casos descartados.
+ As bases de dados de dengue aqui disponíveis compõem um banco único a partir de 2014, podendo haver pequenas divergências com os dados disponibilizados pelo CGARB
+ (Coordenação Geral de Vigilância de Arboviroses - CGARB) em sua série histórica, que para tal, realiza análise ano a ano, com a base congelada para cada ano analisado.
+ Para tabular os casos graves (classificação final igual a dengue com complicações, febre hemorrágica da dengue, síndrome do choque da dengue, dengue com sinais de
+ alarme e dengue grave) é necessário considerar também o critério de confirmação (laboratorial e clínico-epidemiológico).
+ A partir de 2020 o estado do Espírito Santo passou a utilizar o sistema e-SUS Vigilância em Saúde. Portanto, para os casos de Arboviroses urbanas do Espírito Santo
+ foram considerados apenas os dados disponibilizados pelo Sinan online (dengue e chikungunya) e Sinan Net (zika).
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos e semana epidemiológica, em cada período pode apresentar notificações com data de
+ notificação do ano anterior (semana epidemiológica 52 ou 53) e posterior (semana epidemiológica 01).
+ Para cálculo da incidência recomenda-se utilizar locais de residência.
+ Dados de 2014 atualizados em 13/07/2015.
+ Dados de 2015 atualizados em 27/09/2016.
+ Dados de 2016 atualizados em 06/07/2017.
+ Dados de 2017 atualizados em 18/07/2018.
+ Dados de 2018 atualizados em 01/10/2019.
+ Dados de 2019 atualizados em 10/07/2020.
+ Dados de 2020 atualizados em 23/07/2021.
+ Dados de 2021 atualizados em 12/07/2022.
+ Dados de 2022 atualizados em 18/07/2023.
+ Dados de 2023 atualizados em 04/06/2024 às 07 horas.
+ Dados de 2024 atualizados em 26/05/2025 às 10:00 horas, sujeitos à revisão.
+ Dados de 2025 atualizados em 07/07/2025 às 10:00 horas, sujeitos à revisão.
+ * Dados disponibilizados no TABNET em julho de 2025.
+ 

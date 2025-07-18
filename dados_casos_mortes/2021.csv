@@ -1,0 +1,44 @@
+DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - Brasil
+Casos Prováveis por Mês notificação e UF de residência
+Período:2021
+"Mês notificação";"RO";"AC";"AM";"RR";"PA";"AP";"TO";"MA";"PI";"CE";"RN";"PB";"PE";"AL";"SE";"BA";"MG";"ES";"RJ";"SP";"PR";"SC";"RS";"MS";"MT";"GO";"DF";"IG";"Total"
+"Janeiro";252;4070;565;8;233;22;91;202;66;335;80;164;342;45;22;1130;1620;4;73;4675;2474;66;89;835;1157;2535;718;2;21875
+"Fevereiro";329;4215;1071;10;375;17;129;208;139;766;159;314;784;48;16;3582;2701;-;158;16861;4125;222;379;1990;2326;4377;985;1;46287
+"Marco";284;3198;1608;11;630;20;257;133;201;1386;150;456;1648;66;20;5146;4689;1;334;35154;7269;1638;1702;2494;2543;6359;1532;3;78932
+"Abril";197;908;1365;16;536;20;412;101;349;2782;233;735;2344;100;30;5070;3836;12;644;48838;11278;6651;5362;2432;2508;8843;2161;9;107772
+"Maio";178;420;969;20;391;20;557;132;489;6090;427;1412;6172;210;39;4212;2768;7;457;27810;6088;7934;2922;1127;2827;8821;2846;9;85354
+"Junho";152;167;688;21;307;16;567;100;644;8547;592;2272;7844;708;71;2017;1761;1;382;10228;1764;2379;257;349;2336;6074;2350;8;52602
+"Julho";84;116;556;10;200;13;378;69;594;7157;475;2819;7095;1394;159;897;813;4;229;3062;494;320;55;113;1326;2987;1046;13;32478
+"Agosto";50;118;348;7;163;42;310;69;657;4075;454;2234;3845;1527;143;474;610;-;167;1610;282;118;17;81;629;1855;550;4;20439
+"Setembro";23;171;210;1;108;45;265;66;306;1640;334;1965;2574;1366;106;333;583;-;113;1425;245;43;24;73;478;1541;515;5;14558
+"Outubro";51;281;185;3;107;23;344;46;96;948;313;1473;1534;938;58;290;524;-;68;1253;180;30;18;85;678;1830;511;3;11870
+"Novembro";224;410;354;9;478;21;1380;61;134;804;308;1066;1072;662;52;532;822;-;88;1952;231;48;14;119;1567;4202;783;5;17398
+"Dezembro";496;888;407;-;1608;21;4882;181;322;921;316;1189;1177;554;48;1411;1551;3;133;5030;292;59;39;239;3986;14338;2328;7;42426
+"Total";2320;14962;8326;116;5136;280;9572;1368;3997;35451;3841;16099;36431;7618;764;25094;22278;32;2846;157898;34722;19508;10878;9937;22361;63762;16325;69;531991
+ Fonte: Ministério da Saúde/SVSA - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Para os casos prováveis foram incluídas todas notificações, exceto casos descartados.
+ As bases de dados de dengue aqui disponíveis compõem um banco único a partir de 2014, podendo haver pequenas divergências com os dados disponibilizados pelo CGARB
+ (Coordenação Geral de Vigilância de Arboviroses - CGARB) em sua série histórica, que para tal, realiza análise ano a ano, com a base congelada para cada ano analisado.
+ Para tabular os casos graves (classificação final igual a dengue com complicações, febre hemorrágica da dengue, síndrome do choque da dengue, dengue com sinais de
+ alarme e dengue grave) é necessário considerar também o critério de confirmação (laboratorial e clínico-epidemiológico).
+ A partir de 2020 o estado do Espírito Santo passou a utilizar o sistema e-SUS Vigilância em Saúde. Portanto, para os casos de Arboviroses urbanas do Espírito Santo
+ foram considerados apenas os dados disponibilizados pelo Sinan online (dengue e chikungunya) e Sinan Net (zika).
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos e semana epidemiológica, em cada período pode apresentar notificações com data de
+ notificação do ano anterior (semana epidemiológica 52 ou 53) e posterior (semana epidemiológica 01).
+ Para cálculo da incidência recomenda-se utilizar locais de residência.
+ Dados de 2014 atualizados em 13/07/2015.
+ Dados de 2015 atualizados em 27/09/2016.
+ Dados de 2016 atualizados em 06/07/2017.
+ Dados de 2017 atualizados em 18/07/2018.
+ Dados de 2018 atualizados em 01/10/2019.
+ Dados de 2019 atualizados em 10/07/2020.
+ Dados de 2020 atualizados em 23/07/2021.
+ Dados de 2021 atualizados em 12/07/2022.
+ Dados de 2022 atualizados em 18/07/2023.
+ Dados de 2023 atualizados em 04/06/2024 às 07 horas.
+ Dados de 2024 atualizados em 26/05/2025 às 10:00 horas, sujeitos à revisão.
+ Dados de 2025 atualizados em 07/07/2025 às 10:00 horas, sujeitos à revisão.
+ * Dados disponibilizados no TABNET em julho de 2025.
+ 
