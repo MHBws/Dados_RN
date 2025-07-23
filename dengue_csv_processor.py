@@ -4,9 +4,13 @@ import os
 import re
 from typing import List, Dict, Any, Optional
 from io import StringIO
+import mysql.connector
+from mysql.connector import Error
+import json
+from datetime import datetime
 
 class DengueCSVProcessor:
-    def __init__(self):
+    def __init__(self, mysql_config: Optional[Dict] = None):
         self.meses_map = {
             'Janeiro': 'Janeiro',
             'Fevereiro': 'Fevereiro',
@@ -50,23 +54,299 @@ class DengueCSVProcessor:
         
         # Dados consolidados por ano/mês/estado
         self.dados_consolidados = {}
+        
+        # Configuração do MySQL
+        self.mysql_config = mysql_config or {
+            'host': 'localhost',
+            'user': 'root',
+            'password': 'spfc@633',
+            'database': 'dengue_db',
+            'port': 3306
+        }
+        
+        # Conexão MySQL
+        self.connection = None
     
+    def create_mysql_connection(self) -> bool:
+        """Cria conexão com o banco MySQL"""
+        try:
+            self.connection = mysql.connector.connect(**self.mysql_config)
+            
+            if self.connection.is_connected():
+                print(f"Conectado ao MySQL Server versão {self.connection.get_server_info()}")
+                return True
+        except Error as e:
+            print(f"Erro ao conectar ao MySQL: {e}")
+            return False
+    
+    def close_mysql_connection(self):
+        """Fecha conexão com o banco MySQL"""
+        if self.connection and self.connection.is_connected():
+            self.connection.close()
+            print("Conexão MySQL fechada.")
+    
+    def create_database_and_tables(self) -> bool:
+        """Cria o banco de dados e tabelas necessárias"""
+        try:
+            if not self.connection:
+                # Conecta sem especificar database para criar o banco
+                temp_config = self.mysql_config.copy()
+                temp_config.pop('database', None)
+                temp_connection = mysql.connector.connect(**temp_config)
+                cursor = temp_connection.cursor()
+                
+                # Cria o banco de dados se não existir
+                cursor.execute(f"CREATE DATABASE IF NOT EXISTS {self.mysql_config['database']}")
+                print(f"Banco de dados '{self.mysql_config['database']}' criado/verificado.")
+                
+                cursor.close()
+                temp_connection.close()
+                
+                # Agora conecta ao banco específico
+                self.create_mysql_connection()
+            
+            cursor = self.connection.cursor()
+            
+            # Cria tabela principal de dados dengue
+            create_dengue_table = """
+            CREATE TABLE IF NOT EXISTS dengue_dados (
+                id INT AUTO_INCREMENT PRIMARY KEY,
+                ano INT NOT NULL,
+                mes VARCHAR(20) NOT NULL,
+                estado VARCHAR(2) NOT NULL,
+                casos INT DEFAULT 0,
+                mortes INT DEFAULT 0,
+                temperatura DECIMAL(5,2) DEFAULT 0.00,
+                precipitacao DECIMAL(8,2) DEFAULT 0.00,
+                data_criacao TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+                data_atualizacao TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+                UNIQUE KEY unique_record (ano, mes, estado),
+                INDEX idx_ano (ano),
+                INDEX idx_estado (estado),
+                INDEX idx_ano_mes (ano, mes)
+            ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci
+            """
+            
+            # Cria tabela de log de processamento
+            create_log_table = """
+            CREATE TABLE IF NOT EXISTS processamento_log (
+                id INT AUTO_INCREMENT PRIMARY KEY,
+                arquivo VARCHAR(255),
+                tipo_dados VARCHAR(20),
+                ano INT,
+                registros_processados INT,
+                status VARCHAR(20),
+                mensagem TEXT,
+                data_processamento TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+            ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci
+            """
+            
+            # Cria tabela de estatísticas
+            create_stats_table = """
+            CREATE TABLE IF NOT EXISTS estatisticas (
+                id INT AUTO_INCREMENT PRIMARY KEY,
+                total_registros INT,
+                anos_processados JSON,
+                estados_processados JSON,
+                total_casos INT,
+                total_mortes INT,
+                data_atualizacao TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+            ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci
+            """
+            
+            cursor.execute(create_dengue_table)
+            cursor.execute(create_log_table)
+            cursor.execute(create_stats_table)
+            
+            self.connection.commit()
+            print("Tabelas criadas/verificadas com sucesso.")
+            cursor.close()
+            return True
+            
+        except Error as e:
+            print(f"Erro ao criar banco e tabelas: {e}")
+            return False
+    
+    def insert_data_to_mysql(self) -> bool:
+        """Insere dados consolidados no MySQL"""
+        if not self.connection:
+            print("Não há conexão com o MySQL.")
+            return False
+        
+        try:
+            cursor = self.connection.cursor()
+            consolidated_data = self.get_consolidated_data()
+            
+            if not consolidated_data:
+                print("Nenhum dado consolidado para inserir no MySQL.")
+                return False
+            
+            # Query para inserir ou atualizar dados
+            insert_query = """
+            INSERT INTO dengue_dados (ano, mes, estado, casos, mortes, temperatura, precipitacao)
+            VALUES (%(Ano)s, %(Mes)s, %(Estado)s, %(Casos)s, %(Mortes)s, %(Temperatura)s, %(Precipitacao)s)
+            ON DUPLICATE KEY UPDATE
+                casos = VALUES(casos),
+                mortes = VALUES(mortes),
+                temperatura = VALUES(temperatura),
+                precipitacao = VALUES(precipitacao),
+                data_atualizacao = CURRENT_TIMESTAMP
+            """
+            
+            # Insere dados em lotes
+            batch_size = 1000
+            total_inserted = 0
+            
+            for i in range(0, len(consolidated_data), batch_size):
+                batch = consolidated_data[i:i+batch_size]
+                cursor.executemany(insert_query, batch)
+                total_inserted += cursor.rowcount
+                
+                if (i + batch_size) % 5000 == 0:
+                    print(f"Processados {i + batch_size} registros...")
+            
+            self.connection.commit()
+            print(f"Dados inseridos no MySQL com sucesso! Total de registros afetados: {total_inserted}")
+            
+            # Atualiza estatísticas
+            self.update_statistics()
+            
+            cursor.close()
+            return True
+            
+        except Error as e:
+            print(f"Erro ao inserir dados no MySQL: {e}")
+            self.connection.rollback()
+            return False
+    
+    def update_statistics(self):
+        """Atualiza tabela de estatísticas"""
+        try:
+            cursor = self.connection.cursor()
+            
+            # Calcula estatísticas
+            stats_query = """
+            SELECT 
+                COUNT(*) as total_registros,
+                SUM(casos) as total_casos,
+                SUM(mortes) as total_mortes
+            FROM dengue_dados
+            """
+            cursor.execute(stats_query)
+            total_registros, total_casos, total_mortes = cursor.fetchone()
+            
+            # Anos processados
+            cursor.execute("SELECT DISTINCT ano FROM dengue_dados ORDER BY ano")
+            anos_processados = [row[0] for row in cursor.fetchall()]
+            
+            # Estados processados
+            cursor.execute("SELECT DISTINCT estado FROM dengue_dados ORDER BY estado")
+            estados_processados = [row[0] for row in cursor.fetchall()]
+            
+            # Remove estatísticas antigas
+            cursor.execute("DELETE FROM estatisticas")
+            
+            # Insere novas estatísticas
+            insert_stats = """
+            INSERT INTO estatisticas (total_registros, anos_processados, estados_processados, total_casos, total_mortes)
+            VALUES (%s, %s, %s, %s, %s)
+            """
+            
+            cursor.execute(insert_stats, (
+                total_registros,
+                json.dumps(anos_processados),
+                json.dumps(estados_processados),
+                total_casos or 0,
+                total_mortes or 0
+            ))
+            
+            self.connection.commit()
+            cursor.close()
+            print("Estatísticas atualizadas no MySQL.")
+            
+        except Error as e:
+            print(f"Erro ao atualizar estatísticas: {e}")
+    
+    def log_processing(self, arquivo: str, tipo_dados: str, ano: int, registros_processados: int, status: str, mensagem: str = ""):
+        """Registra log de processamento no MySQL"""
+        try:
+            cursor = self.connection.cursor()
+            
+            log_query = """
+            INSERT INTO processamento_log (arquivo, tipo_dados, ano, registros_processados, status, mensagem)
+            VALUES (%s, %s, %s, %s, %s, %s)
+            """
+            
+            cursor.execute(log_query, (arquivo, tipo_dados, ano, registros_processados, status, mensagem))
+            self.connection.commit()
+            cursor.close()
+            
+        except Error as e:
+            print(f"Erro ao registrar log: {e}")
+    
+    def get_mysql_statistics(self) -> Dict:
+        """Retorna estatísticas do banco MySQL"""
+        if not self.connection:
+            return {}
+        
+        try:
+            cursor = self.connection.cursor(dictionary=True)
+            
+            cursor.execute("SELECT * FROM estatisticas ORDER BY data_atualizacao DESC LIMIT 1")
+            stats = cursor.fetchone()
+            
+            if stats:
+                # Converte JSON strings de volta para listas
+                stats['anos_processados'] = json.loads(stats['anos_processados'])
+                stats['estados_processados'] = json.loads(stats['estados_processados'])
+            
+            cursor.close()
+            return stats or {}
+            
+        except Error as e:
+            print(f"Erro ao buscar estatísticas: {e}")
+            return {}
+    
+    def export_mysql_to_csv(self, output_file: str = "dengue_from_mysql.csv") -> bool:
+        """Exporta dados do MySQL para CSV"""
+        if not self.connection:
+            print("Não há conexão com o MySQL.")
+            return False
+        
+        try:
+            query = """
+            SELECT ano, mes, estado, casos, mortes, temperatura, precipitacao, 
+                   data_criacao, data_atualizacao
+            FROM dengue_dados
+            ORDER BY ano, FIELD(mes, 'Janeiro', 'Fevereiro', 'Marco', 'Abril', 'Maio', 'Junho',
+                               'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'), estado
+            """
+            
+            df = pd.read_sql(query, self.connection)
+            df.to_csv(output_file, index=False, encoding='utf-8')
+            
+            print(f"Dados exportados do MySQL para: {output_file}")
+            print(f"Total de registros exportados: {len(df)}")
+            
+            return True
+            
+        except Error as e:
+            print(f"Erro ao exportar dados do MySQL: {e}")
+            return False
+    
+    # Métodos originais mantidos (extract_year_from_filename, detect_data_type, etc.)
     def extract_year_from_filename(self, filename: str) -> int:
         """Extrai o ano do nome do arquivo"""
-        # Remove extensão
         filename_without_ext = filename.replace('.csv', '').replace('.CSV', '')
         
-        # Para arquivos de mortes (ex: 2022d.csv), remove o 'd'
         if filename_without_ext.endswith('d'):
             year_str = filename_without_ext[:-1]
         else:
             year_str = filename_without_ext
         
-        # Extrai o ano
         if re.match(r'^\d{4}$', year_str):
             return int(year_str)
         else:
-            # Fallback: procura por 4 dígitos consecutivos
             match = re.search(r'(\d{4})', filename)
             if match:
                 return int(match.group(1))
@@ -76,19 +356,13 @@ class DengueCSVProcessor:
     def detect_data_type(self, filepath: str) -> str:
         """Detecta se o arquivo contém dados de casos ou mortes baseado no nome do arquivo"""
         filename = os.path.basename(filepath).lower()
-        
-        # Remove extensão para análise
         filename_without_ext = filename.replace('.csv', '')
         
-        # Identifica por padrão do nome:
-        # - Casos: apenas ano (ex: 2020.csv)
-        # - Mortes: ano + 'd' (ex: 2022d.csv)
         if filename_without_ext.endswith('d'):
             return 'mortes'
         elif re.match(r'^\d{4}$', filename_without_ext):
             return 'casos'
         else:
-            # Fallback: tenta detectar pelo conteúdo do arquivo
             print(f"Aviso: Padrão de nome não reconhecido para {filename}, tentando detectar pelo conteúdo...")
             try:
                 with open(filepath, 'r', encoding='utf-8') as f:
@@ -111,15 +385,12 @@ class DengueCSVProcessor:
         """Verifica se uma coluna deve ser ignorada"""
         column_upper = str(column_name).upper().strip().replace('"', '')
         
-        # Verifica se está na lista de colunas ignoradas
         if column_upper in self.colunas_ignoradas:
             return True
         
-        # Verifica padrões específicos
         if any(keyword in column_upper for keyword in ['TOTAL', 'IGNORADO', 'EXTERIOR']):
             return True
         
-        # Verifica se começa com "00" (código de ignorado/exterior)
         if column_upper.startswith('00'):
             return True
         
@@ -129,24 +400,19 @@ class DengueCSVProcessor:
         """Remove o código numérico do nome do estado e retorna a sigla UF"""
         state_column = str(state_column).strip().replace('"', '')
         
-        # Verifica se deve ser ignorado
         if self.should_ignore_column(state_column):
             return None
         
-        # Verifica se é uma sigla direta (2 caracteres)
         if len(state_column) == 2 and state_column.isalpha():
             return state_column.upper()
         
-        # Extrai código numérico do início
         match = re.match(r'(\d{2})', state_column)
         if match:
             code = match.group(1)
-            # Verifica se é código de ignorado/exterior
             if code == '00':
                 return None
             return self.estados_map.get(code, code)
         
-        # Verifica se contém nome do estado
         state_upper = state_column.upper()
         for uf, nome in self.estados_nomes.items():
             if nome.upper() in state_upper:
@@ -172,12 +438,10 @@ class DengueCSVProcessor:
         for i, line in enumerate(lines):
             line_clean = line.strip()
             
-            # Procura pelo cabeçalho
             if any(keyword in line for keyword in ['Mês notificação', 'Mes notificacao', 'Mês', 'Mes']):
                 header_line = i
                 continue
             
-            # Procura pelo início dos dados
             if line_clean.startswith('"Janeiro"') or line_clean.startswith('Janeiro'):
                 data_start = i
                 break
@@ -188,14 +452,12 @@ class DengueCSVProcessor:
         """Processa um único arquivo CSV"""
         print(f"Processando arquivo: {filepath}")
         
-        # Detecta tipo de dados e extrai ano
         data_type = self.detect_data_type(filepath)
         year = self.extract_year_from_filename(os.path.basename(filepath))
         
         print(f"Tipo de dados detectado: {data_type}")
         print(f"Ano: {year}")
         
-        # Lê o arquivo
         try:
             with open(filepath, 'r', encoding='utf-8') as f:
                 lines = f.readlines()
@@ -203,21 +465,21 @@ class DengueCSVProcessor:
             with open(filepath, 'r', encoding='latin1') as f:
                 lines = f.readlines()
         
-        # Encontra cabeçalho e início dos dados
         header_line, data_start = self.find_data_section(lines)
         
         if data_start is None:
             print(f"Não foi possível encontrar dados em {filepath}")
+            if self.connection:
+                self.log_processing(os.path.basename(filepath), data_type, year, 0, "ERRO", 
+                                  "Não foi possível encontrar dados")
             return []
         
-        # Extrai o cabeçalho
         if header_line is not None:
             header = lines[header_line].strip()
         else:
             header = lines[data_start].strip()
             header = header.replace('"Janeiro"', '"Mês notificação"').replace('Janeiro', 'Mês notificação')
         
-        # Coleta linhas de dados
         data_lines = []
         for i in range(data_start, len(lines)):
             line = lines[i].strip()
@@ -229,29 +491,30 @@ class DengueCSVProcessor:
         
         if not data_lines:
             print(f"Nenhuma linha de dados encontrada em {filepath}")
+            if self.connection:
+                self.log_processing(os.path.basename(filepath), data_type, year, 0, "ERRO", 
+                                  "Nenhuma linha de dados encontrada")
             return []
         
-        # Processa dados
         csv_content = header + '\n' + '\n'.join(data_lines)
         
         try:
             df = pd.read_csv(StringIO(csv_content), sep=';')
         except Exception as e:
             print(f"Erro ao ler CSV: {e}")
+            if self.connection:
+                self.log_processing(os.path.basename(filepath), data_type, year, 0, "ERRO", str(e))
             return []
         
-        # Identifica colunas a serem removidas
         columns_to_remove = []
         for col in df.columns:
             if self.should_ignore_column(str(col)):
                 columns_to_remove.append(col)
                 print(f"Coluna '{col}' será ignorada")
         
-        # Remove colunas indesejadas
         if columns_to_remove:
             df = df.drop(columns=columns_to_remove, errors='ignore')
         
-        # Processa dados
         records = []
         for idx, row in df.iterrows():
             mes_original = str(row.iloc[0]).strip().replace('"', '')
@@ -264,13 +527,11 @@ class DengueCSVProcessor:
             for col_name in df.columns[1:]:
                 estado_uf = self.clean_state_name(str(col_name))
                 
-                # Pula se o estado deve ser ignorado
                 if estado_uf is None:
                     continue
                 
                 valor = self.clean_data_value(row[col_name])
                 
-                # Cria chave única para consolidação
                 key = (year, mes, estado_uf)
                 
                 if key not in self.dados_consolidados:
@@ -284,7 +545,6 @@ class DengueCSVProcessor:
                         'Precipitacao': 0.0
                     }
                 
-                # Atualiza dados baseado no tipo
                 if data_type == 'casos':
                     self.dados_consolidados[key]['Casos'] = valor
                 elif data_type == 'mortes':
@@ -299,6 +559,11 @@ class DengueCSVProcessor:
                 })
         
         print(f"Processados {len(records)} registros do tipo {data_type}")
+        
+        # Log no MySQL se conectado
+        if self.connection:
+            self.log_processing(os.path.basename(filepath), data_type, year, len(records), "SUCESSO")
+        
         return records
     
     def process_multiple_csvs(self, csv_directory: str, pattern: str = "*.csv") -> List[Dict]:
@@ -319,6 +584,13 @@ class DengueCSVProcessor:
                 print(f"Arquivo {os.path.basename(csv_file)} processado com sucesso.")
             except Exception as e:
                 print(f"Erro ao processar {csv_file}: {str(e)}")
+                if self.connection:
+                    year = 0
+                    try:
+                        year = self.extract_year_from_filename(os.path.basename(csv_file))
+                    except:
+                        pass
+                    self.log_processing(os.path.basename(csv_file), "unknown", year, 0, "ERRO", str(e))
                 continue
         
         return all_records
@@ -337,21 +609,18 @@ class DengueCSVProcessor:
         
         df = pd.DataFrame(consolidated_data)
         
-        # Ordena por ano, mês e estado
-        meses_ordem = ['Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho',
+        meses_ordem = ['Janeiro', 'Fevereiro', 'Marco', 'Abril', 'Maio', 'Junho',
                        'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro']
         
         df['Mes_ordem'] = df['Mes'].map({mes: i for i, mes in enumerate(meses_ordem)})
         df = df.sort_values(['Ano', 'Mes_ordem', 'Estado'])
         df = df.drop('Mes_ordem', axis=1)
         
-        # Reordena colunas
         df = df[['Ano', 'Mes', 'Estado', 'Casos', 'Mortes', 'Temperatura', 'Precipitacao']]
         
         df.to_csv(output_file, index=False, encoding='utf-8')
         print(f"Dados consolidados salvos em: {output_file}")
         
-        # Estatísticas
         print(f"\nEstatísticas dos dados consolidados:")
         print(f"Total de registros: {len(df)}")
         print(f"Anos: {sorted(df['Ano'].unique())}")
@@ -388,11 +657,10 @@ class DengueCSVProcessor:
         """Normaliza nomes de meses para o padrão usado no sistema"""
         month_name = str(month_name).strip()
         
-        # Mapeamento de variações de nomes de meses
         month_mapping = {
             'Marco': 'Marco',
-            'Março': 'Marco',  # Corrige acentuação
-            'Mar o': 'Marco',  # Corrige encoding
+            'Março': 'Marco',
+            'Mar o': 'Marco',
             'Maio': 'Maio',
             'Junho': 'Junho',
             'Julho': 'Julho',
@@ -411,11 +679,10 @@ class DengueCSVProcessor:
         """Normaliza nomes de estados para siglas UF"""
         state_name = str(state_name).strip()
         
-        # Mapeamento de nomes para siglas
         state_mapping = {
             'Distrito Federal': 'DF',
             'Goiás': 'GO',
-            'Goi s': 'GO',  # Corrige encoding
+            'Goi s': 'GO',
             'Goias': 'GO',
             'São Paulo': 'SP',
             'Sao Paulo': 'SP',
@@ -551,38 +818,131 @@ class DengueCSVProcessor:
             import traceback
             traceback.print_exc()
 
+    def execute_full_pipeline_with_mysql(self, csv_directory: str, climate_file: str = "output.csv", 
+                                       csv_output: str = "dengue_consolidado.csv"):
+        """Executa todo o pipeline incluindo criação e inserção no MySQL"""
+        print("=== INICIANDO PIPELINE COMPLETO COM MYSQL ===")
+        
+        # 1. Conecta ao MySQL
+        print("\n1. Conectando ao MySQL...")
+        if not self.create_mysql_connection():
+            print("Falha na conexão. Continuando apenas com CSV...")
+            return self.execute_csv_only_pipeline(csv_directory, climate_file, csv_output)
+        
+        # 2. Cria banco e tabelas
+        print("\n2. Criando banco de dados e tabelas...")
+        if not self.create_database_and_tables():
+            print("Falha na criação do banco. Continuando apenas com CSV...")
+            self.close_mysql_connection()
+            return self.execute_csv_only_pipeline(csv_directory, climate_file, csv_output)
+        
+        # 3. Processa CSVs
+        print(f"\n3. Processando arquivos CSV do diretório: {csv_directory}")
+        try:
+            all_records = self.process_multiple_csvs(csv_directory)
+            print(f"Total de registros processados: {len(all_records)}")
+        except Exception as e:
+            print(f"Erro no processamento de CSVs: {e}")
+            self.close_mysql_connection()
+            return False
+        
+        # 4. Adiciona dados climáticos
+        if os.path.exists(climate_file):
+            print(f"\n4. Adicionando dados climáticos de: {climate_file}")
+            self.add_climate_data(climate_file)
+        else:
+            print(f"\n4. Arquivo climático não encontrado: {climate_file}. Continuando sem dados climáticos.")
+        
+        # 5. Salva CSV consolidado
+        print(f"\n5. Salvando CSV consolidado: {csv_output}")
+        df_consolidado = self.save_consolidated_to_csv(csv_output)
+        
+        # 6. Insere dados no MySQL
+        print("\n6. Inserindo dados no MySQL...")
+        if self.insert_data_to_mysql():
+            print("Dados inseridos no MySQL com sucesso!")
+        else:
+            print("Falha na inserção no MySQL.")
+        
+        # 7. Exibe estatísticas do MySQL
+        print("\n7. Estatísticas do MySQL:")
+        mysql_stats = self.get_mysql_statistics()
+        if mysql_stats:
+            print(f"   Total de registros no MySQL: {mysql_stats.get('total_registros', 0)}")
+            print(f"   Total de casos no MySQL: {mysql_stats.get('total_casos', 0):,}")
+            print(f"   Total de mortes no MySQL: {mysql_stats.get('total_mortes', 0):,}")
+            print(f"   Anos processados: {mysql_stats.get('anos_processados', [])}")
+            print(f"   Estados processados: {len(mysql_stats.get('estados_processados', []))} estados")
+            print(f"   Última atualização: {mysql_stats.get('data_atualizacao', 'N/A')}")
+        
+        # 8. Opcional: Exporta do MySQL para CSV (verificação)
+        verification_file = "verificacao_mysql.csv"
+        print(f"\n8. Exportando dados do MySQL para verificação: {verification_file}")
+        self.export_mysql_to_csv(verification_file)
+        
+        # 9. Fecha conexão
+        print("\n9. Fechando conexão MySQL...")
+        self.close_mysql_connection()
+        
+        print("\n=== PIPELINE COMPLETO FINALIZADO COM SUCESSO ===")
+        return True
+
+    def execute_csv_only_pipeline(self, csv_directory: str, climate_file: str = "output.csv", 
+                                 csv_output: str = "dengue_consolidado.csv"):
+        """Executa pipeline apenas com CSV (fallback)"""
+        print("=== EXECUTANDO PIPELINE APENAS COM CSV ===")
+        
+        # Processa CSVs
+        print(f"\nProcessando arquivos CSV do diretório: {csv_directory}")
+        all_records = self.process_multiple_csvs(csv_directory)
+        
+        # Adiciona dados climáticos
+        if os.path.exists(climate_file):
+            print(f"\nAdicionando dados climáticos de: {climate_file}")
+            self.add_climate_data(climate_file)
+        
+        # Salva CSV consolidado
+        if self.dados_consolidados:
+            df_final = self.save_consolidated_to_csv(csv_output)
+            print("\n=== PIPELINE CSV FINALIZADO ===")
+            return True
+        else:
+            print("Nenhum dado foi processado!")
+            return False
+
 if __name__ == "__main__":
-    processor = DengueCSVProcessor()
+    # Configuração do MySQL - AJUSTE CONFORME SUA CONFIGURAÇÃO
+    mysql_config = {
+        'host': 'localhost',          # Servidor MySQL
+        'user': 'root',               # Usuário MySQL
+        'password': 'spfc@633',       # Senha MySQL (deixe vazio se não houver)
+        'database': 'dengue_db',      # Nome do banco de dados
+        'port': 3306                  # Porta MySQL
+    }
+    
+    # Inicializa processador com configuração MySQL
+    processor = DengueCSVProcessor(mysql_config)
     
     # Configura diretório dos dados
     dados_dir = "./dados_casos_mortes"
     
-    # Debug - mostra estrutura do primeiro arquivo
-    csv_files = glob.glob(os.path.join(dados_dir, "*.csv"))
-    if csv_files:
-        processor.show_file_structure(csv_files[0])
-    
-    # Processar múltiplos arquivos
-    print("\n=== Processando arquivos CSV ===")
-    all_records = processor.process_multiple_csvs(dados_dir)
-    
-    # Adicionar dados climáticos automaticamente
-    climate_file = "output.csv"
-    if os.path.exists(climate_file):
-        print(f"\n=== Adicionando dados climáticos de {climate_file} ===")
-        processor.add_climate_data(climate_file)
-    else:
-        print(f"\nAviso: Arquivo {climate_file} não encontrado. Continuando sem dados climáticos.")
-    
-    # Salvar dados consolidados
-    if processor.dados_consolidados:
-        df_final = processor.save_consolidated_to_csv("dengue_consolidado.csv")
+    # Executa pipeline completo
+    if os.path.exists(dados_dir):
+        success = processor.execute_full_pipeline_with_mysql(
+            csv_directory=dados_dir,
+            climate_file="output.csv",
+            csv_output="dengue_consolidado_final.csv"
+        )
         
-        # Mostrar amostra dos dados
-        print("\n=== Amostra dos dados consolidados ===")
-        print(df_final.head(10))
-        
-        # Salvar versão final
-        processor.save_consolidated_to_csv("dengue_final_com_clima.csv")
+        if success:
+            print("\nProcessamento concluído com sucesso!")
+        else:
+            print("\nHouve problemas no processamento.")
     else:
-        print("Nenhum dado foi processado!")
+        print(f"Diretório não encontrado: {dados_dir}")
+        
+        # Debug - mostra estrutura de arquivos se houver
+        csv_files = glob.glob("*.csv")
+        if csv_files:
+            print(f"Arquivos CSV encontrados na raiz: {csv_files}")
+            processor.show_file_structure(csv_files[0])
